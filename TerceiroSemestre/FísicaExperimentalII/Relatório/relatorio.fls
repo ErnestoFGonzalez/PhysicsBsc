@@ -1,0 +1,260 @@
+PWD C:\Users\efg32\OneDrive\Documentos\Faculdade\TerceiroSemestre\FísicaExperimentalII\Relatório
+INPUT C:\Users\efg32\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT relatorio.tex
+OUTPUT relatorio.log
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlepic\titlepic.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlepic\titlepic.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT relatorio.aux
+INPUT relatorio.aux
+OUTPUT relatorio.aux
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT logoCiencias.png
+INPUT .\logoCiencias.png
+OUTPUT relatorio.pdf
+INPUT .\logoCiencias.png
+INPUT .\logoCiencias.png
+INPUT .\logoCiencias.png
+INPUT C:\Users\efg32\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT relatorio.toc
+INPUT relatorio.toc
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT relatorio.toc
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT FIGBARRA.png
+INPUT .\FIGBARRA.png
+INPUT .\FIGBARRA.png
+INPUT .\FIGBARRA.png
+INPUT .\FIGBARRA.png
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT i4lfem.png
+INPUT .\i4lfem.png
+INPUT .\i4lfem.png
+INPUT .\i4lfem.png
+INPUT .\i4lfem.png
+INPUT i6lfem.png
+INPUT .\i6lfem.png
+INPUT .\i6lfem.png
+INPUT .\i6lfem.png
+INPUT .\i6lfem.png
+INPUT i8lfem.png
+INPUT .\i8lfem.png
+INPUT .\i8lfem.png
+INPUT .\i8lfem.png
+INPUT .\i8lfem.png
+INPUT i10lfem.png
+INPUT .\i10lfem.png
+INPUT .\i10lfem.png
+INPUT .\i10lfem.png
+INPUT .\i10lfem.png
+INPUT i12lfem.png
+INPUT .\i12lfem.png
+INPUT .\i12lfem.png
+INPUT .\i12lfem.png
+INPUT .\i12lfem.png
+INPUT i16lfem.png
+INPUT .\i16lfem.png
+INPUT .\i16lfem.png
+INPUT .\i16lfem.png
+INPUT .\i16lfem.png
+INPUT i4rfem.png
+INPUT .\i4rfem.png
+INPUT .\i4rfem.png
+INPUT .\i4rfem.png
+INPUT .\i4rfem.png
+INPUT i6rfem.png
+INPUT .\i6rfem.png
+INPUT .\i6rfem.png
+INPUT .\i6rfem.png
+INPUT .\i6rfem.png
+INPUT i8rfem.png
+INPUT .\i8rfem.png
+INPUT .\i8rfem.png
+INPUT .\i8rfem.png
+INPUT .\i8rfem.png
+INPUT i10rfem.png
+INPUT .\i10rfem.png
+INPUT .\i10rfem.png
+INPUT .\i10rfem.png
+INPUT .\i10rfem.png
+INPUT i12rfem.png
+INPUT .\i12rfem.png
+INPUT .\i12rfem.png
+INPUT .\i12rfem.png
+INPUT .\i12rfem.png
+INPUT i16rfem.png
+INPUT .\i16rfem.png
+INPUT .\i16rfem.png
+INPUT .\i16rfem.png
+INPUT .\i16rfem.png
+INPUT bporimaneslconstante.png
+INPUT .\bporimaneslconstante.png
+INPUT .\bporimaneslconstante.png
+INPUT .\bporimaneslconstante.png
+INPUT .\bporimaneslconstante.png
+INPUT bporimanesrconstante.png
+INPUT .\bporimanesrconstante.png
+INPUT .\bporimanesrconstante.png
+INPUT .\bporimanesrconstante.png
+INPUT .\bporimanesrconstante.png
+INPUT relatorio.aux
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\efg32\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb

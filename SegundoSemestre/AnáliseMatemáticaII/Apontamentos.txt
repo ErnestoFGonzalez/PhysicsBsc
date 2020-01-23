@@ -1,0 +1,33 @@
+Um função vectorial de variável real é uma função definida num subconjunto de R e
+com imagem em R^n, com n>1. Dada um função vectorial de variável real ficam definidas
+n funções reais de variável real a que chamamos funções componentes.
+
+O domínio da função r é a interseção dos domínios de cada uma das suas funções
+componentes e é o maior conjunto onde a expressão que define r faz sentido, a não
+ser que se explicite um restrição deste.
+
+Os limites das funções vectoriais calculam-se componente a componente, reduzindo-se
+ao cálculo de n limites de funções reais de variável real.
+
+As propriedades algébricas dos limites de funções de R em R também são válidas 
+para funções de R em R^n.
+
+A função r diz-se contínua em t0 sse o limite de r(t) quand t tende para t0 é
+igual a r(t0).
+
+r é contínua em t0 sse as suas funções componentes forem contínuas em t0.
+
+A derivada de r no ponto t é dada por (dr/dt)t.
+
+Se todas as funções componentes de r forem diferenciáveis em t0, então r é 
+diferenciável em t0.
+Este teorema diz-nos que r'(t) é o vector cujas componentes são as derivadas das
+funções cujas componentes são as derivadas das componentes de r(t).
+
+Dizemos que r é de classe C^k se é contínua e se todas as suas componentes são
+funções reais de variãvel real de classe C^k, isto é, se existem e são contínuas
+as derivadas de r de ordem entre 0 e k, e além disso existem as derivadas laterais.
+
+Temos também que o integral duma função vectorial de variável real r é o vector cujas
+componentes são os integrais das funções componentes de r.
+

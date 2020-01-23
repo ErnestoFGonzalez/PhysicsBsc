@@ -1,0 +1,243 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+
+%\usepackage{pstricks}
+%\usepackage{pst-grad}
+%\usepackage{multido}
+%\usepackage{calc}
+%\usepackage{fp-snap}
+%\usepackage{ifthen}
+%\usepackage{bardiag}
+
+% Defining color variables
+\definecolor{ballblue}{rgb}{0.13, 0.67, 0.8}
+\definecolor{bleudefrance}{rgb}{0.19, 0.55, 0.91}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.45\textwidth} % 45% of the page width for name
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% If your name is very short, use just one of the lines below
+	% If your name is very long, reduce the font size or make the minipage wider and reduce the others proportionately
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Ernesto}}}}} % First name
+	
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{González}}}}} % Last name
+	
+	\vspace{6pt}
+	
+	{\huge Programming Enthusiast} % Career or current job title
+\end{minipage}
+\begin{minipage}[t]{0.250\textwidth} % 27.5% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{MapMarker}{12}{Lisbon}\\
+	\icon{Phone}{12}{+351 935 117 765}\\
+
+\end{minipage}
+\begin{minipage}[t]{0.300\textwidth} % 27.5% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+
+\icon{At}{12}{\href{mailto:ernestogonzalezz@yahoo.com}{ernestogonzalezz@yahoo.com}}\\	
+	\icon{Twitter}{12}{\href{https://twitter.com/@erniefergo}{@erniefergo}}\\
+\end{minipage}
+
+\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\cvsect{Who Am I?}
+
+\begin{minipage}[t]{0.4\textwidth} % 40% of the page width for the introduction text
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	I am a Physics student with high interest in the possibilities of IT, such as, Web Development, App Development and Machine Learning. I have an entrepreneurship energy that leads me to self-educate myself both financially and scientifically. What I lack in experience I can make up for in drive, enthusiasm and a willingness to learn.% Dummy text
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.5\textwidth} % 50% of the page for the skills bar chart
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	\begin{barchart}{5.5}
+		\baritem{Python}{80}{bleudefrance}
+		\baritem{Django}{55}
+		\baritem{HTML}{90}
+		\baritem{Sass/CSS}{70}
+		\baritem{Bootstrap}{40}
+		\baritem{LaTeX}{30}
+	\end{barchart}
+\end{minipage}
+
+%\begin{center}
+%	\bubbles{ 5/Eclipse , 6/Atom, 4/Office, 4/IntelliJ}
+%\end{center}
+
+\cvsect{Goals and aspirations}
+
+I am driven by technological innovation. For this subject, the most important area is Computer Science. Thus, \textbf{my goal for the next six years is to develop my programming skills} and apply them to this cause.
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+%\cvsect{Experience}
+
+%\begin{entrylist}
+%	\entry
+%		{2017 -- 3/2018}
+%		{Front-end developer}
+%		{Big Corporation Name Inc.}
+%		{\lorem \lorem \lorem\\ \texttt{node.js}\slashsep\texttt{Vue.js}\slashsep\texttt{Electron}}
+%\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\cvsect{Education}
+
+\begin{entrylist}
+	\entry
+			{2018 - present}
+		{First year student of Licenciatura em Física}
+		{Faculdade de Ciências - Universidade de Lisboa}
+		{Average grade of 14.8 in first semester and finished with a grade of \textbf{19 in Programming I}}
+\end{entrylist}
+\cvsect{Programming Education}
+
+\begin{entrylist}
+	\entry
+		{2017}
+		{Programming with Python}
+		{Codeacademy.com}
+		{Introductory free course with the basics of programming applications dealing with basic arithmetic problems and exercises}
+	\entry
+		{2017}
+		{Introduction to HTML and Learn CSS}
+		{Codeacademy.com}
+		{Introductory lessons on HTML and CSS giving an insight on website's functioning fron-tend. First contact with syntax of both HTML and CSS}
+	\entry
+		{2018}
+		{Learn Python Programming Masterclass}
+		{Udemy.com}
+		{First contact with more complex problems and introduction to Object Oriented Programming}
+	\entry
+		{2018}
+		{Python And Django Full Stack Web Development Bootcamp}
+		{Udemy.com}
+		{Complete course on Web Development with introductions to HTML, CSS, Bootstrap, Javascript, Python and Django. Comprehension of website's functioning and several projects}
+	\entry
+		{2019}
+		{Advanced CSS and Sass: Flexbox, Grid, Animations and More!}
+		{Udemy.com}
+		{Complete course on Web Design using HTML, CSS and then SCSS. Focus on website's layout. Media queries and responsive design.}
+\end{entrylist}
+
+\cvsect{Academic Projects}
+
+\begin{description}
+	\item \textbf{Environment Simulation} \quad Simulation of population evolution of food-web made of three species
+\end{description}
+\cvsect{Projects}
+
+\begin{description}
+	\item \textbf{Social Media oriented to Astronomy Aficionados} \quad 
+	Website with authentication required, group functionality and posts. \quad
+	\textit{Django, Javascript, HTML and Bootstrap}
+	\item \textbf{Library Book System} \quad Interactive library menu that
+	requires student registration and allows book registration, borrowing and return.
+	\quad \textit{Python}
+	\item \textbf{Twitter Clone} \quad Website with user authentication, posts and likes.
+	\quad \textit{Django, HTML and Bootstrap}
+	\item \textbf{Meeting App Website} \quad Website with user authentication, posts, user
+	profiles, friend requests, instant messaging and static files management.
+	\quad \textit{Django, HTML, Sass and Bootstrap}
+	\item \textbf{Trip Booking Website} \quad Front-End of website for nature-related trips.
+	\quad \textit{HTML and Sass}
+\end{description}
+
+
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+%\begin{minipage}[t]{0.3\textwidth}
+%	\vspace{-\baselineskip} % Required for vertically aligning minipages
+%
+%\cvsect{Projects}
+%
+%\begin{description}
+%	\item \textbf{Meeting app website} full-stack
+%	\item \textbf{Multiple Social Media Websites}: Twitter clone, blog, group chats...
+%	\item \textbf{Trip Booking Website} front-end
+%\end{description}
+%\end{minipage}
+%\hfill
+\begin{minipage}[t]{0.5\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Languages}
+	
+	\textbf{English} - proficient\\
+	\textbf{Spanish} - native\\
+	\textbf{French} - intermediate\\
+	\textbf{Portuguese} - native
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.5\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\cvsect{Readings}
+
+	\textbf{\textit{The Lean Startup}} by Eric Ries\\
+	\textbf{\textit{The Grid}} by Matt Watkinson\\
+	\textbf{\textit{The Tipping Point}} by Malcolm Gladwell\\
+	\textbf{\textit{Blue Ocean Strategy}} by W. Chan Kim and Renée Mauborgne
+\end{minipage}
+
+
+%	\cvsect{Hobbies}
+%	
+%	I love... \lorem
+%\hfill
+%\begin{minipage}[t]{0.3\textwidth}
+%	\vspace{-\baselineskip} % Required for vertically aligning minipages
+%	
+%	\cvsect{Non profit}
+%	
+%	I help... \lorem
+%\end{minipage}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

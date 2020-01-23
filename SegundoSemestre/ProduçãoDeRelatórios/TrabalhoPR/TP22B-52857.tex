@@ -1,0 +1,123 @@
+\documentclass[11pt]{beamer}
+
+\usetheme{Berlin}
+\usecolortheme{beaver}
+
+%----------- PACOTES ---------%
+\usepackage[latin1,utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{amssymb}
+\usepackage{eurosym}
+\usepackage{xcolor,colortbl}
+\usepackage{adjustbox}
+\usepackage{graphicx}
+\usepackage{pgfplots} 
+\usepackage{pgf-pie}
+ 
+\pgfplotsset{width=10cm,compat=1.9}
+%-----------------------------%
+%----------- CORES ----------%
+\definecolor{aquamarine}{rgb}{0.5, 1.0, 0.83}
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+%-----------------------------%
+
+\begin{document}
+%----------- TÍTULO ----------%
+\title{Finanças Pessoais\\
+Produção de Relatórios}
+\author{Ernesto Fernandes González\\
+nº 52857 \quad TP 22 \\
+email: efergo9@gmail.com\\
+Licenciatura em Física}
+\date{2018/2019}
+\maketitle
+%-----------------------------%
+
+\begin{frame}
+\begin{table} []
+	\centering
+	\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{|>{\columncolor{airforceblue}}c|c|c|c|c|c|c|c|} \hline
+\rowcolor{airforceblue} \text{RESUMO} & \text{Janeiro} & \text{Fevereiro} & \text{Março} & \text{Abril} & \text{Maio} & \text{Junho} & \text{TOTAL} \\ \hline
+\text{Rendimentos} & 534 & 534 & 534 & 534 & 534 & 534 & 3204.00 \\ \hline
+\text{Gastos} & 514.64 & 506.23 & 497.85 & 462.03 & 329 & 383.46 & 2693.21 \\ \hline
+\text{Saldos do mês} & 19.36 & 27.77 & 36.15 & 71.97 & 205 & 150.54 & 510.79 \\ \hline
+\text{Saldo acumulado} & 19.36 & 47.13 & 83.28 & 155.25 & 360.25 & 510.79 & 510.79 \\ \hline
+\end{tabular}
+	\end{adjustbox}
+\caption{Rendimento e gastos totais mensais e balanço financeiro. Os valores são apresentados em euros(\euro)}
+\end{table}
+\end{frame}
+
+\begin{frame}
+\begin{figure} []
+	\centering
+	\begin{adjustbox}{width=\textwidth}
+    \begin{tikzpicture}[scale=.2]
+\begin{axis}[
+    title= Rendimentos versus Gastos,
+    width=7cm,
+    height=5cm,
+    enlargelimits=0.15,
+    legend style={at={(0.5,-0.15)},
+    anchor=north,legend columns=-1},
+    ylabel={Euros},
+    ymin=0, ymax= 600,
+    symbolic x coords={Janeiro, Fevereiro, Marco, Abril, Maio, Junho},
+    xtick=data,
+    x tick label style={rotate=45,anchor=east},
+    nodes near coords align={vertical},
+    ]
+\addplot[ybar, nodes near coords, fill=black!10] 
+    coordinates {(Janeiro,534) (Fevereiro,534) (Marco,534) (Abril,534) (Maio,534) (Junho,534)};
+\addplot[draw=blue,ultra thick] 
+    coordinates {(Janeiro,514.64) (Fevereiro,506.23) (Marco,497.85) (Abril,462.03) (Maio,329) (Junho,383.46)};
+	\legend{$Rendimentos$,$Gastos$}
+\end{axis}
+    \end{tikzpicture}
+    \end{adjustbox}
+    \caption{Rendimentos versus Gastos}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\begin{table}
+$$\begin{array}{|>{\columncolor{airforceblue}}c|c|} \hline
+\rowcolor{airforceblue} \text{As contas} & \text{Total} \\ \hline
+\text{Rendimentos} & 3204 \\ \hline
+\text{Habitação} & 1307.51 \\ \hline
+\text{Saúde} & 104.25 \\ \hline
+\text{Transportes} & 318.25 \\ \hline
+\text{Despesas pessoais} & 93.26 \\ \hline
+\text{Lazer} & 64.85 \\ \hline
+\text{Escola} & 584.20 \\ \hline
+\end{array}$$
+\caption{Rendimentos e gastos totais, divididos por setores. Os valores são apresentados em euros(\euro)}
+\end{table}
+\end{frame}
+
+\begin{frame}
+\begin{figure} []
+\begin{tikzpicture}
+\pie [rotate = 180, text = legend, explode = 0.2, color = {blue,green,red,yellow,orange,purple}]
+    {58.09/Habitação,
+     3.87/Saúde, 11.82/Transportes, 3.46/Despesas Pessoais, 2.41/Lazer, 20.35/Ensino}
+\end{tikzpicture}
+\caption{Despesas em Percentagem}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Preenchimento da tabela Planeamento}
+No preenchimento da tabela planeamento seguiu-se o princípio da divis
+ão de gastos por áreas (i.e habitação, saúde, educação), que por sua vez se dividiam em atividades ou produtos(i.e medicamentos, médico).
+
+\center{\includegraphics[scale=0.1]{planeamento}}
+\end{frame}
+
+\begin{frame}
+\includegraphics[scale=0.4]{personalfinance}
+\footnote{Imagem retirada de https://financialwellness.org/wp-content/uploads/2017/12/Personal-Finance-Tips-Piggy-Bank-Coins-Personal-Finances-in-2018-SS-Feature.jpg}
+\end{frame}
+
+\end{document}

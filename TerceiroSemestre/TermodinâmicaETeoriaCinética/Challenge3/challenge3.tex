@@ -1,0 +1,219 @@
+\documentclass[12pt, twoside, a4paper]{article}
+
+\usepackage{graphicx}
+\usepackage{color}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{enumerate}
+
+\begin{document}
+
+%%%%%%%%%%%%%%Título%%%%%%%%%%%%%%%%%%
+\title{Challenge 3}
+\author{João Cordeiro 53688\\José Lopes 52878\\João Olívia 52875\\Ernesto González 52857}
+\date{2019-2020}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Problema 1}
+Considere-se uma expansão adiabática reversível do gás ideal entre um estado inicial 1 e um estado final 2. Mostre que:
+\begin{enumerate}[1.]
+  \item Calcule a capacidade calorífica a volume constante,
+  \begin{equation}
+    C_V=\left(\frac{\partial U}{\partial T}\right)_V,
+  \end{equation}
+  e a capacidade calorífica a pressão constante,
+  \begin{equation}
+    C_p=\left(\frac{\partial H}{\partial T}\right)_p,
+  \end{equation}
+  e verifique que $C_p>C_V$.
+  \begin{proof}
+    No gás ideal temos
+    \begin{equation}
+      U = \frac{3}{2}Nk_BT
+    \end{equation}
+    Diferenciando em ordem a $T$ vem
+    \begin{equation}
+      C_V=\left(\frac{\partial U}{\partial T}\right)_V = \frac{3}{2}Nk_B
+    \end{equation}
+  \end{proof}
+  \begin{proof}
+    Temos
+    \begin{equation}
+      H = U+ pV = \frac{3}{2}Nk_BT+pV
+    \end{equation}
+    onde fizemos uso de (3).
+    Da lei dos gases
+    \begin{equation}
+      pV=Nk_BT
+    \end{equation}
+    Logo (5) passa a
+    \begin{equation}
+      H = \frac{5}{2}Nk_BT
+    \end{equation}
+    Diferenciando (7) em ordem a $T$ vem
+    \begin{equation}
+      C_p = \left(\frac{\partial H}{\partial T}\right)_p = \frac{5}{2}Nk_B
+    \end{equation}
+  \end{proof}
+  Assim
+  \begin{equation}
+    \frac{5}{2}Nk_B = C_p > C_V = \frac{3}{2}Nk_B
+  \end{equation}
+  \item O resultado que obteve é geral? Ou seja, é verdade que, independentemente do sistema físico que estivermos a estudar, $C_p > C_V$? Justifique a sua resposta.
+  Temos
+  \begin{equation}
+    dU = dQ + dW
+  \end{equation}
+  e
+  \begin{equation}
+    U = \frac{3}{2}Nk_BT
+  \end{equation}
+  Logo $U=U(T)$. Temos também
+  \begin{equation}
+    H=U+pV
+  \end{equation}
+  Logo $H=H(T,p)$, e por (11) $H=H(U,p)$.\\
+  Daqui surge
+    \begin{equation}
+      C_V < C_p
+    \end{equation}
+\end{enumerate}
+
+\section{Problema 2}
+Considere um gás idela formado por $N$ partículas com energia interna $U=\frac{3}{2}Nk_BT$.
+\begin{enumerate}[1.]
+  \item Considere que N é constante e use a equação fundamental da termodinâmica para mostrar que num processo entre um estado inicial 1 e um estado final 2
+  \begin{equation}
+    \Delta S=\frac{3}{2}Nk_B\,ln(\frac{U_2}{U_1})+Nk_B\,ln(\frac{V_2}{V_1})
+  \end{equation}
+  \begin{proof}
+    Da equação fundamental da termodinâmica
+    \begin{equation}
+      dU=TdS-pdV+\mu dN.
+    \end{equation}
+    A $N$ constante, $dN=0$ e a equação fundamental passa a
+    \begin{equation}
+      dU=TdS-pdV \iff dS=\frac{1}{T}dU+\frac{p}{T}dV
+    \end{equation}
+    Da lei dos gases vem
+    \begin{equation}
+      pV=Nk_BT \iff \frac{p}{T} = Nk_B\frac{1}{V}.
+    \end{equation}
+    Temos que $U=\frac{3}{2}Nk_BT$, logo
+    \begin{equation}
+      \frac{1}{T}=\frac{3}{2}Nk_B\frac{1}{U}.
+    \end{equation}
+    Assim, de (12) temos
+    \begin{equation}
+      dS = \frac{3}{2}Nk_B\frac{1}{U}dU+Nk_B\frac{1}{V}dV
+    \end{equation}
+    e integrando
+    \begin{equation}
+      \begin{split}
+      \Delta S&=\frac{3}{2}Nk_B \int_{U_1}^{U_2}\frac{1}{U}dU + Nk_B \int_{V_1}^{V_2}\frac{1}{V}dV \iff \\
+      \iff \Delta S&=\frac{3}{2}Nk_B\,ln(\frac{U_2}{U_1})+Nk_B\,ln(\frac{V_2}{V_1})
+      \end{split}
+    \end{equation}
+  \end{proof}
+  \item
+  Considere que $N$ é constate e partindo de $S=S(T,V,N)$ mostre que num processo entre um estado inicial 1 e um estado final 2
+  \begin{equation}
+    \Delta S=\frac{3}{2}Nk_B\,ln(\frac{U_2}{U_1})+Nk_B\,ln(\frac{V_2}{V_1})
+  \end{equation}
+  \begin{proof}
+    Considerando $S=S(T,V,N)$ vem
+    \begin{equation}
+      dS=\left(\frac{\partial S}{\partial T}\right)dT+\left(\frac{\partial S}{\partial V}\right)dV+\left(\frac{\partial S}{\partial N}\right)dN
+    \end{equation}
+    Da equação fundamental da termodinâmica
+    \begin{equation}
+      \begin{split}
+      dU &= TdS-pdV+\mu dN\\
+      dS &= \frac{1}{T}dU+ \frac{p}{T}dV - \frac{\mu}{T}dN.
+      \end{split}
+    \end{equation}
+    Sabemos que
+    \begin{equation}
+      \begin{split}
+        U = \frac{3}{2}Nk_BT \iff \frac{1}{T}=\frac{3}{2}Nk_B\frac{1}{U}
+      \end{split}
+    \end{equation}
+    Analogamente
+    \begin{equation}
+      \begin{split}
+        dU = \frac{3}{2}Nk_B\,dT \iff dT=\frac{1}{\frac{3}{2}Nk_B}dU
+      \end{split}
+    \end{equation}
+    Como $dN=0$, de (23) vem
+    \begin{equation}
+      dS=\left(\frac{3}{2}Nk_B\right)^2 \frac{1}{U}dT+Nk_B\frac{1}{U}dU
+    \end{equation}
+    e
+    \begin{equation}
+      \left(\frac{\partial S}{\partial T}\right)=\left(\frac{3}{2}Nk_B\right)^2 \frac{1}{U} \quad \left(\frac{\partial S}{\partial V}\right)=Nk_B\frac{1}{V}
+    \end{equation}
+    Então
+    \begin{equation}
+      \begin{split}
+        dS &= \left(\frac{3}{2}Nk_B\right)^2\frac{1}{U}dT+Nk_B\frac{1}{V}dV \\
+        dS &= \frac{3}{2}Nk_B\frac{1}{U}dU+Nk_B\frac{1}{V}dV\\
+        \Delta S&=\frac{3}{2}Nk_B \int_1^2 \frac{1}{U}dU + Nk_B \int_1^2 \frac{1}{V}dV \\
+        \Delta S&=\frac{3}{2}Nk_B\,ln\left(\frac{U_2}{U_1}\right)+ Nk_B\,ln \left(\frac{V_2}{V_1}\right)
+      \end{split}
+    \end{equation}
+  \end{proof}
+
+  \item Partindo de $s=s(u,v)$ em que $s$, $u$ e $v$ são quantidades parciais molares, mostre que
+  \begin{equation}
+    \Delta s= \frac{3}{2}k_B\,ln\left(\frac{u_2}{u_1}\right)+k_b\,ln\left(\frac{v_2}{v_1}\right)
+  \end{equation}
+  Considerando $s=s(u,v)$ temos
+  \begin{equation}
+    ds=\left(\frac{\partial s}{\partial u}\right)du + \left(\frac{\partial s}{\partial v}\right)dv
+  \end{equation}
+  Vimos que
+  \begin{equation}
+    \left(\frac{dU}{dS}\right)_V dU = T
+  \end{equation}
+  Como estamos a trabalhar a $N$ constante e
+  \begin{equation}
+    u=\frac{U}{N}
+  \end{equation}
+  Então
+  \begin{equation}
+    ds=\frac{1}{T}du + \left(\frac{ds}{dv}\right)dv
+  \end{equation}
+  Da lei dos gases
+  \begin{equation}
+      pV=Nk_BT \iff p=\frac{Nk_B}{V}T
+  \end{equation}
+  e dividindo por $N$
+  \begin{equation}
+      pv=k_BT \iff p=\frac{k_B}{v}T \iff \frac{dp}{dT}=k_B\frac{1}{V}
+  \end{equation}
+  Assim vem
+  \begin{equation}
+    \left(\frac{\partial s}{\partial v}\right)_u = \left(\frac{\partial s}{\partial v}\right)_T = \left(\frac{\partial p}{\partial T}\right)_s = k_B \frac{1}{v}
+  \end{equation}
+  Finalmente substituíndo em (33),
+  \begin{equation}
+    \begin{split}
+      \Delta s &= \frac{3}{2}k_B \int_1^2 \frac{1}{u}dU + k_B\int_1^2\frac{1}{v}dv \iff \\
+      \iff \Delta s &=\frac{3}{2}k_B\,ln\left(\frac{u_2}{u_1}\right)+ k_B\,ln\left(\frac{v_2}{v_1}\right)
+    \end{split}
+  \end{equation}
+\end{enumerate}
+
+
+
+
+
+\end{document}

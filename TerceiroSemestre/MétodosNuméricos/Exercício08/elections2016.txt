@@ -1,0 +1,3114 @@
+State Code	County Name	 County Population 	Clinton or Trump State	 Clinton 	 Trump 
+AL	Autauga County	 55 347 	Trump	 5 908 	 18 110 
+AL	Baldwin County	 203 709 	Trump	 18 409 	 72 780 
+AL	Barbour County	 26 489 	Trump	 4 848 	 5 431 
+AL	Bibb County	 22 583 	Trump	 1 874 	 6 733 
+AL	Blount County	 57 673 	Trump	 2 150 	 22 808 
+AL	Bullock County	 10 696 	Trump	 3 530 	 1 139 
+AL	Butler County	 20 154 	Trump	 3 716 	 4 891 
+AL	Calhoun County	 115 620 	Trump	 13 197 	 32 803 
+AL	Chambers County	 34 123 	Trump	 5 763 	 7 803 
+AL	Cherokee County	 25 859 	Trump	 1 524 	 8 809 
+AL	Chilton County	 43 943 	Trump	 2 909 	 15 068 
+AL	Choctaw County	 13 170 	Trump	 3 109 	 4 102 
+AL	Clarke County	 24 675 	Trump	 5 712 	 7 109 
+AL	Clay County	 13 555 	Trump	 1 234 	 5 230 
+AL	Cleburne County	 15 018 	Trump	 684 	 5 738 
+AL	Coffee County	 51 211 	Trump	 4 194 	 15 825 
+AL	Colbert County	 54 354 	Trump	 7 296 	 16 718 
+AL	Conecuh County	 12 672 	Trump	 3 069 	 3 413 
+AL	Coosa County	 10 724 	Trump	 1 780 	 3 376 
+AL	Covington County	 37 835 	Trump	 2 379 	 13 222 
+AL	Crenshaw County	 13 963 	Trump	 1 663 	 4 511 
+AL	Cullman County	 82 005 	Trump	 3 730 	 32 734 
+AL	Dale County	 49 565 	Trump	 4 408 	 13 798 
+AL	Dallas County	 41 131 	Trump	 12 826 	 5 784 
+AL	DeKalb County	 71 130 	Trump	 3 682 	 21 779 
+AL	Elmore County	 81 468 	Trump	 8 436 	 27 619 
+AL	Escambia County	 37 789 	Trump	 4 698 	 10 282 
+AL	Etowah County	 103 057 	Trump	 10 350 	 32 132 
+AL	Fayette County	 16 759 	Trump	 1 358 	 6 705 
+AL	Franklin County	 31 696 	Trump	 2 197 	 9 466 
+AL	Geneva County	 26 777 	Trump	 1 522 	 9 967 
+AL	Greene County	 8 479 	Trump	 4 006 	 838 
+AL	Hale County	 15 068 	Trump	 4 772 	 3 172 
+AL	Henry County	 17 221 	Trump	 2 286 	 5 623 
+AL	Houston County	 104 173 	Trump	 10 547 	 30 567 
+AL	Jackson County	 52 419 	Trump	 3 663 	 16 643 
+AL	Jefferson County	 660 367 	Trump	 151 581 	 130 614 
+AL	Lamar County	 13 886 	Trump	 1 035 	 5 819 
+AL	Lauderdale County	 92 596 	Trump	 9 877 	 27 735 
+AL	Lawrence County	 33 115 	Trump	 3 611 	 10 732 
+AL	Lee County	 156 993 	Trump	 20 987 	 34 321 
+AL	Limestone County	 91 663 	Trump	 9 340 	 28 824 
+AL	Lowndes County	 10 458 	Trump	 4 882 	 1 751 
+AL	Macon County	 19 105 	Trump	 7 237 	 1 394 
+AL	Madison County	 353 089 	Trump	 62 435 	 89 199 
+AL	Marengo County	 20 028 	Trump	 5 607 	 5 224 
+AL	Marion County	 30 168 	Trump	 1 432 	 11 273 
+AL	Marshall County	 94 725 	Trump	 4 913 	 29 217 
+AL	Mobile County	 415 395 	Trump	 68 429 	 91 087 
+AL	Monroe County	 21 673 	Trump	 4 310 	 5 771 
+AL	Montgomery County	 226 519 	Trump	 58 669 	 33 928 
+AL	Morgan County	 119 565 	Trump	 11 216 	 37 392 
+AL	Perry County	 9 652 	Trump	 3 823 	 1 403 
+AL	Pickens County	 20 864 	Trump	 3 972 	 5 454 
+AL	Pike County	 33 046 	Trump	 5 039 	 7 681 
+AL	Randolph County	 22 696 	Trump	 2 290 	 7 697 
+AL	Russell County	 59 660 	Trump	 9 577 	 9 210 
+AL	St. Clair County	 87 074 	Trump	 5 550 	 31 579 
+AL	Shelby County	 208 713 	Trump	 22 927 	 72 846 
+AL	Sumter County	 13 103 	Trump	 4 739 	 1 581 
+AL	Talladega County	 80 862 	Trump	 12 108 	 20 596 
+AL	Tallapoosa County	 40 844 	Trump	 5 271 	 12 967 
+AL	Tuscaloosa County	 203 976 	Trump	 31 746 	 47 701 
+AL	Walker County	 65 294 	Trump	 4 486 	 24 208 
+AL	Washington County	 16 804 	Trump	 2 366 	 6 031 
+AL	Wilcox County	 11 059 	Trump	 4 329 	 1 737 
+AL	Winston County	 23 877 	Trump	 871 	 9 225 
+AK	Alaska	 738 432 	Trump	 93 007 	 130 415 
+AZ	Apache County	 71 474 	Trump	 12 196 	 5 315 
+AZ	Cochise County	 126 427 	Trump	 15 291 	 25 036 
+AZ	Coconino County	 139 097 	Trump	 25 308 	 16 573 
+AZ	Gila County	 53 159 	Trump	 6 746 	 13 672 
+AZ	Graham County	 37 666 	Trump	 3 301 	 8 025 
+AZ	Greenlee County	 9 529 	Trump	 1 092 	 1 892 
+AZ	La Paz County	 20 152 	Trump	 1 318 	 3 381 
+AZ	Maricopa County	 4 167 947 	Trump	 549 040 	 590 465 
+AZ	Mohave County	 204 737 	Trump	 16 485 	 54 656 
+AZ	Navajo County	 108 277 	Trump	 15 362 	 18 165 
+AZ	Pima County	 1 010 025 	Trump	 195 649 	 147 019 
+AZ	Pinal County	 406 584 	Trump	 35 737 	 53 857 
+AZ	Santa Cruz County	 46 461 	Trump	 10 684 	 3 650 
+AZ	Yavapai County	 222 255 	Trump	 29 705 	 58 862 
+AZ	Yuma County	 204 275 	Trump	 18 336 	 20 586 
+AR	Arkansas County	 18 433 	Trump	 1 939 	 3 825 
+AR	Ashley County	 20 838 	Trump	 2 408 	 5 338 
+AR	Baxter County	 41 053 	Trump	 4 163 	 14 655 
+AR	Benton County	 249 672 	Trump	 27 894 	 60 751 
+AR	Boone County	 37 222 	Trump	 2 925 	 12 225 
+AR	Bradley County	 11 094 	Trump	 1 317 	 2 163 
+AR	Calhoun County	 5 229 	Trump	 636 	 1 554 
+AR	Carroll County	 27 704 	Trump	 3 334 	 6 773 
+AR	Chicot County	 11 027 	Trump	 2 350 	 1 716 
+AR	Clark County	 22 633 	Trump	 3 606 	 4 398 
+AR	Clay County	 15 109 	Trump	 1 999 	 3 779 
+AR	Cleburne County	 25 467 	Trump	 2 101 	 9 454 
+AR	Cleveland County	 8 311 	Trump	 723 	 2 460 
+AR	Columbia County	 24 114 	Trump	 3 140 	 5 456 
+AR	Conway County	 21 019 	Trump	 2 655 	 4 844 
+AR	Craighead County	 104 354 	Trump	 10 474 	 22 798 
+AR	Crawford County	 61 703 	Trump	 4 476 	 16 655 
+AR	Crittenden County	 48 963 	Trump	 8 368 	 6 953 
+AR	Cross County	 17 284 	Trump	 1 995 	 4 577 
+AR	Dallas County	 7 604 	Trump	 1 165 	 1 507 
+AR	Desha County	 11 965 	Trump	 2 227 	 1 915 
+AR	Drew County	 18 778 	Trump	 2 364 	 3 967 
+AR	Faulkner County	 121 552 	Trump	 14 525 	 29 170 
+AR	Franklin County	 17 702 	Trump	 1 376 	 5 034 
+AR	Fulton County	 12 204 	Trump	 1 067 	 3 470 
+AR	Garland County	 97 177 	Trump	 12 283 	 26 053 
+AR	Grant County	 18 102 	Trump	 1 407 	 5 160 
+AR	Greene County	 44 196 	Trump	 3 056 	 10 698 
+AR	Hempstead County	 22 084 	Trump	 2 371 	 4 391 
+AR	Hot Spring County	 33 426 	Trump	 3 137 	 8 153 
+AR	Howard County	 13 300 	Trump	 1 350 	 3 155 
+AR	Independence County	 37 052 	Trump	 2 878 	 9 925 
+AR	Izard County	 13 445 	Trump	 1 111 	 4 042 
+AR	Jackson County	 17 338 	Trump	 1 583 	 3 262 
+AR	Jefferson County	 71 565 	Trump	 15 721 	 9 231 
+AR	Johnson County	 26 141 	Trump	 2 421 	 6 072 
+AR	Lafayette County	 6 996 	Trump	 1 028 	 1 750 
+AR	Lawrence County	 16 779 	Trump	 1 263 	 4 064 
+AR	Lee County	 9 650 	Trump	 1 735 	 1 229 
+AR	Lincoln County	 13 820 	Trump	 1 252 	 2 455 
+AR	Little River County	 12 472 	Trump	 1 397 	 3 604 
+AR	Logan County	 21 714 	Trump	 1 712 	 5 737 
+AR	Lonoke County	 71 645 	Trump	 5 638 	 19 902 
+AR	Madison County	 15 767 	Trump	 1 587 	 4 917 
+AR	Marion County	 16 185 	Trump	 1 377 	 5 077 
+AR	Miller County	 43 908 	Trump	 4 273 	 11 293 
+AR	Mississippi County	 43 738 	Trump	 5 621 	 6 988 
+AR	Monroe County	 7 399 	Trump	 1 298 	 1 400 
+AR	Montgomery County	 8 970 	Trump	 735 	 2 573 
+AR	Nevada County	 8 558 	Trump	 1 156 	 2 001 
+AR	Newton County	 7 913 	Trump	 699 	 2 875 
+AR	Ouachita County	 24 358 	Trump	 4 320 	 5 347 
+AR	Perry County	 10 189 	Trump	 1 035 	 2 979 
+AR	Phillips County	 19 513 	Trump	 4 292 	 2 443 
+AR	Pike County	 10 824 	Trump	 684 	 3 150 
+AR	Poinsett County	 24 040 	Trump	 1 878 	 3 149 
+AR	Polk County	 20 216 	Trump	 1 210 	 6 606 
+AR	Pope County	 63 390 	Trump	 4 818 	 15 694 
+AR	Prairie County	 8 291 	Trump	 812 	 2 503 
+AR	Pulaski County	 392 664 	Trump	 89 377 	 61 182 
+AR	Randolph County	 17 469 	Trump	 1 425 	 4 508 
+AR	St. Francis County	 26 589 	Trump	 4 031 	 3 195 
+AR	Saline County	 117 460 	Trump	 13 247 	 35 852 
+AR	Scott County	 10 513 	Trump	 507 	 2 378 
+AR	Searcy County	 7 869 	Trump	 601 	 2 955 
+AR	Sebastian County	 127 780 	Trump	 12 184 	 28 769 
+AR	Sevier County	 17 290 	Trump	 1 075 	 3 281 
+AR	Sharp County	 16 912 	Trump	 1 472 	 5 405 
+AR	Stone County	 12 456 	Trump	 1 189 	 4 081 
+AR	Union County	 40 144 	Trump	 5 667 	 10 201 
+AR	Van Buren County	 16 771 	Trump	 1 547 	 5 382 
+AR	Washington County	 225 477 	Trump	 32 296 	 40 418 
+AR	White County	 79 161 	Trump	 5 157 	 21 038 
+AR	Woodruff County	 6 741 	Trump	 1 117 	 1 344 
+AR	Yell County	 21 713 	Trump	 1 472 	 4 600 
+CA	Alameda County	 1 638 215 	Clinton	 486 351 	 91 189 
+CA	Alpine County	 1 110 	Clinton	 318 	 211 
+CA	Amador County	 37 001 	Clinton	 5 904 	 10 239 
+CA	Butte County	 225 411 	Clinton	 38 676 	 42 193 
+CA	Calaveras County	 44 828 	Clinton	 7 738 	 13 072 
+CA	Colusa County	 21 482 	Clinton	 2 518 	 3 464 
+CA	Contra Costa County	 1 126 745 	Clinton	 286 658 	 105 819 
+CA	Del Norte County	 27 254 	Clinton	 3 485 	 5 134 
+CA	El Dorado County	 184 452 	Clinton	 35 243 	 47 633 
+CA	Fresno County	 974 861 	Clinton	 123 660 	 113 949 
+CA	Glenn County	 28 017 	Clinton	 3 065 	 5 788 
+CA	Humboldt County	 135 727 	Clinton	 19 596 	 10 883 
+CA	Imperial County	 180 191 	Clinton	 23 887 	 9 318 
+CA	Inyo County	 18 260 	Clinton	 3 155 	 4 248 
+CA	Kern County	 882 176 	Clinton	 86 481 	 119 164 
+CA	Kings County	 150 965 	Clinton	 12 902 	 17 446 
+CA	Lake County	 64 591 	Clinton	 6 240 	 5 752 
+CA	Lassen County	 31 345 	Clinton	 2 224 	 7 574 
+CA	Los Angeles County	 10 170 292 	Clinton	 1 893 770 	 620 285 
+CA	Madera County	 154 998 	Clinton	 13 283 	 19 221 
+CA	Marin County	 261 221 	Clinton	 69 518 	 14 214 
+CA	Mariposa County	 17 531 	Clinton	 3 122 	 5 185 
+CA	Mendocino County	 87 649 	Clinton	 6 905 	 3 571 
+CA	Merced County	 268 455 	Clinton	 21 856 	 18 486 
+CA	Modoc County	 8 965 	Clinton	 798 	 2 413 
+CA	Mono County	 13 909 	Clinton	 2 696 	 2 080 
+CA	Monterey County	 433 898 	Clinton	 64 733 	 26 378 
+CA	Napa County	 142 456 	Clinton	 26 161 	 11 946 
+CA	Nevada County	 98 877 	Clinton	 16 199 	 14 686 
+CA	Orange County	 3 169 776 	Clinton	 556 544 	 472 669 
+CA	Placer County	 375 391 	Clinton	 61 969 	 78 977 
+CA	Plumas County	 18 409 	Clinton	 3 224 	 5 079 
+CA	Riverside County	 2 361 026 	Clinton	 300 686 	 279 072 
+CA	Sacramento County	 1 501 335 	Clinton	 273 768 	 163 024 
+CA	San Benito County	 58 792 	Clinton	 8 309 	 5 530 
+CA	San Bernardino County	 2 128 133 	Clinton	 304 407 	 249 103 
+CA	San Diego County	 3 299 521 	Clinton	 567 243 	 386 807 
+CA	San Francisco County	 864 816 	Clinton	 312 443 	 34 493 
+CA	San Joaquin County	 726 106 	Clinton	 71 349 	 56 194 
+CA	San Luis Obispo County	 281 401 	Clinton	 61 021 	 50 755 
+CA	San Mateo County	 765 135 	Clinton	 192 035 	 47 627 
+CA	Santa Barbara County	 444 769 	Clinton	 100 120 	 53 740 
+CA	Santa Clara County	 1 918 044 	Clinton	 483 472 	 137 452 
+CA	Santa Cruz County	 274 146 	Clinton	 85 185 	 20 158 
+CA	Shasta County	 179 533 	Clinton	 20 471 	 47 587 
+CA	Sierra County	 2 967 	Clinton	 601 	 1 048 
+CA	Siskiyou County	 43 554 	Clinton	 7 106 	 11 212 
+CA	Solano County	 436 092 	Clinton	 94 622 	 48 712 
+CA	Sonoma County	 502 146 	Clinton	 116 027 	 37 421 
+CA	Stanislaus County	 538 388 	Clinton	 73 939 	 72 960 
+CA	Sutter County	 96 463 	Clinton	 11 831 	 16 780 
+CA	Tehama County	 63 308 	Clinton	 6 571 	 14 981 
+CA	Trinity County	 13 069 	Clinton	 1 876 	 2 409 
+CA	Tulare County	 459 863 	Clinton	 27 975 	 38 062 
+CA	Tuolumne County	 53 709 	Clinton	 8 580 	 13 486 
+CA	Ventura County	 850 536 	Clinton	 170 489 	 118 764 
+CA	Yolo County	 213 016 	Clinton	 34 460 	 13 178 
+CA	Yuba County	 74 492 	Clinton	 7 234 	 12 313 
+CO	Adams County	 491 337 	Clinton	 86 471 	 73 807 
+CO	Alamosa County	 16 496 	Clinton	 3 168 	 3 031 
+CO	Arapahoe County	 631 096 	Clinton	 148 365 	 109 638 
+CO	Archuleta County	 12 352 	Clinton	 2 489 	 4 234 
+CO	Baca County	 3 615 	Clinton	 278 	 1 716 
+CO	Bent County	 5 830 	Clinton	 581 	 1 166 
+CO	Boulder County	 319 372 	Clinton	 124 715 	 38 766 
+CO	Broomfield County	 65 065 	Clinton	 19 530 	 14 272 
+CO	Chaffee County	 18 658 	Clinton	 4 773 	 5 283 
+CO	Cheyenne County	 1 829 	Clinton	 127 	 905 
+CO	Clear Creek County	 9 303 	Clinton	 2 585 	 2 426 
+CO	Conejos County	 8 130 	Clinton	 1 753 	 1 885 
+CO	Costilla County	 3 584 	Clinton	 1 109 	 581 
+CO	Crowley County	 5 562 	Clinton	 336 	 1 069 
+CO	Custer County	 4 445 	Clinton	 797 	 2 059 
+CO	Delta County	 29 979 	Clinton	 4 048 	 11 584 
+CO	Denver County	 682 545 	Clinton	 174 611 	 43 637 
+CO	Dolores County	 1 978 	Clinton	 227 	 936 
+CO	Douglas County	 322 387 	Clinton	 67 045 	 100 178 
+CO	Eagle County	 53 605 	Clinton	 12 652 	 8 153 
+CO	Elbert County	 24 735 	Clinton	 3 056 	 11 536 
+CO	El Paso County	 674 471 	Clinton	 105 807 	 176 506 
+CO	Fremont County	 46 692 	Clinton	 5 275 	 15 066 
+CO	Garfield County	 58 095 	Clinton	 11 205 	 13 071 
+CO	Gilpin County	 5 828 	Clinton	 1 634 	 1 564 
+CO	Grand County	 14 615 	Clinton	 3 319 	 4 467 
+CO	Gunnison County	 16 067 	Clinton	 5 068 	 3 250 
+CO	Hinsdale County	 774 	Clinton	 197 	 339 
+CO	Huerfano County	 6 492 	Clinton	 1 631 	 1 875 
+CO	Jackson County	 1 356 	Clinton	 171 	 628 
+CO	Jefferson County	 565 524 	Clinton	 151 885 	 130 233 
+CO	Kiowa County	 1 423 	Clinton	 91 	 726 
+CO	Kit Carson County	 7 758 	Clinton	 526 	 2 894 
+CO	Lake County	 7 485 	Clinton	 1 600 	 1 264 
+CO	La Plata County	 54 688 	Clinton	 15 300 	 12 471 
+CO	Larimer County	 333 577 	Clinton	 92 170 	 82 624 
+CO	Las Animas County	 14 058 	Clinton	 2 614 	 3 656 
+CO	Lincoln County	 5 557 	Clinton	 399 	 1 873 
+CO	Logan County	 22 036 	Clinton	 1 843 	 7 272 
+CO	Mesa County	 148 513 	Clinton	 20 958 	 48 129 
+CO	Mineral County	 726 	Clinton	 237 	 344 
+CO	Moffat County	 12 937 	Clinton	 874 	 5 293 
+CO	Montezuma County	 26 168 	Clinton	 3 920 	 7 771 
+CO	Montrose County	 40 946 	Clinton	 5 438 	 14 303 
+CO	Morgan County	 28 360 	Clinton	 3 128 	 8 104 
+CO	Otero County	 18 343 	Clinton	 1 719 	 2 988 
+CO	Ouray County	 4 691 	Clinton	 1 690 	 1 337 
+CO	Park County	 16 510 	Clinton	 3 351 	 6 053 
+CO	Phillips County	 4 349 	Clinton	 436 	 1 791 
+CO	Pitkin County	 17 787 	Clinton	 7 239 	 2 522 
+CO	Prowers County	 11 954 	Clinton	 1 173 	 3 508 
+CO	Pueblo County	 163 591 	Clinton	 27 945 	 27 746 
+CO	Rio Blanco County	 6 571 	Clinton	 433 	 2 782 
+CO	Rio Grande County	 11 543 	Clinton	 1 985 	 3 060 
+CO	Routt County	 24 130 	Clinton	 7 487 	 5 149 
+CO	Saguache County	 6 251 	Clinton	 1 345 	 1 109 
+CO	San Juan County	 701 	Clinton	 265 	 215 
+CO	San Miguel County	 7 879 	Clinton	 2 960 	 1 030 
+CO	Sedgwick County	 2 399 	Clinton	 267 	 1 015 
+CO	Summit County	 30 257 	Clinton	 9 502 	 5 064 
+CO	Teller County	 23 385 	Clinton	 3 547 	 9 580 
+CO	Washington County	 4 864 	Clinton	 289 	 2 284 
+CO	Weld County	 285 174 	Clinton	 45 869 	 75 882 
+CO	Yuma County	 10 146 	Clinton	 701 	 3 755 
+CT	Fairfield County	 948 053 	Clinton	 238 723 	 155 457 
+CT	Hartford County	 895 841 	Clinton	 233 789 	 147 912 
+CT	Litchfield County	 183 603 	Clinton	 39 836 	 53 376 
+CT	Middlesex County	 164 063 	Clinton	 45 306 	 38 847 
+CT	New Haven County	 859 470 	Clinton	 203 601 	 158 373 
+CT	New London County	 271 863 	Clinton	 62 951 	 54 574 
+CT	Tolland County	 151 420 	Clinton	 38 450 	 33 989 
+CT	Windham County	 116 573 	Clinton	 21 776 	 25 738 
+DE	Kent County	 173 533 	Clinton	 33 347 	 36 989 
+DE	New Castle County	 556 779 	Clinton	 162 905 	 85 507 
+DE	Sussex County	 215 622 	Clinton	 39 329 	 62 607 
+DC	District of Columbia	 672 228 	Clinton	 260 223 	 11 553 
+FL	Alachua County	 259 964 	Trump	 75 370 	 46 584 
+FL	Baker County	 27 420 	Trump	 2 112 	 10 294 
+FL	Bay County	 181 635 	Trump	 21 689 	 62 010 
+FL	Bradford County	 26 928 	Trump	 2 924 	 8 913 
+FL	Brevard County	 568 088 	Trump	 119 525 	 181 620 
+FL	Broward County	 1 896 425 	Trump	 546 956 	 258 521 
+FL	Calhoun County	 14 462 	Trump	 1 236 	 4 647 
+FL	Charlotte County	 173 115 	Trump	 33 421 	 60 196 
+FL	Citrus County	 141 058 	Trump	 22 765 	 54 377 
+FL	Clay County	 203 967 	Trump	 27 768 	 74 898 
+FL	Collier County	 357 305 	Trump	 60 941 	 105 297 
+FL	Columbia County	 68 348 	Trump	 7 599 	 20 359 
+FL	DeSoto County	 35 458 	Trump	 3 761 	 6 744 
+FL	Dixie County	 16 203 	Trump	 1 270 	 5 822 
+FL	Duval County	 913 010 	Trump	 203 627 	 210 061 
+FL	Escambia County	 311 003 	Trump	 57 114 	 88 370 
+FL	Flagler County	 105 392 	Trump	 21 985 	 33 804 
+FL	Franklin County	 11 761 	Trump	 1 738 	 4 119 
+FL	Gadsden County	 46 036 	Trump	 14 994 	 6 721 
+FL	Gilchrist County	 17 199 	Trump	 1 457 	 6 740 
+FL	Glades County	 13 670 	Trump	 1 271 	 2 996 
+FL	Gulf County	 15 871 	Trump	 1 715 	 5 320 
+FL	Hamilton County	 14 295 	Trump	 1 899 	 3 439 
+FL	Hardee County	 27 502 	Trump	 2 147 	 5 238 
+FL	Hendry County	 39 119 	Trump	 4 610 	 6 192 
+FL	Hernando County	 178 439 	Trump	 31 818 	 59 029 
+FL	Highlands County	 99 491 	Trump	 14 901 	 29 509 
+FL	Hillsborough County	 1 349 050 	Trump	 306 422 	 265 928 
+FL	Holmes County	 19 324 	Trump	 852 	 7 476 
+FL	Indian River County	 147 919 	Trump	 28 997 	 48 564 
+FL	Jackson County	 48 599 	Trump	 6 383 	 14 231 
+FL	Jefferson County	 14 081 	Trump	 3 537 	 3 930 
+FL	Lafayette County	 8 663 	Trump	 515 	 2 795 
+FL	Lake County	 325 875 	Trump	 62 597 	 101 888 
+FL	Lee County	 701 982 	Trump	 124 725 	 191 141 
+FL	Leon County	 286 272 	Trump	 91 936 	 53 777 
+FL	Levy County	 39 832 	Trump	 5 091 	 13 758 
+FL	Liberty County	 8 331 	Trump	 651 	 2 542 
+FL	Madison County	 18 408 	Trump	 3 526 	 4 849 
+FL	Manatee County	 363 369 	Trump	 71 066 	 101 681 
+FL	Marion County	 343 254 	Trump	 61 958 	 107 710 
+FL	Martin County	 156 283 	Trump	 30 158 	 53 182 
+FL	Miami-Dade County	 2 693 117 	Trump	 623 006 	 333 666 
+FL	Monroe County	 77 482 	Trump	 18 949 	 21 885 
+FL	Nassau County	 78 444 	Trump	 10 849 	 34 221 
+FL	Okaloosa County	 198 664 	Trump	 23 711 	 71 788 
+FL	Okeechobee County	 39 469 	Trump	 3 953 	 9 342 
+FL	Orange County	 1 288 126 	Trump	 329 579 	 195 091 
+FL	Osceola County	 323 993 	Trump	 85 287 	 50 252 
+FL	Palm Beach County	 1 422 789 	Trump	 371 411 	 270 762 
+FL	Pasco County	 497 909 	Trump	 89 998 	 141 943 
+FL	Pinellas County	 949 827 	Trump	 233 327 	 238 746 
+FL	Polk County	 650 092 	Trump	 117 182 	 157 216 
+FL	Putnam County	 72 023 	Trump	 9 920 	 21 873 
+FL	St. Johns County	 226 640 	Trump	 43 037 	 88 633 
+FL	St. Lucie County	 298 563 	Trump	 66 812 	 70 248 
+FL	Santa Rosa County	 167 040 	Trump	 18 398 	 65 126 
+FL	Sarasota County	 405 549 	Trump	 97 676 	 124 098 
+FL	Seminole County	 449 144 	Trump	 105 611 	 109 265 
+FL	Sumter County	 118 891 	Trump	 22 631 	 52 722 
+FL	Suwannee County	 43 760 	Trump	 3 955 	 14 281 
+FL	Taylor County	 22 493 	Trump	 2 149 	 6 923 
+FL	Union County	 15 234 	Trump	 1 014 	 4 567 
+FL	Volusia County	 517 887 	Trump	 108 793 	 142 763 
+FL	Wakulla County	 31 535 	Trump	 4 348 	 10 507 
+FL	Walton County	 63 508 	Trump	 6 861 	 25 695 
+FL	Washington County	 24 687 	Trump	 2 261 	 8 630 
+GA	Appling County	 18 454 	Trump	 1 434 	 5 492 
+GA	Atkinson County	 8 398 	Trump	 696 	 1 873 
+GA	Bacon County	 11 299 	Trump	 607 	 3 356 
+GA	Baker County	 3 180 	Trump	 650 	 775 
+GA	Baldwin County	 45 459 	Trump	 7 965 	 7 691 
+GA	Banks County	 18 495 	Trump	 684 	 6 130 
+GA	Barrow County	 75 370 	Trump	 6 580 	 21 105 
+GA	Bartow County	 102 747 	Trump	 8 204 	 29 879 
+GA	Ben Hill County	 17 403 	Trump	 2 098 	 3 734 
+GA	Berrien County	 18 963 	Trump	 1 041 	 5 408 
+GA	Bibb County	 153 721 	Trump	 34 383 	 22 589 
+GA	Bleckley County	 12 243 	Trump	 1 094 	 3 717 
+GA	Brantley County	 18 455 	Trump	 619 	 5 561 
+GA	Brooks County	 15 658 	Trump	 2 504 	 3 679 
+GA	Bryan County	 35 137 	Trump	 4 010 	 10 513 
+GA	Bulloch County	 72 651 	Trump	 8 812 	 14 476 
+GA	Burke County	 22 745 	Trump	 4 730 	 4 491 
+GA	Butts County	 23 593 	Trump	 2 566 	 6 717 
+GA	Calhoun County	 6 479 	Trump	 1 178 	 829 
+GA	Camden County	 52 102 	Trump	 5 914 	 12 287 
+GA	Candler County	 10 886 	Trump	 1 023 	 2 661 
+GA	Carroll County	 114 545 	Trump	 12 422 	 29 983 
+GA	Catoosa County	 66 050 	Trump	 4 769 	 20 860 
+GA	Charlton County	 12 965 	Trump	 1 004 	 2 950 
+GA	Chatham County	 286 956 	Trump	 58 998 	 43 649 
+GA	Chattahoochee County	 11 368 	Trump	 593 	 746 
+GA	Chattooga County	 24 922 	Trump	 1 612 	 6 457 
+GA	Cherokee County	 235 900 	Trump	 25 203 	 80 611 
+GA	Clarke County	 123 912 	Trump	 29 514 	 12 691 
+GA	Clay County	 3 141 	Trump	 697 	 566 
+GA	Clayton County	 273 955 	Trump	 75 908 	 11 740 
+GA	Clinch County	 6 893 	Trump	 685 	 1 724 
+GA	Cobb County	 741 334 	Trump	 159 416 	 152 602 
+GA	Coffee County	 43 108 	Trump	 4 090 	 9 575 
+GA	Colquitt County	 45 844 	Trump	 3 460 	 9 892 
+GA	Columbia County	 144 052 	Trump	 18 863 	 43 060 
+GA	Cook County	 17 124 	Trump	 1 752 	 4 175 
+GA	Coweta County	 138 427 	Trump	 16 572 	 42 513 
+GA	Crawford County	 12 388 	Trump	 1 419 	 3 632 
+GA	Crisp County	 22 881 	Trump	 2 835 	 4 539 
+GA	Dade County	 16 264 	Trump	 965 	 5 047 
+GA	Dawson County	 23 312 	Trump	 1 444 	 9 880 
+GA	Decatur County	 27 174 	Trump	 4 104 	 6 009 
+GA	DeKalb County	 734 871 	Trump	 239 131 	 47 531 
+GA	Dodge County	 20 882 	Trump	 1 836 	 5 021 
+GA	Dooly County	 14 035 	Trump	 1 860 	 1 941 
+GA	Dougherty County	 91 332 	Trump	 23 224 	 10 227 
+GA	Douglas County	 140 733 	Trump	 30 971 	 24 803 
+GA	Early County	 10 575 	Trump	 2 165 	 2 552 
+GA	Echols County	 4 040 	Trump	 156 	 1 006 
+GA	Effingham County	 57 106 	Trump	 4 851 	 17 865 
+GA	Elbert County	 19 364 	Trump	 2 507 	 5 269 
+GA	Emanuel County	 22 708 	Trump	 2 433 	 5 330 
+GA	Evans County	 10 787 	Trump	 1 130 	 2 404 
+GA	Fannin County	 24 303 	Trump	 1 920 	 9 622 
+GA	Fayette County	 110 714 	Trump	 23 255 	 35 034 
+GA	Floyd County	 96 504 	Trump	 9 127 	 24 045 
+GA	Forsyth County	 212 438 	Trump	 23 427 	 69 801 
+GA	Franklin County	 22 311 	Trump	 1 243 	 7 054 
+GA	Fulton County	 1 010 562 	Trump	 281 875 	 110 372 
+GA	Gilmer County	 29 400 	Trump	 1 955 	 10 465 
+GA	Glascock County	 3 065 	Trump	 138 	 1 235 
+GA	Glynn County	 83 579 	Trump	 11 738 	 21 482 
+GA	Gordon County	 56 574 	Trump	 3 176 	 15 171 
+GA	Grady County	 25 205 	Trump	 3 005 	 6 047 
+GA	Greene County	 16 710 	Trump	 3 194 	 5 488 
+GA	Gwinnett County	 895 823 	Trump	 165 063 	 146 463 
+GA	Habersham County	 43 996 	Trump	 2 483 	 13 184 
+GA	Hall County	 193 535 	Trump	 16 153 	 51 681 
+GA	Hancock County	 8 551 	Trump	 2 695 	 841 
+GA	Haralson County	 28 854 	Trump	 1 474 	 9 579 
+GA	Harris County	 33 381 	Trump	 4 082 	 11 931 
+GA	Hart County	 25 534 	Trump	 2 583 	 7 285 
+GA	Heard County	 11 539 	Trump	 743 	 3 370 
+GA	Henry County	 217 739 	Trump	 49 902 	 45 641 
+GA	Houston County	 150 033 	Trump	 22 460 	 35 351 
+GA	Irwin County	 9 245 	Trump	 890 	 2 711 
+GA	Jackson County	 63 360 	Trump	 4 469 	 21 754 
+GA	Jasper County	 13 635 	Trump	 1 544 	 4 353 
+GA	Jeff Davis County	 14 920 	Trump	 901 	 4 102 
+GA	Jefferson County	 16 106 	Trump	 3 809 	 3 057 
+GA	Jenkins County	 8 957 	Trump	 1 108 	 1 892 
+GA	Johnson County	 9 656 	Trump	 1 136 	 2 519 
+GA	Jones County	 28 494 	Trump	 3 960 	 8 304 
+GA	Lamar County	 18 201 	Trump	 2 267 	 5 183 
+GA	Lanier County	 10 312 	Trump	 805 	 1 984 
+GA	Laurens County	 47 731 	Trump	 6 737 	 12 401 
+GA	Lee County	 29 202 	Trump	 3 166 	 10 641 
+GA	Liberty County	 62 467 	Trump	 9 531 	 6 125 
+GA	Lincoln County	 7 673 	Trump	 1 271 	 2 759 
+GA	Long County	 17 731 	Trump	 1 356 	 2 623 
+GA	Lowndes County	 112 865 	Trump	 14 614 	 21 308 
+GA	Lumpkin County	 31 408 	Trump	 2 216 	 9 613 
+GA	McDuffie County	 21 540 	Trump	 3 699 	 5 432 
+GA	McIntosh County	 13 969 	Trump	 2 298 	 3 482 
+GA	Macon County	 13 632 	Trump	 2 705 	 1 540 
+GA	Madison County	 28 441 	Trump	 2 423 	 9 195 
+GA	Marion County	 8 761 	Trump	 1 213 	 1 921 
+GA	Meriwether County	 21 190 	Trump	 3 800 	 5 216 
+GA	Miller County	 5 854 	Trump	 622 	 1 888 
+GA	Mitchell County	 22 574 	Trump	 3 492 	 4 272 
+GA	Monroe County	 27 103 	Trump	 3 570 	 8 821 
+GA	Montgomery County	 8 951 	Trump	 847 	 2 668 
+GA	Morgan County	 18 046 	Trump	 2 658 	 6 559 
+GA	Murray County	 39 565 	Trump	 1 799 	 10 340 
+GA	Muscogee County	 200 579 	Trump	 39 602 	 26 901 
+GA	Newton County	 105 473 	Trump	 21 936 	 20 907 
+GA	Oconee County	 35 965 	Trump	 5 253 	 12 885 
+GA	Oglethorpe County	 14 871 	Trump	 1 829 	 4 622 
+GA	Paulding County	 152 238 	Trump	 18 004 	 44 646 
+GA	Peach County	 26 720 	Trump	 5 083 	 5 405 
+GA	Pickens County	 30 309 	Trump	 1 977 	 11 651 
+GA	Pierce County	 19 103 	Trump	 903 	 6 301 
+GA	Pike County	 17 941 	Trump	 1 239 	 7 273 
+GA	Polk County	 41 524 	Trump	 2 863 	 11 006 
+GA	Pulaski County	 11 396 	Trump	 1 104 	 2 436 
+GA	Putnam County	 21 353 	Trump	 2 745 	 6 516 
+GA	Quitman County	 2 302 	Trump	 461 	 575 
+GA	Rabun County	 16 281 	Trump	 1 443 	 6 287 
+GA	Randolph County	 7 193 	Trump	 1 597 	 1 270 
+GA	Richmond County	 201 793 	Trump	 48 707 	 24 441 
+GA	Rockdale County	 88 856 	Trump	 23 206 	 13 463 
+GA	Schley County	 5 168 	Trump	 401 	 1 472 
+GA	Screven County	 14 162 	Trump	 2 300 	 3 305 
+GA	Seminole County	 8 647 	Trump	 1 186 	 2 343 
+GA	Spalding County	 64 051 	Trump	 9 347 	 15 636 
+GA	Stephens County	 25 586 	Trump	 1 835 	 7 682 
+GA	Stewart County	 5 851 	Trump	 1 220 	 805 
+GA	Sumter County	 30 779 	Trump	 5 520 	 5 275 
+GA	Talbot County	 6 337 	Trump	 2 001 	 1 196 
+GA	Taliaferro County	 1 639 	Trump	 545 	 349 
+GA	Tattnall County	 25 229 	Trump	 1 678 	 5 092 
+GA	Taylor County	 8 330 	Trump	 1 295 	 2 062 
+GA	Telfair County	 16 400 	Trump	 1 313 	 2 449 
+GA	Terrell County	 9 113 	Trump	 2 267 	 1 872 
+GA	Thomas County	 45 063 	Trump	 7 138 	 11 225 
+GA	Tift County	 40 764 	Trump	 3 892 	 8 680 
+GA	Toombs County	 27 241 	Trump	 2 338 	 6 612 
+GA	Towns County	 11 182 	Trump	 1 206 	 5 377 
+GA	Treutlen County	 6 785 	Trump	 860 	 1 808 
+GA	Troup County	 69 763 	Trump	 9 597 	 15 643 
+GA	Turner County	 8 214 	Trump	 1 243 	 2 094 
+GA	Twiggs County	 8 390 	Trump	 1 970 	 2 034 
+GA	Union County	 22 267 	Trump	 1 962 	 9 849 
+GA	Upson County	 26 368 	Trump	 3 471 	 7 288 
+GA	Walker County	 68 066 	Trump	 4 213 	 18 938 
+GA	Walton County	 88 399 	Trump	 8 279 	 31 093 
+GA	Ware County	 35 370 	Trump	 3 436 	 8 508 
+GA	Warren County	 5 460 	Trump	 1 313 	 991 
+GA	Washington County	 20 816 	Trump	 4 187 	 4 138 
+GA	Wayne County	 29 534 	Trump	 2 039 	 8 147 
+GA	Webster County	 2 648 	Trump	 471 	 630 
+GA	Wheeler County	 7 903 	Trump	 646 	 1 421 
+GA	White County	 28 319 	Trump	 1 672 	 9 751 
+GA	Whitfield County	 104 216 	Trump	 7 925 	 21 514 
+GA	Wilcox County	 8 857 	Trump	 852 	 2 096 
+GA	Wilkes County	 9 867 	Trump	 1 844 	 2 569 
+GA	Wilkinson County	 9 155 	Trump	 1 893 	 2 332 
+GA	Worth County	 20 699 	Trump	 2 015 	 6 144 
+HI	Hawaii County	 196 428 	Clinton	 41 258 	 17 500 
+HI	Honolulu County	 998 714 	Clinton	 175 634 	 90 296 
+HI	Kauai County	 71 735 	Clinton	 16 456 	 7 574 
+HI	Maui County	 164 637 	Clinton	 33 479 	 13 445 
+ID	Ada County	 434 211 	Trump	 75 676 	 93 748 
+ID	Adams County	 3 843 	Trump	 415 	 1 556 
+ID	Bannock County	 83 744 	Trump	 10 342 	 17 180 
+ID	Bear Lake County	 5 922 	Trump	 255 	 2 203 
+ID	Benewah County	 9 052 	Trump	 780 	 3 101 
+ID	Bingham County	 44 990 	Trump	 2 924 	 10 907 
+ID	Blaine County	 21 592 	Trump	 6 416 	 3 340 
+ID	Boise County	 7 058 	Trump	 777 	 2 673 
+ID	Bonner County	 41 859 	Trump	 5 140 	 10 220 
+ID	Bonneville County	 110 089 	Trump	 8 930 	 26 699 
+ID	Boundary County	 11 318 	Trump	 933 	 3 789 
+ID	Butte County	 2 501 	Trump	 160 	 914 
+ID	Camas County	 1 066 	Trump	 110 	 410 
+ID	Canyon County	 207 478 	Trump	 16 683 	 46 755 
+ID	Caribou County	 6 770 	Trump	 271 	 2 275 
+ID	Cassia County	 23 506 	Trump	 1 036 	 5 949 
+ID	Clark County	 880 	Trump	 44 	 203 
+ID	Clearwater County	 8 496 	Trump	 704 	 2 852 
+ID	Custer County	 4 087 	Trump	 427 	 1 777 
+ID	Elmore County	 25 876 	Trump	 1 814 	 5 816 
+ID	Franklin County	 13 074 	Trump	 385 	 3 901 
+ID	Fremont County	 12 819 	Trump	 651 	 4 091 
+ID	Gem County	 16 852 	Trump	 1 229 	 5 980 
+ID	Gooding County	 15 284 	Trump	 930 	 3 743 
+ID	Idaho County	 16 272 	Trump	 1 196 	 6 441 
+ID	Jefferson County	 27 157 	Trump	 976 	 8 436 
+ID	Jerome County	 22 814 	Trump	 2 117 	 7 347 
+ID	Kootenai County	 150 346 	Trump	 16 264 	 44 449 
+ID	Latah County	 38 778 	Trump	 8 093 	 7 255 
+ID	Lemhi County	 7 735 	Trump	 733 	 3 011 
+ID	Lewis County	 3 789 	Trump	 270 	 1 202 
+ID	Lincoln County	 5 297 	Trump	 360 	 1 184 
+ID	Madison County	 38 273 	Trump	 1 201 	 8 941 
+ID	Minidoka County	 20 461 	Trump	 1 167 	 4 887 
+ID	Nez Perce County	 40 048 	Trump	 4 828 	 10 699 
+ID	Oneida County	 4 281 	Trump	 184 	 1 531 
+ID	Owyhee County	 11 310 	Trump	 591 	 3 052 
+ID	Payette County	 22 896 	Trump	 892 	 4 306 
+ID	Power County	 7 648 	Trump	 699 	 1 666 
+ID	Shoshone County	 12 432 	Trump	 1 384 	 3 297 
+ID	Teton County	 10 564 	Trump	 2 157 	 2 161 
+ID	Twin Falls County	 82 375 	Trump	 6 844 	 21 063 
+ID	Valley County	 10 103 	Trump	 1 913 	 2 906 
+ID	Washington County	 9 984 	Trump	 776 	 3 283 
+IL	Adams County	 67 013 	Clinton	 7 633 	 22 732 
+IL	Alexander County	 6 780 	Clinton	 1 262 	 1 496 
+IL	Bond County	 16 950 	Clinton	 2 066 	 4 884 
+IL	Boone County	 53 585 	Clinton	 8 952 	 12 261 
+IL	Brown County	 6 829 	Clinton	 475 	 1 776 
+IL	Bureau County	 33 587 	Clinton	 6 010 	 9 264 
+IL	Calhoun County	 4 899 	Clinton	 739 	 1 719 
+IL	Carroll County	 14 616 	Clinton	 2 437 	 4 428 
+IL	Cass County	 12 847 	Clinton	 1 617 	 3 216 
+IL	Champaign County	 208 861 	Clinton	 49 694 	 33 235 
+IL	Christian County	 33 642 	Clinton	 3 982 	 10 522 
+IL	Clark County	 15 979 	Clinton	 1 873 	 5 620 
+IL	Clay County	 13 428 	Clinton	 1 014 	 5 009 
+IL	Clinton County	 37 786 	Clinton	 3 939 	 12 394 
+IL	Coles County	 52 521 	Clinton	 7 285 	 12 985 
+IL	Cook County	 5 238 216 	Clinton	 1 528 582 	 440 213 
+IL	Crawford County	 19 414 	Clinton	 1 969 	 6 146 
+IL	Cumberland County	 10 898 	Clinton	 1 028 	 4 200 
+IL	DeKalb County	 104 352 	Clinton	 20 348 	 19 051 
+IL	De Witt County	 16 247 	Clinton	 1 907 	 5 072 
+IL	Douglas County	 19 823 	Clinton	 1 946 	 5 695 
+IL	DuPage County	 933 736 	Clinton	 222 499 	 164 355 
+IL	Edgar County	 17 664 	Clinton	 1 778 	 5 634 
+IL	Edwards County	 6 534 	Clinton	 432 	 2 777 
+IL	Effingham County	 34 371 	Clinton	 3 071 	 13 613 
+IL	Fayette County	 22 043 	Clinton	 1 814 	 7 363 
+IL	Ford County	 13 736 	Clinton	 1 410 	 4 474 
+IL	Franklin County	 39 485 	Clinton	 4 711 	 13 101 
+IL	Fulton County	 35 699 	Clinton	 6 118 	 8 482 
+IL	Gallatin County	 5 265 	Clinton	 656 	 1 942 
+IL	Greene County	 13 241 	Clinton	 1 202 	 4 139 
+IL	Grundy County	 50 541 	Clinton	 8 021 	 13 417 
+IL	Hamilton County	 8 200 	Clinton	 800 	 3 205 
+IL	Hancock County	 18 543 	Clinton	 1 744 	 5 713 
+IL	Hardin County	 4 135 	Clinton	 419 	 1 650 
+IL	Henderson County	 6 995 	Clinton	 1 151 	 2 153 
+IL	Henry County	 49 489 	Clinton	 8 835 	 13 962 
+IL	Iroquois County	 28 672 	Clinton	 2 496 	 9 728 
+IL	Jackson County	 59 362 	Clinton	 11 619 	 10 889 
+IL	Jasper County	 9 607 	Clinton	 924 	 3 973 
+IL	Jefferson County	 38 353 	Clinton	 4 408 	 11 681 
+IL	Jersey County	 22 372 	Clinton	 2 673 	 7 737 
+IL	Jo Daviess County	 22 086 	Clinton	 4 452 	 6 113 
+IL	Johnson County	 12 762 	Clinton	 1 135 	 4 644 
+IL	Kane County	 530 847 	Clinton	 99 389 	 82 087 
+IL	Kankakee County	 110 879 	Clinton	 18 908 	 25 081 
+IL	Kendall County	 123 355 	Clinton	 23 392 	 24 152 
+IL	Knox County	 51 441 	Clinton	 9 939 	 10 658 
+IL	Lake County	 703 910 	Clinton	 168 186 	 108 608 
+IL	LaSalle County	 111 333 	Clinton	 19 277 	 26 269 
+IL	Lawrence County	 16 491 	Clinton	 1 288 	 4 517 
+IL	Lee County	 34 584 	Clinton	 5 499 	 8 597 
+IL	Livingston County	 36 671 	Clinton	 4 005 	 10 197 
+IL	Logan County	 29 494 	Clinton	 3 301 	 8 167 
+IL	McDonough County	 31 333 	Clinton	 5 278 	 6 789 
+IL	McHenry County	 307 343 	Clinton	 59 827 	 71 117 
+IL	McLean County	 173 166 	Clinton	 35 918 	 37 081 
+IL	Macon County	 107 303 	Clinton	 18 211 	 26 782 
+IL	Macoupin County	 46 045 	Clinton	 6 532 	 14 194 
+IL	Madison County	 266 209 	Clinton	 50 336 	 70 295 
+IL	Marion County	 38 339 	Clinton	 4 231 	 11 677 
+IL	Marshall County	 11 982 	Clinton	 1 784 	 3 776 
+IL	Mason County	 13 701 	Clinton	 2 008 	 4 051 
+IL	Massac County	 14 766 	Clinton	 1 555 	 4 844 
+IL	Menard County	 12 444 	Clinton	 1 808 	 4 230 
+IL	Mercer County	 15 858 	Clinton	 3 061 	 4 800 
+IL	Monroe County	 33 879 	Clinton	 5 522 	 12 614 
+IL	Montgomery County	 28 898 	Clinton	 3 490 	 8 616 
+IL	Morgan County	 34 828 	Clinton	 4 693 	 9 060 
+IL	Moultrie County	 14 931 	Clinton	 1 476 	 4 453 
+IL	Ogle County	 51 659 	Clinton	 8 025 	 14 344 
+IL	Peoria County	 186 221 	Clinton	 37 436 	 35 299 
+IL	Perry County	 21 543 	Clinton	 2 433 	 6 816 
+IL	Piatt County	 16 387 	Clinton	 2 633 	 5 623 
+IL	Pike County	 15 989 	Clinton	 1 412 	 5 749 
+IL	Pope County	 4 226 	Clinton	 374 	 1 678 
+IL	Pulaski County	 5 678 	Clinton	 817 	 1 583 
+IL	Putnam County	 5 644 	Clinton	 1 143 	 1 762 
+IL	Randolph County	 32 852 	Clinton	 3 421 	 9 992 
+IL	Richland County	 16 029 	Clinton	 1 579 	 5 736 
+IL	Rock Island County	 146 133 	Clinton	 32 258 	 26 969 
+IL	St. Clair County	 264 052 	Clinton	 60 180 	 53 479 
+IL	Saline County	 24 548 	Clinton	 2 551 	 8 248 
+IL	Sangamon County	 198 712 	Clinton	 40 731 	 49 823 
+IL	Schuyler County	 7 032 	Clinton	 1 074 	 2 523 
+IL	Scott County	 5 092 	Clinton	 528 	 1 965 
+IL	Shelby County	 21 775 	Clinton	 2 279 	 8 209 
+IL	Stark County	 5 788 	Clinton	 748 	 1 777 
+IL	Stephenson County	 45 749 	Clinton	 7 531 	 10 845 
+IL	Tazewell County	 134 800 	Clinton	 20 568 	 38 620 
+IL	Union County	 17 408 	Clinton	 2 389 	 5 780 
+IL	Vermilion County	 79 282 	Clinton	 9 876 	 18 582 
+IL	Wabash County	 11 542 	Clinton	 1 146 	 4 039 
+IL	Warren County	 17 527 	Clinton	 2 983 	 4 267 
+IL	Washington County	 14 270 	Clinton	 1 446 	 5 566 
+IL	Wayne County	 16 423 	Clinton	 1 048 	 6 963 
+IL	White County	 14 327 	Clinton	 1 412 	 5 639 
+IL	Whiteside County	 57 079 	Clinton	 11 005 	 12 597 
+IL	Will County	 687 263 	Clinton	 146 230 	 129 726 
+IL	Williamson County	 67 466 	Clinton	 8 539 	 21 503 
+IL	Winnebago County	 287 078 	Clinton	 52 595 	 53 922 
+IL	Woodford County	 39 227 	Clinton	 5 068 	 13 180 
+IN	Adams County	 34 980 	Trump	 2 802 	 9 642 
+IN	Allen County	 368 450 	Trump	 55 222 	 83 801 
+IN	Bartholomew County	 81 162 	Trump	 9 841 	 20 637 
+IN	Benton County	 8 681 	Trump	 860 	 2 579 
+IN	Blackford County	 12 298 	Trump	 1 243 	 3 349 
+IN	Boone County	 63 344 	Trump	 10 181 	 19 654 
+IN	Brown County	 14 977 	Trump	 2 518 	 5 015 
+IN	Carroll County	 19 856 	Trump	 1 891 	 6 273 
+IN	Cass County	 37 979 	Trump	 3 758 	 9 697 
+IN	Clark County	 115 371 	Trump	 18 791 	 30 012 
+IN	Clay County	 26 503 	Trump	 2 306 	 8 528 
+IN	Clinton County	 32 609 	Trump	 2 819 	 8 530 
+IN	Crawford County	 10 483 	Trump	 1 323 	 3 013 
+IN	Daviess County	 32 906 	Trump	 1 800 	 8 545 
+IN	Dearborn County	 49 455 	Trump	 4 883 	 18 110 
+IN	Decatur County	 26 521 	Trump	 2 121 	 8 488 
+IN	DeKalb County	 42 589 	Trump	 3 941 	 12 054 
+IN	Delaware County	 116 852 	Trump	 18 100 	 24 217 
+IN	Dubois County	 42 461 	Trump	 5 389 	 13 365 
+IN	Elkhart County	 203 474 	Trump	 20 667 	 41 810 
+IN	Fayette County	 23 434 	Trump	 2 252 	 6 839 
+IN	Floyd County	 76 778 	Trump	 13 939 	 21 427 
+IN	Fountain County	 16 591 	Trump	 1 476 	 5 661 
+IN	Franklin County	 22 872 	Trump	 1 967 	 8 665 
+IN	Fulton County	 20 315 	Trump	 1 960 	 6 010 
+IN	Gibson County	 33 775 	Trump	 3 720 	 11 079 
+IN	Grant County	 67 979 	Trump	 7 029 	 17 009 
+IN	Greene County	 32 441 	Trump	 2 929 	 10 275 
+IN	Hamilton County	 309 697 	Trump	 57 214 	 87 299 
+IN	Hancock County	 72 520 	Trump	 8 901 	 25 050 
+IN	Harrison County	 39 578 	Trump	 4 776 	 12 993 
+IN	Hendricks County	 158 192 	Trump	 22 595 	 48 326 
+IN	Henry County	 48 985 	Trump	 5 124 	 13 895 
+IN	Howard County	 82 556 	Trump	 11 215 	 23 675 
+IN	Huntington County	 36 630 	Trump	 3 506 	 11 649 
+IN	Jackson County	 44 069 	Trump	 3 843 	 12 857 
+IN	Jasper County	 33 470 	Trump	 3 329 	 9 382 
+IN	Jay County	 21 121 	Trump	 1 889 	 5 697 
+IN	Jefferson County	 32 416 	Trump	 4 325 	 8 538 
+IN	Jennings County	 27 897 	Trump	 2 364 	 8 222 
+IN	Johnson County	 149 633 	Trump	 17 318 	 45 456 
+IN	Knox County	 37 927 	Trump	 3 772 	 11 077 
+IN	Kosciusko County	 78 620 	Trump	 6 311 	 23 909 
+IN	LaGrange County	 38 809 	Trump	 2 080 	 7 025 
+IN	Lake County	 487 865 	Trump	 116 896 	 75 565 
+IN	LaPorte County	 110 884 	Trump	 19 795 	 22 678 
+IN	Lawrence County	 45 495 	Trump	 4 210 	 14 034 
+IN	Madison County	 129 723 	Trump	 18 595 	 32 376 
+IN	Marion County	 939 020 	Trump	 212 676 	 130 228 
+IN	Marshall County	 46 857 	Trump	 4 798 	 12 286 
+IN	Martin County	 10 226 	Trump	 881 	 3 695 
+IN	Miami County	 35 862 	Trump	 2 766 	 9 975 
+IN	Monroe County	 144 705 	Trump	 34 183 	 20 527 
+IN	Montgomery County	 38 227 	Trump	 3 362 	 11 051 
+IN	Morgan County	 69 648 	Trump	 6 037 	 23 671 
+IN	Newton County	 14 008 	Trump	 1 403 	 4 074 
+IN	Noble County	 47 733 	Trump	 3 904 	 12 198 
+IN	Ohio County	 5 938 	Trump	 686 	 2 118 
+IN	Orange County	 19 605 	Trump	 2 048 	 5 800 
+IN	Owen County	 20 872 	Trump	 1 946 	 6 151 
+IN	Parke County	 16 901 	Trump	 1 441 	 4 863 
+IN	Perry County	 19 347 	Trump	 3 062 	 4 556 
+IN	Pike County	 12 594 	Trump	 1 297 	 4 398 
+IN	Porter County	 167 688 	Trump	 33 531 	 38 719 
+IN	Posey County	 25 512 	Trump	 3 515 	 8 393 
+IN	Pulaski County	 12 889 	Trump	 1 327 	 3 854 
+IN	Putnam County	 37 585 	Trump	 3 356 	 10 637 
+IN	Randolph County	 25 172 	Trump	 2 446 	 7 515 
+IN	Ripley County	 28 701 	Trump	 2 471 	 9 806 
+IN	Rush County	 16 672 	Trump	 1 525 	 5 292 
+IN	St. Joseph County	 268 441 	Trump	 52 247 	 52 019 
+IN	Scott County	 23 744 	Trump	 2 642 	 6 074 
+IN	Shelby County	 44 478 	Trump	 4 247 	 12 718 
+IN	Spencer County	 20 715 	Trump	 2 861 	 6 572 
+IN	Starke County	 22 958 	Trump	 2 489 	 6 367 
+IN	Steuben County	 34 372 	Trump	 3 741 	 10 127 
+IN	Sullivan County	 20 928 	Trump	 2 113 	 6 138 
+IN	Switzerland County	 10 524 	Trump	 930 	 2 558 
+IN	Tippecanoe County	 185 826 	Trump	 27 207 	 30 711 
+IN	Tipton County	 15 267 	Trump	 1 587 	 5 589 
+IN	Union County	 7 182 	Trump	 715 	 2 445 
+IN	Vanderburgh County	 181 877 	Trump	 28 296 	 40 422 
+IN	Vermillion County	 15 692 	Trump	 2 081 	 4 511 
+IN	Vigo County	 107 896 	Trump	 15 922 	 21 924 
+IN	Wabash County	 32 138 	Trump	 3 018 	 9 819 
+IN	Warren County	 8 269 	Trump	 839 	 2 896 
+IN	Warrick County	 61 897 	Trump	 9 086 	 19 133 
+IN	Washington County	 27 827 	Trump	 2 636 	 8 206 
+IN	Wayne County	 67 001 	Trump	 8 322 	 16 028 
+IN	Wells County	 27 964 	Trump	 2 585 	 9 999 
+IN	White County	 24 293 	Trump	 2 563 	 6 813 
+IN	Whitley County	 33 406 	Trump	 3 379 	 11 357 
+IA	Adair County	 7 228 	Trump	 1 127 	 2 456 
+IA	Adams County	 3 796 	Trump	 565 	 1 393 
+IA	Allamakee County	 13 886 	Trump	 2 409 	 4 072 
+IA	Appanoose County	 12 529 	Trump	 1 813 	 4 031 
+IA	Audubon County	 5 773 	Trump	 1 079 	 2 135 
+IA	Benton County	 25 658 	Trump	 4 672 	 8 226 
+IA	Black Hawk County	 133 455 	Trump	 32 006 	 27 382 
+IA	Boone County	 26 643 	Trump	 5 517 	 7 458 
+IA	Bremer County	 24 722 	Trump	 5 349 	 7 199 
+IA	Buchanan County	 21 062 	Trump	 3 966 	 5 504 
+IA	Buena Vista County	 20 493 	Trump	 2 851 	 4 895 
+IA	Butler County	 14 915 	Trump	 2 163 	 4 918 
+IA	Calhoun County	 9 818 	Trump	 1 396 	 3 466 
+IA	Carroll County	 20 498 	Trump	 3 305 	 6 627 
+IA	Cass County	 13 427 	Trump	 1 946 	 4 755 
+IA	Cedar County	 18 340 	Trump	 3 578 	 5 275 
+IA	Cerro Gordo County	 43 017 	Trump	 9 840 	 11 583 
+IA	Cherokee County	 11 574 	Trump	 1 676 	 4 188 
+IA	Chickasaw County	 12 097 	Trump	 2 264 	 3 739 
+IA	Clarke County	 9 259 	Trump	 1 463 	 2 706 
+IA	Clay County	 16 507 	Trump	 2 246 	 5 870 
+IA	Clayton County	 17 644 	Trump	 3 236 	 5 309 
+IA	Clinton County	 47 768 	Trump	 10 079 	 11 249 
+IA	Crawford County	 17 094 	Trump	 1 985 	 4 608 
+IA	Dallas County	 80 133 	Trump	 15 662 	 19 288 
+IA	Davis County	 8 769 	Trump	 976 	 2 721 
+IA	Decatur County	 8 220 	Trump	 1 201 	 2 296 
+IA	Delaware County	 17 403 	Trump	 2 956 	 5 688 
+IA	Des Moines County	 40 055 	Trump	 8 178 	 9 479 
+IA	Dickinson County	 17 111 	Trump	 3 051 	 6 743 
+IA	Dubuque County	 97 125 	Trump	 22 774 	 23 384 
+IA	Emmet County	 9 769 	Trump	 1 356 	 3 121 
+IA	Fayette County	 20 257 	Trump	 3 666 	 5 591 
+IA	Floyd County	 15 960 	Trump	 3 177 	 4 371 
+IA	Franklin County	 10 295 	Trump	 1 490 	 3 153 
+IA	Fremont County	 6 906 	Trump	 959 	 2 401 
+IA	Greene County	 9 027 	Trump	 1 688 	 2 819 
+IA	Grundy County	 12 435 	Trump	 1 847 	 4 516 
+IA	Guthrie County	 10 676 	Trump	 1 720 	 3 603 
+IA	Hamilton County	 15 190 	Trump	 2 715 	 4 450 
+IA	Hancock County	 10 974 	Trump	 1 582 	 3 972 
+IA	Hardin County	 17 367 	Trump	 2 774 	 5 231 
+IA	Harrison County	 14 265 	Trump	 2 123 	 4 892 
+IA	Henry County	 19 950 	Trump	 2 897 	 5 764 
+IA	Howard County	 9 410 	Trump	 1 674 	 2 611 
+IA	Humboldt County	 9 555 	Trump	 1 251 	 3 564 
+IA	Ida County	 7 028 	Trump	 792 	 2 655 
+IA	Iowa County	 16 401 	Trump	 3 070 	 5 193 
+IA	Jackson County	 19 444 	Trump	 3 837 	 5 821 
+IA	Jasper County	 36 827 	Trump	 7 108 	 10 556 
+IA	Jefferson County	 17 555 	Trump	 3 702 	 3 738 
+IA	Johnson County	 144 251 	Trump	 49 942 	 20 993 
+IA	Jones County	 20 466 	Trump	 3 779 	 5 718 
+IA	Keokuk County	 10 163 	Trump	 1 265 	 3 385 
+IA	Kossuth County	 15 165 	Trump	 2 529 	 5 637 
+IA	Lee County	 35 089 	Trump	 6 195 	 8 762 
+IA	Linn County	 219 916 	Trump	 58 481 	 48 183 
+IA	Louisa County	 11 185 	Trump	 1 643 	 3 060 
+IA	Lucas County	 8 682 	Trump	 1 236 	 2 873 
+IA	Lyon County	 11 745 	Trump	 917 	 5 188 
+IA	Madison County	 15 753 	Trump	 2 666 	 5 336 
+IA	Mahaska County	 22 324 	Trump	 2 606 	 7 404 
+IA	Marion County	 33 294 	Trump	 5 469 	 10 940 
+IA	Marshall County	 40 746 	Trump	 7 623 	 9 125 
+IA	Mills County	 14 844 	Trump	 2 080 	 5 050 
+IA	Mitchell County	 10 832 	Trump	 1 879 	 3 180 
+IA	Monona County	 8 979 	Trump	 1 244 	 3 115 
+IA	Monroe County	 7 973 	Trump	 1 053 	 2 635 
+IA	Montgomery County	 10 234 	Trump	 1 312 	 3 431 
+IA	Muscatine County	 43 011 	Trump	 8 284 	 9 549 
+IA	O'Brien County	 13 984 	Trump	 1 314 	 5 735 
+IA	Osceola County	 6 154 	Trump	 552 	 2 528 
+IA	Page County	 15 527 	Trump	 1 801 	 4 875 
+IA	Palo Alto County	 9 133 	Trump	 1 395 	 3 079 
+IA	Plymouth County	 24 800 	Trump	 2 878 	 9 659 
+IA	Pocahontas County	 7 008 	Trump	 962 	 2 692 
+IA	Polk County	 467 711 	Trump	 119 671 	 93 421 
+IA	Pottawattamie County	 93 671 	Trump	 15 341 	 24 441 
+IA	Poweshiek County	 18 550 	Trump	 4 272 	 4 936 
+IA	Ringgold County	 5 068 	Trump	 753 	 1 820 
+IA	Sac County	 10 021 	Trump	 1 269 	 3 692 
+IA	Scott County	 172 126 	Trump	 40 302 	 39 083 
+IA	Shelby County	 11 927 	Trump	 1 649 	 4 340 
+IA	Sioux County	 34 937 	Trump	 2 289 	 14 761 
+IA	Story County	 96 021 	Trump	 25 085 	 19 111 
+IA	Tama County	 17 337 	Trump	 3 194 	 4 968 
+IA	Taylor County	 6 205 	Trump	 755 	 2 108 
+IA	Union County	 12 469 	Trump	 1 920 	 3 521 
+IA	Van Buren County	 7 344 	Trump	 843 	 2 524 
+IA	Wapello County	 35 173 	Trump	 5 591 	 8 710 
+IA	Warren County	 48 626 	Trump	 10 371 	 14 773 
+IA	Washington County	 22 247 	Trump	 3 938 	 6 170 
+IA	Wayne County	 6 385 	Trump	 719 	 2 069 
+IA	Webster County	 37 071 	Trump	 6 293 	 10 049 
+IA	Winnebago County	 10 609 	Trump	 1 920 	 3 437 
+IA	Winneshiek County	 20 709 	Trump	 5 238 	 5 332 
+IA	Woodbury County	 102 782 	Trump	 16 102 	 24 627 
+IA	Worth County	 7 569 	Trump	 1 523 	 2 443 
+IA	Wright County	 12 773 	Trump	 1 890 	 3 790 
+KS	Allen County	 12 717 	Trump	 1 398 	 3 575 
+KS	Anderson County	 7 808 	Trump	 665 	 2 386 
+KS	Atchison County	 16 398 	Trump	 1 946 	 3 977 
+KS	Barber County	 4 823 	Trump	 281 	 1 822 
+KS	Barton County	 27 103 	Trump	 1 823 	 7 766 
+KS	Bourbon County	 14 712 	Trump	 1 306 	 4 314 
+KS	Brown County	 9 776 	Trump	 850 	 2 861 
+KS	Butler County	 66 741 	Trump	 6 489 	 18 781 
+KS	Chase County	 2 679 	Trump	 313 	 964 
+KS	Chautauqua County	 3 402 	Trump	 236 	 1 552 
+KS	Cherokee County	 20 533 	Trump	 1 959 	 6 017 
+KS	Cheyenne County	 2 679 	Trump	 188 	 1 172 
+KS	Clark County	 2 096 	Trump	 118 	 813 
+KS	Clay County	 8 347 	Trump	 665 	 2 831 
+KS	Cloud County	 9 219 	Trump	 744 	 2 856 
+KS	Coffey County	 8 384 	Trump	 719 	 2 990 
+KS	Comanche County	 1 843 	Trump	 102 	 705 
+KS	Cowley County	 35 788 	Trump	 3 436 	 8 016 
+KS	Crawford County	 39 217 	Trump	 5 064 	 8 394 
+KS	Decatur County	 2 932 	Trump	 178 	 1 220 
+KS	Dickinson County	 19 303 	Trump	 1 582 	 5 905 
+KS	Doniphan County	 7 797 	Trump	 584 	 2 601 
+KS	Douglas County	 118 053 	Trump	 30 089 	 14 308 
+KS	Edwards County	 2 968 	Trump	 208 	 1 033 
+KS	Elk County	 2 605 	Trump	 160 	 1 048 
+KS	Ellis County	 29 029 	Trump	 2 669 	 8 311 
+KS	Ellsworth County	 6 343 	Trump	 515 	 1 933 
+KS	Finney County	 37 118 	Trump	 3 006 	 6 155 
+KS	Ford County	 34 536 	Trump	 2 032 	 4 994 
+KS	Franklin County	 25 609 	Trump	 2 829 	 7 025 
+KS	Geary County	 37 030 	Trump	 2 569 	 4 116 
+KS	Gove County	 2 640 	Trump	 149 	 1 127 
+KS	Graham County	 2 591 	Trump	 185 	 1 013 
+KS	Grant County	 7 733 	Trump	 427 	 1 755 
+KS	Gray County	 6 133 	Trump	 257 	 1 651 
+KS	Greeley County	 1 330 	Trump	 83 	 523 
+KS	Greenwood County	 6 244 	Trump	 484 	 2 146 
+KS	Hamilton County	 2 474 	Trump	 114 	 690 
+KS	Harper County	 5 817 	Trump	 388 	 1 950 
+KS	Harvey County	 35 073 	Trump	 5 006 	 8 503 
+KS	Haskell County	 4 064 	Trump	 228 	 1 011 
+KS	Hodgeman County	 1 893 	Trump	 124 	 845 
+KS	Jackson County	 13 338 	Trump	 1 489 	 3 888 
+KS	Jefferson County	 18 930 	Trump	 2 483 	 5 112 
+KS	Jewell County	 2 970 	Trump	 180 	 1 204 
+KS	Johnson County	 580 159 	Trump	 126 324 	 133 907 
+KS	Kearny County	 3 956 	Trump	 224 	 1 048 
+KS	Kingman County	 7 687 	Trump	 594 	 2 507 
+KS	Kiowa County	 2 564 	Trump	 111 	 855 
+KS	Labette County	 20 803 	Trump	 2 234 	 5 232 
+KS	Lane County	 1 670 	Trump	 104 	 684 
+KS	Leavenworth County	 79 315 	Trump	 10 064 	 17 387 
+KS	Lincoln County	 3 105 	Trump	 214 	 1 168 
+KS	Linn County	 9 536 	Trump	 721 	 3 377 
+KS	Logan County	 2 825 	Trump	 149 	 1 124 
+KS	Lyon County	 33 339 	Trump	 4 456 	 6 354 
+KS	McPherson County	 28 941 	Trump	 3 183 	 8 407 
+KS	Marion County	 12 103 	Trump	 1 177 	 3 928 
+KS	Marshall County	 9 936 	Trump	 1 060 	 3 250 
+KS	Meade County	 4 330 	Trump	 206 	 1 390 
+KS	Miami County	 32 553 	Trump	 3 949 	 9 839 
+KS	Mitchell County	 6 282 	Trump	 469 	 2 216 
+KS	Montgomery County	 33 314 	Trump	 2 557 	 8 466 
+KS	Morris County	 5 645 	Trump	 586 	 1 790 
+KS	Morton County	 3 007 	Trump	 145 	 970 
+KS	Nemaha County	 10 227 	Trump	 714 	 4 066 
+KS	Neosho County	 16 346 	Trump	 1 464 	 4 340 
+KS	Ness County	 3 005 	Trump	 160 	 1 216 
+KS	Norton County	 5 550 	Trump	 277 	 1 808 
+KS	Osage County	 15 847 	Trump	 1 730 	 4 713 
+KS	Osborne County	 3 683 	Trump	 231 	 1 437 
+KS	Ottawa County	 5 975 	Trump	 424 	 2 261 
+KS	Pawnee County	 6 838 	Trump	 567 	 1 872 
+KS	Phillips County	 5 428 	Trump	 296 	 2 200 
+KS	Pottawatomie County	 23 298 	Trump	 2 191 	 7 451 
+KS	Pratt County	 9 691 	Trump	 769 	 2 824 
+KS	Rawlins County	 2 506 	Trump	 160 	 1 209 
+KS	Reno County	 63 718 	Trump	 6 670 	 15 100 
+KS	Republic County	 4 725 	Trump	 370 	 1 993 
+KS	Rice County	 9 977 	Trump	 668 	 2 652 
+KS	Riley County	 75 247 	Trump	 8 892 	 9 817 
+KS	Rooks County	 5 174 	Trump	 273 	 1 999 
+KS	Rush County	 3 130 	Trump	 227 	 1 177 
+KS	Russell County	 7 039 	Trump	 454 	 2 544 
+KS	Saline County	 55 691 	Trump	 6 084 	 13 367 
+KS	Scott County	 4 964 	Trump	 232 	 1 832 
+KS	Sedgwick County	 511 574 	Trump	 66 716 	 101 319 
+KS	Seward County	 23 152 	Trump	 1 491 	 3 025 
+KS	Shawnee County	 178 725 	Trump	 33 270 	 35 349 
+KS	Sheridan County	 2 512 	Trump	 126 	 1 186 
+KS	Sherman County	 5 983 	Trump	 340 	 2 043 
+KS	Smith County	 3 704 	Trump	 295 	 1 635 
+KS	Stafford County	 4 236 	Trump	 303 	 1 485 
+KS	Stanton County	 2 072 	Trump	 132 	 580 
+KS	Stevens County	 5 806 	Trump	 215 	 1 564 
+KS	Sumner County	 23 535 	Trump	 2 039 	 6 844 
+KS	Thomas County	 7 904 	Trump	 467 	 2 832 
+KS	Trego County	 2 927 	Trump	 193 	 1 211 
+KS	Wabaunsee County	 6 951 	Trump	 773 	 2 358 
+KS	Wallace County	 1 518 	Trump	 45 	 711 
+KS	Washington County	 5 598 	Trump	 378 	 2 136 
+KS	Wichita County	 2 157 	Trump	 139 	 765 
+KS	Wilson County	 8 856 	Trump	 550 	 2 747 
+KS	Woodson County	 3 115 	Trump	 270 	 1 063 
+KS	Wyandotte County	 163 369 	Trump	 29 346 	 15 520 
+KY	Adair County	 19 027 	Trump	 1 323 	 6 637 
+KY	Allen County	 20 640 	Trump	 1 349 	 6 466 
+KY	Anderson County	 21 979 	Trump	 2 634 	 8 242 
+KY	Ballard County	 8 212 	Trump	 816 	 3 161 
+KY	Barren County	 43 570 	Trump	 4 275 	 13 483 
+KY	Bath County	 12 228 	Trump	 1 361 	 3 082 
+KY	Bell County	 27 337 	Trump	 1 720 	 7 764 
+KY	Boone County	 127 712 	Trump	 15 026 	 39 082 
+KY	Bourbon County	 20 116 	Trump	 2 791 	 5 569 
+KY	Boyd County	 48 325 	Trump	 6 021 	 13 591 
+KY	Boyle County	 29 809 	Trump	 4 281 	 8 040 
+KY	Bracken County	 8 321 	Trump	 705 	 2 711 
+KY	Breathitt County	 13 484 	Trump	 1 537 	 3 991 
+KY	Breckinridge County	 20 018 	Trump	 1 960 	 6 484 
+KY	Bullitt County	 78 702 	Trump	 8 255 	 26 210 
+KY	Butler County	 12 938 	Trump	 947 	 4 428 
+KY	Caldwell County	 12 681 	Trump	 1 260 	 4 507 
+KY	Calloway County	 38 343 	Trump	 4 749 	 10 367 
+KY	Campbell County	 92 066 	Trump	 14 658 	 25 050 
+KY	Carlisle County	 4 874 	Trump	 432 	 2 094 
+KY	Carroll County	 10 699 	Trump	 1 106 	 2 588 
+KY	Carter County	 27 158 	Trump	 2 276 	 7 587 
+KY	Casey County	 15 808 	Trump	 767 	 5 482 
+KY	Christian County	 73 309 	Trump	 7 188 	 14 108 
+KY	Clark County	 35 757 	Trump	 4 706 	 10 710 
+KY	Clay County	 21 013 	Trump	 752 	 5 861 
+KY	Clinton County	 10 174 	Trump	 547 	 3 809 
+KY	Crittenden County	 9 183 	Trump	 617 	 3 290 
+KY	Cumberland County	 6 759 	Trump	 459 	 2 502 
+KY	Daviess County	 99 259 	Trump	 14 163 	 28 907 
+KY	Edmonson County	 12 007 	Trump	 979 	 4 135 
+KY	Elliott County	 7 648 	Trump	 740 	 2 000 
+KY	Estill County	 14 375 	Trump	 1 108 	 4 236 
+KY	Fayette County	 314 488 	Trump	 69 776 	 56 890 
+KY	Fleming County	 14 637 	Trump	 1 348 	 4 722 
+KY	Floyd County	 37 756 	Trump	 4 015 	 11 993 
+KY	Franklin County	 50 375 	Trump	 10 717 	 11 819 
+KY	Fulton County	 6 238 	Trump	 774 	 1 549 
+KY	Gallatin County	 8 636 	Trump	 749 	 2 443 
+KY	Garrard County	 17 237 	Trump	 1 453 	 5 904 
+KY	Grant County	 24 757 	Trump	 1 910 	 7 268 
+KY	Graves County	 37 421 	Trump	 3 308 	 12 671 
+KY	Grayson County	 26 221 	Trump	 1 959 	 8 219 
+KY	Green County	 11 010 	Trump	 832 	 4 372 
+KY	Greenup County	 36 068 	Trump	 4 146 	 11 546 
+KY	Hancock County	 8 692 	Trump	 1 244 	 2 788 
+KY	Hardin County	 106 439 	Trump	 13 944 	 26 970 
+KY	Harlan County	 27 703 	Trump	 1 372 	 9 129 
+KY	Harrison County	 18 763 	Trump	 2 031 	 5 435 
+KY	Hart County	 18 454 	Trump	 1 730 	 5 320 
+KY	Henderson County	 46 407 	Trump	 6 707 	 12 159 
+KY	Henry County	 15 620 	Trump	 1 828 	 4 944 
+KY	Hickman County	 4 612 	Trump	 449 	 1 657 
+KY	Hopkins County	 46 222 	Trump	 4 310 	 15 277 
+KY	Jackson County	 13 352 	Trump	 482 	 4 889 
+KY	Jefferson County	 763 623 	Trump	 190 824 	 143 758 
+KY	Jessamine County	 51 961 	Trump	 6 144 	 15 474 
+KY	Johnson County	 23 175 	Trump	 1 250 	 8 043 
+KY	Kenton County	 165 012 	Trump	 24 213 	 42 958 
+KY	Knott County	 15 693 	Trump	 1 245 	 4 357 
+KY	Knox County	 31 730 	Trump	 1 761 	 9 885 
+KY	Larue County	 14 241 	Trump	 1 278 	 4 799 
+KY	Laurel County	 60 094 	Trump	 3 440 	 20 592 
+KY	Lawrence County	 15 745 	Trump	 1 045 	 4 816 
+KY	Lee County	 6 752 	Trump	 444 	 2 151 
+KY	Leslie County	 10 711 	Trump	 400 	 4 015 
+KY	Letcher County	 23 123 	Trump	 1 542 	 7 293 
+KY	Lewis County	 13 682 	Trump	 785 	 4 363 
+KY	Lincoln County	 24 463 	Trump	 1 865 	 7 338 
+KY	Livingston County	 9 316 	Trump	 887 	 3 570 
+KY	Logan County	 26 910 	Trump	 2 755 	 7 778 
+KY	Lyon County	 8 306 	Trump	 1 045 	 2 789 
+KY	McCracken County	 65 018 	Trump	 9 134 	 20 774 
+KY	McCreary County	 17 878 	Trump	 664 	 5 012 
+KY	McLean County	 9 512 	Trump	 988 	 3 381 
+KY	Madison County	 87 824 	Trump	 11 793 	 23 431 
+KY	Magoffin County	 12 808 	Trump	 1 172 	 3 824 
+KY	Marion County	 19 365 	Trump	 2 679 	 5 122 
+KY	Marshall County	 31 101 	Trump	 3 672 	 12 322 
+KY	Martin County	 12 307 	Trump	 363 	 3 503 
+KY	Mason County	 17 099 	Trump	 1 970 	 4 944 
+KY	Meade County	 27 924 	Trump	 3 026 	 8 660 
+KY	Menifee County	 6 358 	Trump	 700 	 2 010 
+KY	Mercer County	 21 407 	Trump	 2 395 	 7 740 
+KY	Metcalfe County	 9 909 	Trump	 976 	 3 491 
+KY	Monroe County	 10 667 	Trump	 601 	 4 278 
+KY	Montgomery County	 27 608 	Trump	 3 158 	 7 856 
+KY	Morgan County	 13 275 	Trump	 1 006 	 3 628 
+KY	Muhlenberg County	 31 183 	Trump	 3 272 	 9 393 
+KY	Nelson County	 45 126 	Trump	 6 434 	 13 430 
+KY	Nicholas County	 7 131 	Trump	 787 	 1 957 
+KY	Ohio County	 24 216 	Trump	 2 080 	 7 942 
+KY	Oldham County	 64 875 	Trump	 10 268 	 20 469 
+KY	Owen County	 10 730 	Trump	 1 062 	 3 745 
+KY	Owsley County	 4 461 	Trump	 256 	 1 474 
+KY	Pendleton County	 14 408 	Trump	 1 164 	 4 604 
+KY	Perry County	 27 565 	Trump	 2 136 	 8 158 
+KY	Pike County	 61 792 	Trump	 4 277 	 19 740 
+KY	Powell County	 12 269 	Trump	 1 272 	 3 513 
+KY	Pulaski County	 63 782 	Trump	 4 208 	 22 900 
+KY	Robertson County	 2 138 	Trump	 222 	 759 
+KY	Rockcastle County	 16 942 	Trump	 915 	 5 609 
+KY	Rowan County	 23 892 	Trump	 3 295 	 5 174 
+KY	Russell County	 17 662 	Trump	 1 093 	 6 863 
+KY	Scott County	 52 420 	Trump	 7 713 	 15 052 
+KY	Shelby County	 45 632 	Trump	 6 276 	 13 196 
+KY	Simpson County	 18 006 	Trump	 2 144 	 5 077 
+KY	Spencer County	 17 894 	Trump	 1 921 	 7 196 
+KY	Taylor County	 25 420 	Trump	 2 553 	 8 320 
+KY	Todd County	 12 531 	Trump	 1 042 	 3 612 
+KY	Trigg County	 14 233 	Trump	 1 587 	 4 928 
+KY	Trimble County	 8 769 	Trump	 879 	 2 771 
+KY	Union County	 15 050 	Trump	 1 331 	 4 701 
+KY	Warren County	 122 851 	Trump	 16 966 	 28 673 
+KY	Washington County	 12 063 	Trump	 1 420 	 4 013 
+KY	Wayne County	 20 464 	Trump	 1 431 	 6 370 
+KY	Webster County	 13 170 	Trump	 1 240 	 4 397 
+KY	Whitley County	 36 129 	Trump	 2 067 	 11 312 
+KY	Wolfe County	 7 259 	Trump	 753 	 1 804 
+KY	Woodford County	 25 793 	Trump	 4 958 	 7 697 
+LA	Acadia Parish	 62 577 	Trump	 5 638 	 21 159 
+LA	Allen Parish	 25 683 	Trump	 2 106 	 6 867 
+LA	Ascension Parish	 119 455 	Trump	 16 471 	 36 135 
+LA	Assumption Parish	 22 842 	Trump	 3 931 	 6 714 
+LA	Avoyelles Parish	 41 103 	Trump	 5 032 	 11 163 
+LA	Beauregard Parish	 36 462 	Trump	 2 393 	 12 238 
+LA	Bienville Parish	 13 786 	Trump	 3 129 	 3 756 
+LA	Bossier Parish	 125 175 	Trump	 12 638 	 35 451 
+LA	Caddo Parish	 251 460 	Trump	 53 448 	 48 977 
+LA	Calcasieu Parish	 198 788 	Trump	 26 293 	 54 182 
+LA	Caldwell Parish	 9 993 	Trump	 788 	 3 822 
+LA	Cameron Parish	 6 817 	Trump	 323 	 3 256 
+LA	Catahoula Parish	 10 147 	Trump	 1 322 	 3 479 
+LA	Claiborne Parish	 16 295 	Trump	 2 717 	 3 585 
+LA	Concordia Parish	 20 142 	Trump	 3 272 	 5 474 
+LA	De Soto Parish	 27 052 	Trump	 5 163 	 8 067 
+LA	East Baton Rouge Parish	 446 753 	Trump	 102 711 	 84 620 
+LA	East Carroll Parish	 7 307 	Trump	 1 838 	 1 059 
+LA	East Feliciana Parish	 19 696 	Trump	 4 235 	 5 569 
+LA	Evangeline Parish	 33 743 	Trump	 4 208 	 10 357 
+LA	Franklin Parish	 20 410 	Trump	 2 506 	 6 514 
+LA	Grant Parish	 22 343 	Trump	 1 181 	 7 406 
+LA	Iberia Parish	 74 103 	Trump	 10 698 	 20 903 
+LA	Iberville Parish	 33 095 	Trump	 8 324 	 7 320 
+LA	Jackson Parish	 15 858 	Trump	 2 139 	 5 169 
+LA	Jefferson Parish	 436 275 	Trump	 73 540 	 100 292 
+LA	Jefferson Davis Parish	 31 439 	Trump	 3 080 	 10 775 
+LA	Lafayette Parish	 240 098 	Trump	 32 726 	 68 191 
+LA	Lafourche Parish	 98 325 	Trump	 8 423 	 31 958 
+LA	La Salle Parish	 14 974 	Trump	 605 	 5 835 
+LA	Lincoln Parish	 47 774 	Trump	 7 102 	 10 761 
+LA	Livingston Parish	 137 788 	Trump	 6 950 	 48 797 
+LA	Madison Parish	 11 514 	Trump	 2 744 	 1 927 
+LA	Morehouse Parish	 26 395 	Trump	 5 155 	 6 502 
+LA	Natchitoches Parish	 39 179 	Trump	 7 143 	 8 965 
+LA	Orleans Parish	 389 617 	Trump	 133 833 	 24 267 
+LA	Ouachita Parish	 156 761 	Trump	 24 420 	 41 712 
+LA	Plaquemines Parish	 23 495 	Trump	 3 347 	 6 900 
+LA	Pointe Coupee Parish	 22 251 	Trump	 4 764 	 6 789 
+LA	Rapides Parish	 132 141 	Trump	 18 318 	 36 814 
+LA	Red River Parish	 8 593 	Trump	 1 938 	 2 391 
+LA	Richland Parish	 20 523 	Trump	 3 157 	 6 286 
+LA	Sabine Parish	 24 186 	Trump	 1 703 	 7 877 
+LA	St. Bernard Parish	 45 408 	Trump	 4 957 	 10 232 
+LA	St. Charles Parish	 52 812 	Trump	 8 558 	 16 620 
+LA	St. Helena Parish	 10 567 	Trump	 3 353 	 2 497 
+LA	St. James Parish	 21 567 	Trump	 6 418 	 5 456 
+LA	St. John the Baptist Parish	 43 626 	Trump	 12 658 	 7 569 
+LA	St. Landry Parish	 83 848 	Trump	 17 208 	 21 966 
+LA	St. Martin Parish	 53 835 	Trump	 8 266 	 16 872 
+LA	St. Mary Parish	 52 810 	Trump	 8 050 	 14 353 
+LA	St. Tammany Parish	 250 088 	Trump	 27 716 	 90 914 
+LA	Tangipahoa Parish	 128 755 	Trump	 16 869 	 33 933 
+LA	Tensas Parish	 4 740 	Trump	 1 329 	 1 180 
+LA	Terrebonne Parish	 113 972 	Trump	 10 664 	 31 900 
+LA	Union Parish	 22 477 	Trump	 2 691 	 7 972 
+LA	Vermilion Parish	 59 875 	Trump	 4 745 	 19 807 
+LA	Vernon Parish	 50 803 	Trump	 2 665 	 13 471 
+LA	Washington Parish	 46 371 	Trump	 5 690 	 12 552 
+LA	Webster Parish	 40 021 	Trump	 6 259 	 11 538 
+LA	West Baton Rouge Parish	 25 490 	Trump	 5 382 	 6 926 
+LA	West Carroll Parish	 11 293 	Trump	 715 	 3 970 
+LA	West Feliciana Parish	 15 385 	Trump	 2 247 	 3 390 
+LA	Winn Parish	 14 568 	Trump	 1 643 	 4 605 
+ME	Androscoggin County	 107 233 	Clinton	 22 975 	 28 189 
+ME	Aroostook County	 68 628 	Clinton	 13 377 	 19 419 
+ME	Cumberland County	 289 977 	Clinton	 102 935 	 57 697 
+ME	Franklin County	 29 991 	Clinton	 7 001 	 7 900 
+ME	Hancock County	 54 659 	Clinton	 16 107 	 13 682 
+ME	Kennebec County	 119 980 	Clinton	 29 296 	 31 753 
+ME	Knox County	 39 855 	Clinton	 12 440 	 9 148 
+ME	Lincoln County	 33 969 	Clinton	 10 241 	 9 727 
+ME	Oxford County	 57 202 	Clinton	 12 172 	 16 214 
+ME	Penobscot County	 152 692 	Clinton	 32 832 	 41 601 
+ME	Piscataquis County	 16 931 	Clinton	 3 098 	 5 403 
+ME	Sagadahoc County	 35 149 	Clinton	 10 679 	 9 304 
+ME	Somerset County	 51 113 	Clinton	 9 092 	 14 998 
+ME	Waldo County	 39 155 	Clinton	 10 442 	 10 378 
+ME	Washington County	 31 625 	Clinton	 6 358 	 9 037 
+ME	York County	 201 169 	Clinton	 55 828 	 50 388 
+MD	Allegany County	 72 528 	Clinton	 6 665 	 20 025 
+MD	Anne Arundel County	 564 195 	Clinton	 116 074 	 114 509 
+MD	Baltimore County	 831 128 	Clinton	 189 437 	 131 009 
+MD	Calvert County	 90 595 	Clinton	 16 669 	 24 680 
+MD	Caroline County	 32 579 	Clinton	 3 747 	 8 999 
+MD	Carroll County	 167 627 	Clinton	 24 314 	 55 593 
+MD	Cecil County	 102 382 	Clinton	 12 651 	 27 579 
+MD	Charles County	 156 118 	Clinton	 46 063 	 24 163 
+MD	Dorchester County	 32 384 	Clinton	 5 695 	 7 938 
+MD	Frederick County	 245 322 	Clinton	 51 891 	 56 472 
+MD	Garrett County	 29 460 	Clinton	 2 252 	 10 189 
+MD	Harford County	 250 290 	Clinton	 43 803 	 74 261 
+MD	Howard County	 313 414 	Clinton	 93 808 	 44 792 
+MD	Kent County	 19 787 	Clinton	 4 178 	 4 598 
+MD	Montgomery County	 1 040 116 	Clinton	 309 761 	 82 985 
+MD	Prince George's County	 909 535 	Clinton	 313 627 	 29 290 
+MD	Queen Anne's County	 48 904 	Clinton	 7 316 	 16 211 
+MD	St. Mary's County	 111 413 	Clinton	 15 786 	 26 889 
+MD	Somerset County	 25 768 	Clinton	 3 484 	 5 056 
+MD	Talbot County	 37 512 	Clinton	 7 865 	 10 098 
+MD	Washington County	 149 585 	Clinton	 19 193 	 38 842 
+MD	Wicomico County	 102 370 	Clinton	 16 327 	 20 832 
+MD	Worcester County	 51 540 	Clinton	 8 783 	 15 910 
+MD	Baltimore city	 621 849 	Clinton	 178 562 	 22 726 
+MA	Barnstable County	 214 333 	Clinton	 71 632 	 53 842 
+MA	Berkshire County	 127 828 	Clinton	 43 540 	 16 799 
+MA	Bristol County	 556 772 	Clinton	 127 619 	 104 775 
+MA	Dukes County	 17 299 	Clinton	 8 338 	 2 474 
+MA	Essex County	 776 043 	Clinton	 220 027 	 135 405 
+MA	Franklin County	 70 601 	Clinton	 24 369 	 10 327 
+MA	Hampden County	 470 690 	Clinton	 110 313 	 78 230 
+MA	Hampshire County	 161 292 	Clinton	 54 572 	 22 089 
+MA	Middlesex County	 1 585 139 	Clinton	 508 919 	 216 163 
+MA	Nantucket County	 10 925 	Clinton	 4 144 	 1 892 
+MA	Norfolk County	 696 023 	Clinton	 219 129 	 119 171 
+MA	Plymouth County	 510 393 	Clinton	 133 828 	 114 722 
+MA	Suffolk County	 778 121 	Clinton	 241 212 	 50 042 
+MA	Worcester County	 818 963 	Clinton	 197 126 	 157 138 
+MI	Alcona County	 10 349 	Trump	 1 732 	 4 201 
+MI	Alger County	 9 383 	Trump	 1 663 	 2 585 
+MI	Allegan County	 114 625 	Trump	 17 932 	 33 812 
+MI	Alpena County	 28 803 	Trump	 4 877 	 9 090 
+MI	Antrim County	 23 154 	Trump	 4 448 	 8 469 
+MI	Arenac County	 15 261 	Trump	 2 238 	 4 704 
+MI	Baraga County	 8 575 	Trump	 1 156 	 2 158 
+MI	Barry County	 59 314 	Trump	 9 109 	 19 197 
+MI	Bay County	 105 659 	Trump	 21 641 	 28 327 
+MI	Benzie County	 17 457 	Trump	 4 108 	 5 539 
+MI	Berrien County	 154 636 	Trump	 29 496 	 38 646 
+MI	Branch County	 43 664 	Trump	 4 740 	 11 025 
+MI	Calhoun County	 134 314 	Trump	 24 154 	 31 489 
+MI	Cass County	 51 657 	Trump	 7 270 	 14 241 
+MI	Charlevoix County	 26 238 	Trump	 5 137 	 8 674 
+MI	Cheboygan County	 25 427 	Trump	 4 302 	 8 680 
+MI	Chippewa County	 38 033 	Trump	 5 378 	 9 120 
+MI	Clare County	 30 553 	Trump	 4 250 	 8 507 
+MI	Clinton County	 77 390 	Trump	 16 490 	 21 635 
+MI	Crawford County	 13 801 	Trump	 2 110 	 4 354 
+MI	Delta County	 36 377 	Trump	 6 431 	 11 112 
+MI	Dickinson County	 25 788 	Trump	 3 923 	 8 580 
+MI	Eaton County	 108 801 	Trump	 24 534 	 27 608 
+MI	Emmet County	 33 161 	Trump	 6 972 	 10 616 
+MI	Genesee County	 410 849 	Trump	 102 744 	 84 174 
+MI	Gladwin County	 25 164 	Trump	 3 794 	 8 124 
+MI	Gogebic County	 15 431 	Trump	 2 925 	 4 019 
+MI	Grand Traverse County	 91 636 	Trump	 20 964 	 27 412 
+MI	Gratiot County	 41 540 	Trump	 5 665 	 9 878 
+MI	Hillsdale County	 45 941 	Trump	 4 799 	 14 094 
+MI	Houghton County	 36 380 	Trump	 6 018 	 8 475 
+MI	Huron County	 31 883 	Trump	 4 579 	 10 629 
+MI	Ingham County	 286 085 	Trump	 81 266 	 44 354 
+MI	Ionia County	 64 223 	Trump	 8 206 	 16 374 
+MI	Iosco County	 25 345 	Trump	 4 344 	 8 344 
+MI	Iron County	 11 348 	Trump	 2 004 	 3 675 
+MI	Isabella County	 70 698 	Trump	 11 404 	 12 338 
+MI	Jackson County	 159 494 	Trump	 25 795 	 39 793 
+MI	Kalamazoo County	 260 263 	Trump	 67 142 	 51 031 
+MI	Kalkaska County	 17 260 	Trump	 2 279 	 6 213 
+MI	Kent County	 636 369 	Trump	 138 567 	 147 959 
+MI	Keweenaw County	 2 168 	Trump	 527 	 814 
+MI	Lake County	 11 424 	Trump	 1 939 	 3 159 
+MI	Lapeer County	 88 373 	Trump	 12 734 	 30 037 
+MI	Leelanau County	 21 981 	Trump	 6 774 	 7 239 
+MI	Lenawee County	 98 573 	Trump	 16 750 	 26 428 
+MI	Livingston County	 187 316 	Trump	 34 378 	 65 665 
+MI	Luce County	 6 415 	Trump	 681 	 1 756 
+MI	Mackinac County	 10 890 	Trump	 2 085 	 3 740 
+MI	Macomb County	 864 840 	Trump	 176 238 	 224 589 
+MI	Manistee County	 24 461 	Trump	 4 979 	 6 915 
+MI	Marquette County	 67 215 	Trump	 16 042 	 14 646 
+MI	Mason County	 28 783 	Trump	 5 281 	 8 505 
+MI	Mecosta County	 43 067 	Trump	 5 827 	 10 305 
+MI	Menominee County	 23 548 	Trump	 3 539 	 6 704 
+MI	Midland County	 83 632 	Trump	 15 655 	 23 877 
+MI	Missaukee County	 14 903 	Trump	 1 565 	 5 386 
+MI	Monroe County	 149 568 	Trump	 26 859 	 43 255 
+MI	Montcalm County	 62 945 	Trump	 7 874 	 16 907 
+MI	Montmorency County	 9 259 	Trump	 1 286 	 3 498 
+MI	Muskegon County	 172 790 	Trump	 36 640 	 35 962 
+MI	Newaygo County	 47 948 	Trump	 6 212 	 15 174 
+MI	Oakland County	 1 242 304 	Trump	 342 976 	 289 127 
+MI	Oceana County	 26 105 	Trump	 3 973 	 7 228 
+MI	Ogemaw County	 20 937 	Trump	 3 030 	 6 827 
+MI	Ontonagon County	 6 007 	Trump	 1 175 	 2 069 
+MI	Osceola County	 23 058 	Trump	 2 705 	 7 336 
+MI	Oscoda County	 8 251 	Trump	 1 044 	 2 843 
+MI	Otsego County	 24 253 	Trump	 3 556 	 8 266 
+MI	Ottawa County	 279 955 	Trump	 46 276 	 90 456 
+MI	Presque Isle County	 12 841 	Trump	 2 400 	 4 486 
+MI	Roscommon County	 23 898 	Trump	 4 287 	 8 141 
+MI	Saginaw County	 193 307 	Trump	 44 395 	 45 469 
+MI	St. Clair County	 159 875 	Trump	 24 553 	 49 067 
+MI	St. Joseph County	 61 018 	Trump	 7 529 	 14 886 
+MI	Sanilac County	 41 475 	Trump	 4 873 	 13 446 
+MI	Schoolcraft County	 8 173 	Trump	 1 369 	 2 556 
+MI	Shiawassee County	 68 619 	Trump	 12 547 	 19 232 
+MI	Tuscola County	 53 777 	Trump	 7 493 	 17 421 
+MI	Van Buren County	 75 077 	Trump	 13 258 	 17 890 
+MI	Washtenaw County	 358 880 	Trump	 128 025 	 50 335 
+MI	Wayne County	 1 759 335 	Trump	 517 842 	 228 908 
+MI	Wexford County	 33 003 	Trump	 4 436 	 10 000 
+MN	Aitkin County	 15 702 	Clinton	 3 134 	 5 516 
+MN	Anoka County	 344 151 	Clinton	 75 499 	 93 341 
+MN	Becker County	 33 386 	Clinton	 5 208 	 10 880 
+MN	Beltrami County	 45 672 	Clinton	 8 688 	 10 783 
+MN	Benton County	 39 710 	Clinton	 5 640 	 12 872 
+MN	Big Stone County	 5 040 	Clinton	 921 	 1 607 
+MN	Blue Earth County	 65 787 	Clinton	 14 428 	 15 667 
+MN	Brown County	 25 313 	Clinton	 3 763 	 8 708 
+MN	Carlton County	 35 569 	Clinton	 8 460 	 8 160 
+MN	Carver County	 98 741 	Clinton	 21 508 	 29 057 
+MN	Cass County	 28 706 	Clinton	 4 949 	 9 982 
+MN	Chippewa County	 12 109 	Clinton	 1 978 	 3 764 
+MN	Chisago County	 54 293 	Clinton	 9 279 	 18 441 
+MN	Clay County	 62 324 	Clinton	 12 974 	 13 549 
+MN	Clearwater County	 8 803 	Clinton	 1 100 	 2 925 
+MN	Cook County	 5 194 	Clinton	 1 912 	 1 156 
+MN	Cottonwood County	 11 549 	Clinton	 1 678 	 3 679 
+MN	Crow Wing County	 63 428 	Clinton	 10 982 	 22 287 
+MN	Dakota County	 414 686 	Clinton	 110 251 	 99 624 
+MN	Dodge County	 20 364 	Clinton	 3 102 	 6 527 
+MN	Douglas County	 37 075 	Clinton	 6 227 	 13 966 
+MN	Faribault County	 14 050 	Clinton	 2 153 	 4 659 
+MN	Fillmore County	 20 834 	Clinton	 3 872 	 6 271 
+MN	Freeborn County	 30 613 	Clinton	 6 041 	 8 808 
+MN	Goodhue County	 46 435 	Clinton	 9 446 	 14 041 
+MN	Grant County	 5 903 	Clinton	 1 104 	 2 063 
+MN	Hennepin County	 1 223 149 	Clinton	 429 283 	 191 768 
+MN	Houston County	 18 773 	Clinton	 4 145 	 5 616 
+MN	Hubbard County	 20 655 	Clinton	 3 432 	 7 269 
+MN	Isanti County	 38 429 	Clinton	 5 656 	 13 635 
+MN	Itasca County	 45 435 	Clinton	 9 015 	 12 920 
+MN	Jackson County	 10 079 	Clinton	 1 492 	 3 609 
+MN	Kanabec County	 15 837 	Clinton	 2 327 	 5 230 
+MN	Kandiyohi County	 42 542 	Clinton	 7 266 	 12 785 
+MN	Kittson County	 4 424 	Clinton	 823 	 1 349 
+MN	Koochiching County	 12 841 	Clinton	 2 306 	 3 569 
+MN	Lac qui Parle County	 6 856 	Clinton	 1 301 	 2 294 
+MN	Lake County	 10 631 	Clinton	 3 077 	 2 932 
+MN	Lake of the Woods County	 3 923 	Clinton	 553 	 1 540 
+MN	Le Sueur County	 27 663 	Clinton	 4 623 	 9 182 
+MN	Lincoln County	 5 771 	Clinton	 860 	 1 930 
+MN	Lyon County	 25 673 	Clinton	 3 825 	 7 256 
+MN	McLeod County	 35 932 	Clinton	 4 978 	 12 155 
+MN	Mahnomen County	 5 457 	Clinton	 930 	 991 
+MN	Marshall County	 9 423 	Clinton	 1 225 	 3 208 
+MN	Martin County	 20 022 	Clinton	 2 733 	 7 062 
+MN	Meeker County	 23 102 	Clinton	 3 192 	 8 103 
+MN	Mille Lacs County	 25 788 	Clinton	 3 709 	 8 340 
+MN	Morrison County	 32 775 	Clinton	 3 637 	 12 925 
+MN	Mower County	 39 116 	Clinton	 7 444 	 8 826 
+MN	Murray County	 8 413 	Clinton	 1 295 	 2 974 
+MN	Nicollet County	 33 347 	Clinton	 7 886 	 8 436 
+MN	Nobles County	 21 770 	Clinton	 2 733 	 5 299 
+MN	Norman County	 6 678 	Clinton	 1 264 	 1 699 
+MN	Olmsted County	 151 436 	Clinton	 36 266 	 35 668 
+MN	Otter Tail County	 57 716 	Clinton	 9 339 	 20 939 
+MN	Pennington County	 14 219 	Clinton	 2 146 	 4 000 
+MN	Pine County	 29 069 	Clinton	 4 580 	 8 191 
+MN	Pipestone County	 9 271 	Clinton	 1 127 	 3 338 
+MN	Polk County	 31 533 	Clinton	 4 712 	 8 979 
+MN	Pope County	 11 041 	Clinton	 2 106 	 3 793 
+MN	Ramsey County	 538 133 	Clinton	 176 929 	 70 778 
+MN	Red Lake County	 4 055 	Clinton	 540 	 1 141 
+MN	Redwood County	 15 471 	Clinton	 1 887 	 5 137 
+MN	Renville County	 14 892 	Clinton	 2 117 	 4 890 
+MN	Rice County	 65 400 	Clinton	 14 437 	 15 429 
+MN	Rock County	 9 600 	Clinton	 1 373 	 3 091 
+MN	Roseau County	 15 770 	Clinton	 1 856 	 5 451 
+MN	St. Louis County	 200 431 	Clinton	 57 769 	 44 631 
+MN	Scott County	 141 660 	Clinton	 28 502 	 39 948 
+MN	Sherburne County	 91 705 	Clinton	 13 299 	 31 049 
+MN	Sibley County	 14 875 	Clinton	 1 954 	 5 193 
+MN	Stearns County	 154 708 	Clinton	 25 575 	 47 618 
+MN	Steele County	 36 755 	Clinton	 6 239 	 11 198 
+MN	Stevens County	 9 796 	Clinton	 2 116 	 2 800 
+MN	Swift County	 9 340 	Clinton	 1 679 	 2 962 
+MN	Todd County	 24 257 	Clinton	 2 783 	 8 485 
+MN	Traverse County	 3 401 	Clinton	 631 	 1 050 
+MN	Wabasha County	 21 239 	Clinton	 3 866 	 6 989 
+MN	Wadena County	 13 875 	Clinton	 1 684 	 4 837 
+MN	Waseca County	 18 989 	Clinton	 2 838 	 5 967 
+MN	Washington County	 251 597 	Clinton	 67 086 	 64 429 
+MN	Watonwan County	 10 952 	Clinton	 1 814 	 2 768 
+MN	Wilkin County	 6 396 	Clinton	 893 	 2 129 
+MN	Winona County	 50 885 	Clinton	 11 366 	 12 122 
+MN	Wright County	 131 311 	Clinton	 20 336 	 43 274 
+MN	Yellow Medicine County	 9 875 	Clinton	 1 524 	 3 382 
+MS	Adams County	 31 254 	Trump	 6 921 	 5 125 
+MS	Alcorn County	 37 388 	Trump	 2 684 	 11 817 
+MS	Amite County	 12 574 	Trump	 2 688 	 4 282 
+MS	Attala County	 19 043 	Trump	 2 847 	 4 288 
+MS	Benton County	 8 182 	Trump	 1 713 	 2 240 
+MS	Bolivar County	 33 322 	Trump	 8 410 	 4 251 
+MS	Calhoun County	 14 717 	Trump	 1 884 	 4 360 
+MS	Carroll County	 10 243 	Trump	 1 648 	 3 774 
+MS	Chickasaw County	 17 328 	Trump	 3 649 	 4 127 
+MS	Choctaw County	 8 299 	Trump	 1 198 	 2 763 
+MS	Claiborne County	 9 150 	Trump	 2 523 	 414 
+MS	Clarke County	 16 006 	Trump	 2 556 	 5 088 
+MS	Clay County	 20 048 	Trump	 5 695 	 4 136 
+MS	Coahoma County	 24 620 	Trump	 6 378 	 2 426 
+MS	Copiah County	 28 773 	Trump	 6 203 	 5 576 
+MS	Covington County	 19 543 	Trump	 3 267 	 5 423 
+MS	DeSoto County	 173 323 	Trump	 19 892 	 42 155 
+MS	Forrest County	 75 944 	Trump	 11 271 	 15 149 
+MS	Franklin County	 7 743 	Trump	 1 471 	 2 685 
+MS	George County	 23 373 	Trump	 1 013 	 8 652 
+MS	Greene County	 13 522 	Trump	 956 	 4 309 
+MS	Grenada County	 21 578 	Trump	 4 386 	 5 940 
+MS	Hancock County	 46 420 	Trump	 3 320 	 13 720 
+MS	Harrison County	 201 410 	Trump	 20 679 	 39 710 
+MS	Hinds County	 242 891 	Trump	 64 922 	 24 919 
+MS	Holmes County	 18 340 	Trump	 5 820 	 1 151 
+MS	Humphreys County	 8 669 	Trump	 2 652 	 924 
+MS	Issaquena County	 1 337 	Trump	 395 	 298 
+MS	Itawamba County	 23 609 	Trump	 1 100 	 8 385 
+MS	Jackson County	 141 425 	Trump	 13 087 	 31 204 
+MS	Jasper County	 16 569 	Trump	 4 367 	 4 032 
+MS	Jefferson County	 7 507 	Trump	 3 337 	 489 
+MS	Jefferson Davis County	 11 665 	Trump	 3 720 	 2 466 
+MS	Jones County	 68 215 	Trump	 7 748 	 20 076 
+MS	Kemper County	 9 969 	Trump	 2 827 	 1 778 
+MS	Lafayette County	 53 154 	Trump	 7 968 	 10 872 
+MS	Lamar County	 60 618 	Trump	 5 044 	 18 493 
+MS	Lauderdale County	 78 524 	Trump	 10 910 	 17 574 
+MS	Lawrence County	 12 622 	Trump	 2 181 	 4 072 
+MS	Leake County	 22 763 	Trump	 3 579 	 4 775 
+MS	Lee County	 85 300 	Trump	 9 635 	 21 695 
+MS	Leflore County	 30 999 	Trump	 6 677 	 2 757 
+MS	Lincoln County	 34 649 	Trump	 4 458 	 10 550 
+MS	Lowndes County	 59 710 	Trump	 11 545 	 13 124 
+MS	Madison County	 103 465 	Trump	 18 358 	 25 607 
+MS	Marion County	 25 563 	Trump	 3 572 	 7 697 
+MS	Marshall County	 35 916 	Trump	 7 944 	 6 525 
+MS	Monroe County	 35 827 	Trump	 5 485 	 10 107 
+MS	Montgomery County	 10 152 	Trump	 1 775 	 2 334 
+MS	Neshoba County	 29 463 	Trump	 2 668 	 7 613 
+MS	Newton County	 21 747 	Trump	 2 549 	 5 929 
+MS	Noxubee County	 11 043 	Trump	 4 330 	 1 181 
+MS	Oktibbeha County	 49 800 	Trump	 7 851 	 7 671 
+MS	Panola County	 34 167 	Trump	 7 300 	 7 371 
+MS	Pearl River County	 55 191 	Trump	 2 919 	 15 530 
+MS	Perry County	 12 277 	Trump	 1 220 	 4 135 
+MS	Pike County	 39 956 	Trump	 7 636 	 7 748 
+MS	Pontotoc County	 30 908 	Trump	 2 123 	 9 442 
+MS	Prentiss County	 25 459 	Trump	 2 067 	 7 647 
+MS	Quitman County	 7 486 	Trump	 2 303 	 998 
+MS	Rankin County	 149 039 	Trump	 13 741 	 46 168 
+MS	Scott County	 28 265 	Trump	 3 999 	 5 742 
+MS	Sharkey County	 4 585 	Trump	 1 290 	 619 
+MS	Simpson County	 27 222 	Trump	 3 871 	 7 393 
+MS	Smith County	 16 059 	Trump	 1 598 	 5 877 
+MS	Stone County	 18 070 	Trump	 1 400 	 4 810 
+MS	Sunflower County	 27 005 	Trump	 6 560 	 2 768 
+MS	Tallahatchie County	 14 588 	Trump	 3 337 	 2 462 
+MS	Tate County	 28 296 	Trump	 3 804 	 7 385 
+MS	Tippah County	 22 131 	Trump	 1 808 	 7 182 
+MS	Tishomingo County	 19 552 	Trump	 990 	 7 117 
+MS	Tunica County	 10 343 	Trump	 2 577 	 840 
+MS	Union County	 28 429 	Trump	 1 969 	 9 161 
+MS	Walthall County	 14 638 	Trump	 2 475 	 3 374 
+MS	Warren County	 47 485 	Trump	 8 518 	 9 420 
+MS	Washington County	 48 130 	Trump	 9 847 	 4 541 
+MS	Wayne County	 20 566 	Trump	 3 493 	 5 957 
+MS	Webster County	 9 899 	Trump	 1 001 	 3 949 
+MS	Wilkinson County	 9 122 	Trump	 2 826 	 1 305 
+MS	Winston County	 18 317 	Trump	 3 778 	 4 874 
+MS	Yalobusha County	 12 447 	Trump	 2 574 	 3 366 
+MS	Yazoo County	 27 387 	Trump	 5 221 	 4 568 
+MO	Adair County	 25 378 	Trump	 3 495 	 6 019 
+MO	Andrew County	 17 296 	Trump	 2 045 	 6 665 
+MO	Atchison County	 5 306 	Trump	 541 	 2 059 
+MO	Audrain County	 26 096 	Trump	 2 567 	 6 981 
+MO	Barry County	 35 829 	Trump	 2 710 	 11 427 
+MO	Barton County	 11 880 	Trump	 795 	 4 958 
+MO	Bates County	 16 446 	Trump	 1 617 	 6 000 
+MO	Benton County	 18 670 	Trump	 2 024 	 7 212 
+MO	Bollinger County	 12 182 	Trump	 705 	 4 827 
+MO	Boone County	 174 974 	Trump	 41 072 	 36 146 
+MO	Buchanan County	 89 100 	Trump	 12 010 	 21 315 
+MO	Butler County	 42 951 	Trump	 3 036 	 13 647 
+MO	Caldwell County	 9 014 	Trump	 837 	 3 231 
+MO	Callaway County	 44 834 	Trump	 4 988 	 13 052 
+MO	Camden County	 44 237 	Trump	 4 706 	 16 721 
+MO	Cape Girardeau County	 78 572 	Trump	 8 468 	 26 939 
+MO	Carroll County	 8 992 	Trump	 745 	 3 480 
+MO	Carter County	 6 263 	Trump	 436 	 2 323 
+MO	Cass County	 101 603 	Trump	 14 816 	 33 006 
+MO	Cedar County	 13 934 	Trump	 1 010 	 5 019 
+MO	Chariton County	 7 589 	Trump	 888 	 2 948 
+MO	Christian County	 83 279 	Trump	 8 505 	 30 941 
+MO	Clark County	 6 801 	Trump	 724 	 2 458 
+MO	Clay County	 235 637 	Trump	 45 182 	 57 328 
+MO	Clinton County	 20 609 	Trump	 2 572 	 7 058 
+MO	Cole County	 76 720 	Trump	 10 907 	 24 610 
+MO	Cooper County	 17 642 	Trump	 1 932 	 5 623 
+MO	Crawford County	 24 526 	Trump	 1 824 	 7 724 
+MO	Dade County	 7 595 	Trump	 637 	 3 184 
+MO	Dallas County	 16 393 	Trump	 1 271 	 5 895 
+MO	Daviess County	 8 253 	Trump	 730 	 2 763 
+MO	DeKalb County	 12 687 	Trump	 824 	 3 540 
+MO	Dent County	 15 593 	Trump	 978 	 5 599 
+MO	Douglas County	 13 373 	Trump	 984 	 5 486 
+MO	Dunklin County	 30 895 	Trump	 2 360 	 8 026 
+MO	Franklin County	 102 426 	Trump	 12 339 	 35 420 
+MO	Gasconade County	 14 858 	Trump	 1 519 	 5 670 
+MO	Gentry County	 6 692 	Trump	 605 	 2 304 
+MO	Greene County	 288 072 	Trump	 42 400 	 77 387 
+MO	Grundy County	 10 097 	Trump	 780 	 3 462 
+MO	Harrison County	 8 615 	Trump	 574 	 2 965 
+MO	Henry County	 21 737 	Trump	 2 356 	 7 072 
+MO	Hickory County	 9 201 	Trump	 1 016 	 3 539 
+MO	Holt County	 4 484 	Trump	 346 	 1 926 
+MO	Howard County	 10 139 	Trump	 1 279 	 3 277 
+MO	Howell County	 40 117 	Trump	 2 880 	 13 888 
+MO	Iron County	 10 125 	Trump	 933 	 3 173 
+MO	Jackson County	 687 623 	Trump	 163 723 	 114 777 
+MO	Jasper County	 118 596 	Trump	 10 565 	 35 058 
+MO	Jefferson County	 224 124 	Trump	 31 546 	 68 973 
+MO	Johnson County	 53 951 	Trump	 5 924 	 13 702 
+MO	Knox County	 3 910 	Trump	 379 	 1 413 
+MO	Laclede County	 35 473 	Trump	 2 543 	 12 834 
+MO	Lafayette County	 32 701 	Trump	 4 047 	 10 977 
+MO	Lawrence County	 38 180 	Trump	 2 898 	 13 084 
+MO	Lewis County	 10 207 	Trump	 933 	 3 343 
+MO	Lincoln County	 54 696 	Trump	 5 561 	 18 111 
+MO	Linn County	 12 308 	Trump	 1 239 	 4 084 
+MO	Livingston County	 15 028 	Trump	 1 265 	 4 879 
+MO	McDonald County	 22 643 	Trump	 1 329 	 6 599 
+MO	Macon County	 15 335 	Trump	 1 518 	 5 794 
+MO	Madison County	 12 408 	Trump	 1 005 	 4 102 
+MO	Maries County	 8 963 	Trump	 794 	 3 559 
+MO	Marion County	 28 880 	Trump	 2 993 	 9 418 
+MO	Mercer County	 3 694 	Trump	 216 	 1 486 
+MO	Miller County	 25 113 	Trump	 1 750 	 9 285 
+MO	Mississippi County	 14 036 	Trump	 1 458 	 3 600 
+MO	Moniteau County	 15 963 	Trump	 1 237 	 5 344 
+MO	Monroe County	 8 583 	Trump	 853 	 3 159 
+MO	Montgomery County	 11 703 	Trump	 1 118 	 4 124 
+MO	Morgan County	 20 171 	Trump	 1 768 	 6 757 
+MO	New Madrid County	 18 208 	Trump	 1 933 	 5 270 
+MO	Newton County	 58 615 	Trump	 4 988 	 20 546 
+MO	Nodaway County	 22 810 	Trump	 2 529 	 6 379 
+MO	Oregon County	 10 953 	Trump	 865 	 3 668 
+MO	Osage County	 13 628 	Trump	 998 	 5 845 
+MO	Ozark County	 9 409 	Trump	 724 	 3 639 
+MO	Pemiscot County	 17 482 	Trump	 1 946 	 3 964 
+MO	Perry County	 19 183 	Trump	 1 520 	 6 907 
+MO	Pettis County	 42 255 	Trump	 4 322 	 12 792 
+MO	Phelps County	 44 794 	Trump	 4 761 	 12 699 
+MO	Pike County	 18 348 	Trump	 1 806 	 5 274 
+MO	Platte County	 96 096 	Trump	 18 915 	 24 975 
+MO	Polk County	 31 229 	Trump	 2 630 	 10 435 
+MO	Pulaski County	 53 221 	Trump	 2 918 	 9 870 
+MO	Putnam County	 4 858 	Trump	 352 	 1 936 
+MO	Ralls County	 10 196 	Trump	 1 138 	 3 969 
+MO	Randolph County	 25 104 	Trump	 2 283 	 7 529 
+MO	Ray County	 22 810 	Trump	 3 088 	 7 103 
+MO	Reynolds County	 6 432 	Trump	 540 	 2 402 
+MO	Ripley County	 13 802 	Trump	 830 	 4 520 
+MO	St. Charles County	 385 590 	Trump	 68 225 	 120 899 
+MO	St. Clair County	 9 440 	Trump	 936 	 3 501 
+MO	Ste. Genevieve County	 17 919 	Trump	 2 540 	 5 495 
+MO	St. Francois County	 66 520 	Trump	 6 250 	 17 467 
+MO	St. Louis County	 1 003 362 	Trump	 280 866 	 199 081 
+MO	Saline County	 23 258 	Trump	 2 787 	 5 977 
+MO	Schuyler County	 4 436 	Trump	 354 	 1 505 
+MO	Scotland County	 4 854 	Trump	 365 	 1 525 
+MO	Scott County	 39 008 	Trump	 3 574 	 13 168 
+MO	Shannon County	 8 258 	Trump	 776 	 2 966 
+MO	Shelby County	 6 128 	Trump	 606 	 2 524 
+MO	Stoddard County	 29 862 	Trump	 1 873 	 11 077 
+MO	Stone County	 30 943 	Trump	 2 886 	 13 149 
+MO	Sullivan County	 6 353 	Trump	 526 	 1 884 
+MO	Taney County	 54 592 	Trump	 4 367 	 18 240 
+MO	Texas County	 25 690 	Trump	 1 728 	 8 875 
+MO	Vernon County	 20 826 	Trump	 1 706 	 6 526 
+MO	Warren County	 33 513 	Trump	 3 915 	 11 109 
+MO	Washington County	 24 788 	Trump	 1 926 	 7 047 
+MO	Wayne County	 13 405 	Trump	 946 	 4 640 
+MO	Webster County	 37 483 	Trump	 3 173 	 12 829 
+MO	Worth County	 2 057 	Trump	 195 	 808 
+MO	Wright County	 18 268 	Trump	 1 166 	 6 703 
+MO	St. Louis city	 315 685 	Trump	 101 487 	 20 281 
+MT	Beaverhead County	 9 300 	Trump	 1 115 	 3 243 
+MT	Big Horn County	 13 242 	Trump	 2 061 	 1 833 
+MT	Blaine County	 6 577 	Trump	 1 187 	 1 259 
+MT	Broadwater County	 5 689 	Trump	 566 	 2 329 
+MT	Carbon County	 10 408 	Trump	 1 824 	 3 729 
+MT	Carter County	 1 180 	Trump	 70 	 677 
+MT	Cascade County	 82 278 	Trump	 12 053 	 19 343 
+MT	Chouteau County	 5 767 	Trump	 729 	 1 676 
+MT	Custer County	 12 135 	Trump	 1 172 	 3 638 
+MT	Daniels County	 1 760 	Trump	 167 	 729 
+MT	Dawson County	 9 625 	Trump	 786 	 3 298 
+MT	Deer Lodge County	 9 139 	Trump	 2 018 	 1 736 
+MT	Fallon County	 3 190 	Trump	 154 	 1 276 
+MT	Fergus County	 11 427 	Trump	 1 196 	 4 235 
+MT	Flathead County	 96 165 	Trump	 13 233 	 30 079 
+MT	Gallatin County	 100 739 	Trump	 23 879 	 23 360 
+MT	Garfield County	 1 314 	Trump	 34 	 653 
+MT	Glacier County	 13 647 	Trump	 3 076 	 1 598 
+MT	Golden Valley County	 827 	Trump	 71 	 365 
+MT	Granite County	 3 240 	Trump	 469 	 1 185 
+MT	Hill County	 16 572 	Trump	 2 350 	 3 446 
+MT	Jefferson County	 11 645 	Trump	 1 975 	 4 099 
+MT	Judith Basin County	 1 926 	Trump	 232 	 867 
+MT	Lake County	 29 457 	Trump	 4 703 	 7 453 
+MT	Lewis and Clark County	 66 418 	Trump	 14 331 	 16 665 
+MT	Liberty County	 2 408 	Trump	 205 	 695 
+MT	Lincoln County	 19 052 	Trump	 2 040 	 6 720 
+MT	McCone County	 1 683 	Trump	 154 	 858 
+MT	Madison County	 7 915 	Trump	 1 175 	 3 280 
+MT	Meagher County	 1 830 	Trump	 191 	 728 
+MT	Mineral County	 4 251 	Trump	 515 	 1 322 
+MT	Missoula County	 114 181 	Trump	 30 740 	 21 699 
+MT	Musselshell County	 4 582 	Trump	 331 	 1 961 
+MT	Park County	 15 972 	Trump	 3 521 	 4 872 
+MT	Petroleum County	 475 	Trump	 30 	 276 
+MT	Phillips County	 4 169 	Trump	 315 	 1 715 
+MT	Pondera County	 6 184 	Trump	 737 	 1 786 
+MT	Powder River County	 1 773 	Trump	 127 	 880 
+MT	Powell County	 6 840 	Trump	 549 	 2 017 
+MT	Prairie County	 1 160 	Trump	 100 	 555 
+MT	Ravalli County	 41 373 	Trump	 6 166 	 14 673 
+MT	Richland County	 11 960 	Trump	 669 	 3 885 
+MT	Roosevelt County	 11 476 	Trump	 1 504 	 1 722 
+MT	Rosebud County	 9 398 	Trump	 969 	 2 211 
+MT	Sanders County	 11 336 	Trump	 1 211 	 4 268 
+MT	Sheridan County	 3 687 	Trump	 476 	 1 237 
+MT	Silver Bow County	 34 622 	Trump	 8 545 	 6 252 
+MT	Stillwater County	 9 486 	Trump	 904 	 3 630 
+MT	Sweet Grass County	 3 634 	Trump	 398 	 1 580 
+MT	Teton County	 6 104 	Trump	 803 	 2 152 
+MT	Toole County	 5 087 	Trump	 399 	 1 495 
+MT	Treasure County	 697 	Trump	 59 	 350 
+MT	Valley County	 7 659 	Trump	 886 	 2 697 
+MT	Wheatland County	 2 110 	Trump	 179 	 698 
+MT	Wibaux County	 1 130 	Trump	 55 	 460 
+MT	Yellowstone County	 157 048 	Trump	 21 117 	 38 675 
+NE	Adams County	 31 587 	Trump	 3 272 	 9 205 
+NE	Antelope County	 6 414 	Trump	 381 	 2 717 
+NE	Arthur County	 456 	Trump	 16 	 237 
+NE	Banner County	 788 	Trump	 18 	 355 
+NE	Blaine County	 487 	Trump	 30 	 273 
+NE	Boone County	 5 315 	Trump	 414 	 2 299 
+NE	Box Butte County	 11 337 	Trump	 953 	 3 550 
+NE	Boyd County	 2 006 	Trump	 128 	 978 
+NE	Brown County	 2 946 	Trump	 153 	 1 380 
+NE	Buffalo County	 48 863 	Trump	 4 690 	 14 424 
+NE	Burt County	 6 585 	Trump	 928 	 2 360 
+NE	Butler County	 8 115 	Trump	 690 	 3 068 
+NE	Cass County	 25 512 	Trump	 3 461 	 8 388 
+NE	Cedar County	 8 564 	Trump	 572 	 3 533 
+NE	Chase County	 3 956 	Trump	 171 	 1 621 
+NE	Cherry County	 5 848 	Trump	 317 	 2 623 
+NE	Cheyenne County	 10 167 	Trump	 702 	 3 610 
+NE	Clay County	 6 309 	Trump	 470 	 2 373 
+NE	Colfax County	 10 520 	Trump	 857 	 2 171 
+NE	Cuming County	 9 125 	Trump	 712 	 3 095 
+NE	Custer County	 10 806 	Trump	 635 	 4 616 
+NE	Dakota County	 20 781 	Trump	 2 904 	 4 028 
+NE	Dawes County	 9 055 	Trump	 785 	 2 559 
+NE	Dawson County	 23 886 	Trump	 2 116 	 5 935 
+NE	Deuel County	 1 921 	Trump	 120 	 809 
+NE	Dixon County	 5 797 	Trump	 556 	 2 041 
+NE	Dodge County	 36 706 	Trump	 4 451 	 9 736 
+NE	Douglas County	 550 064 	Trump	 105 207 	 102 151 
+NE	Dundy County	 1 799 	Trump	 89 	 823 
+NE	Fillmore County	 5 619 	Trump	 610 	 2 100 
+NE	Franklin County	 2 985 	Trump	 250 	 1 345 
+NE	Frontier County	 2 624 	Trump	 161 	 1 106 
+NE	Furnas County	 4 862 	Trump	 304 	 1 915 
+NE	Gage County	 21 900 	Trump	 2 930 	 6 333 
+NE	Garden County	 1 918 	Trump	 153 	 869 
+NE	Garfield County	 2 028 	Trump	 121 	 819 
+NE	Gosper County	 1 973 	Trump	 165 	 792 
+NE	Grant County	 641 	Trump	 20 	 367 
+NE	Greeley County	 2 429 	Trump	 210 	 911 
+NE	Hall County	 61 680 	Trump	 6 142 	 14 139 
+NE	Hamilton County	 9 190 	Trump	 873 	 3 763 
+NE	Harlan County	 3 452 	Trump	 219 	 1 302 
+NE	Hayes County	 932 	Trump	 30 	 471 
+NE	Hitchcock County	 2 883 	Trump	 158 	 1 216 
+NE	Holt County	 10 313 	Trump	 522 	 4 275 
+NE	Hooker County	 732 	Trump	 40 	 355 
+NE	Howard County	 6 409 	Trump	 544 	 2 284 
+NE	Jefferson County	 7 263 	Trump	 831 	 2 387 
+NE	Johnson County	 5 173 	Trump	 560 	 1 348 
+NE	Kearney County	 6 585 	Trump	 550 	 2 519 
+NE	Keith County	 8 063 	Trump	 560 	 3 203 
+NE	Keya Paha County	 804 	Trump	 39 	 458 
+NE	Kimball County	 3 689 	Trump	 227 	 1 317 
+NE	Knox County	 8 543 	Trump	 715 	 3 181 
+NE	Lancaster County	 306 468 	Trump	 60 533 	 60 456 
+NE	Lincoln County	 35 656 	Trump	 2 878 	 11 992 
+NE	Logan County	 777 	Trump	 32 	 400 
+NE	Loup County	 585 	Trump	 48 	 323 
+NE	McPherson County	 475 	Trump	 14 	 257 
+NE	Madison County	 35 039 	Trump	 2 663 	 10 518 
+NE	Merrick County	 7 787 	Trump	 601 	 2 914 
+NE	Morrill County	 4 854 	Trump	 282 	 1 788 
+NE	Nance County	 3 595 	Trump	 280 	 1 257 
+NE	Nemaha County	 7 046 	Trump	 765 	 2 068 
+NE	Nuckolls County	 4 329 	Trump	 348 	 1 709 
+NE	Otoe County	 15 984 	Trump	 2 017 	 4 833 
+NE	Pawnee County	 2 659 	Trump	 279 	 970 
+NE	Perkins County	 2 944 	Trump	 160 	 1 202 
+NE	Phelps County	 9 296 	Trump	 571 	 3 832 
+NE	Pierce County	 7 208 	Trump	 382 	 3 052 
+NE	Platte County	 32 847 	Trump	 2 612 	 10 864 
+NE	Polk County	 5 202 	Trump	 411 	 2 019 
+NE	Red Willow County	 10 829 	Trump	 638 	 4 212 
+NE	Richardson County	 8 094 	Trump	 798 	 2 684 
+NE	Rock County	 1 381 	Trump	 70 	 687 
+NE	Saline County	 14 282 	Trump	 1 630 	 2 849 
+NE	Sarpy County	 175 692 	Trump	 27 704 	 44 649 
+NE	Saunders County	 21 016 	Trump	 2 509 	 7 486 
+NE	Scotts Bluff County	 36 261 	Trump	 3 151 	 9 952 
+NE	Seward County	 17 110 	Trump	 1 881 	 5 451 
+NE	Sheridan County	 5 220 	Trump	 286 	 2 192 
+NE	Sherman County	 3 091 	Trump	 338 	 1 143 
+NE	Sioux County	 1 260 	Trump	 77 	 602 
+NE	Stanton County	 5 937 	Trump	 417 	 2 173 
+NE	Thayer County	 5 163 	Trump	 490 	 1 993 
+NE	Thomas County	 684 	Trump	 30 	 344 
+NE	Thurston County	 7 064 	Trump	 911 	 1 013 
+NE	Valley County	 4 154 	Trump	 337 	 1 770 
+NE	Washington County	 20 248 	Trump	 2 606 	 7 374 
+NE	Wayne County	 9 367 	Trump	 828 	 2 675 
+NE	Webster County	 3 625 	Trump	 306 	 1 320 
+NE	Wheeler County	 750 	Trump	 62 	 377 
+NE	York County	 13 806 	Trump	 1 181 	 4 686 
+NV	Churchill County	 24 200 	Clinton	 2 210 	 7 828 
+NV	Clark County	 2 114 801 	Clinton	 401 068 	 319 571 
+NV	Douglas County	 47 710 	Clinton	 8 453 	 17 406 
+NV	Elko County	 51 935 	Clinton	 3 400 	 13 542 
+NV	Esmeralda County	 829 	Clinton	 65 	 329 
+NV	Eureka County	 2 016 	Clinton	 74 	 723 
+NV	Humboldt County	 17 019 	Clinton	 1 386 	 4 521 
+NV	Lander County	 5 903 	Clinton	 403 	 1 828 
+NV	Lincoln County	 5 036 	Clinton	 285 	 1 671 
+NV	Lyon County	 52 585 	Clinton	 6 146 	 16 005 
+NV	Mineral County	 4 478 	Clinton	 637 	 1 179 
+NV	Nye County	 42 477 	Clinton	 5 095 	 13 320 
+NV	Pershing County	 6 634 	Clinton	 430 	 1 403 
+NV	Storey County	 3 987 	Clinton	 752 	 1 616 
+NV	Washoe County	 446 903 	Clinton	 97 032 	 94 529 
+NV	White Pine County	 9 811 	Clinton	 707 	 2 723 
+NV	Carson City	 54 521 	Clinton	 9 610 	 13 125 
+NH	Belknap County	 60 641 	Clinton	 13 517 	 19 315 
+NH	Carroll County	 47 285 	Clinton	 12 987 	 14 635 
+NH	Cheshire County	 75 909 	Clinton	 22 064 	 16 876 
+NH	Coos County	 31 212 	Clinton	 6 558 	 7 951 
+NH	Grafton County	 89 320 	Clinton	 28 510 	 19 010 
+NH	Hillsborough County	 406 678 	Clinton	 99 589 	 100 013 
+NH	Merrimack County	 147 994 	Clinton	 40 198 	 37 674 
+NH	Rockingham County	 301 777 	Clinton	 79 994 	 90 447 
+NH	Strafford County	 126 825 	Clinton	 34 894 	 29 072 
+NH	Sullivan County	 42 967 	Clinton	 10 210 	 10 796 
+NJ	Atlantic County	 274 219 	Clinton	 54 472 	 47 882 
+NJ	Bergen County	 938 506 	Clinton	 209 251 	 163 220 
+NJ	Burlington County	 450 226 	Clinton	 108 361 	 79 539 
+NJ	Camden County	 510 923 	Clinton	 142 375 	 71 020 
+NJ	Cape May County	 94 727 	Clinton	 18 626 	 28 237 
+NJ	Cumberland County	 155 854 	Clinton	 27 045 	 24 213 
+NJ	Essex County	 797 434 	Clinton	 231 031 	 62 059 
+NJ	Gloucester County	 291 479 	Clinton	 66 355 	 66 949 
+NJ	Hudson County	 674 836 	Clinton	 149 980 	 45 615 
+NJ	Hunterdon County	 125 488 	Clinton	 28 797 	 38 565 
+NJ	Mercer County	 371 398 	Clinton	 93 721 	 42 604 
+NJ	Middlesex County	 840 900 	Clinton	 164 887 	 108 981 
+NJ	Monmouth County	 628 715 	Clinton	 135 825 	 165 305 
+NJ	Morris County	 499 509 	Clinton	 114 437 	 125 376 
+NJ	Ocean County	 588 721 	Clinton	 81 845 	 170 103 
+NJ	Passaic County	 510 916 	Clinton	 112 608 	 71 488 
+NJ	Salem County	 64 180 	Clinton	 11 766 	 16 256 
+NJ	Somerset County	 333 654 	Clinton	 83 839 	 64 640 
+NJ	Sussex County	 143 673 	Clinton	 24 132 	 46 486 
+NJ	Union County	 555 786 	Clinton	 145 412 	 67 582 
+NJ	Warren County	 106 869 	Clinton	 16 991 	 29 393 
+NM	Bernalillo County	 676 685 	Clinton	 141 960 	 93 874 
+NM	Catron County	 3 456 	Clinton	 426 	 1 453 
+NM	Chaves County	 65 764 	Clinton	 5 530 	 12 869 
+NM	Cibola County	 27 329 	Clinton	 3 721 	 3 179 
+NM	Colfax County	 12 414 	Clinton	 2 118 	 2 569 
+NM	Curry County	 50 398 	Clinton	 2 776 	 7 560 
+NM	De Baca County	 1 828 	Clinton	 192 	 617 
+NM	Dona Ana County	 214 295 	Clinton	 37 543 	 25 095 
+NM	Eddy County	 57 578 	Clinton	 5 008 	 13 124 
+NM	Grant County	 28 609 	Clinton	 6 226 	 5 251 
+NM	Guadalupe County	 4 371 	Clinton	 962 	 591 
+NM	Harding County	 698 	Clinton	 156 	 311 
+NM	Hidalgo County	 4 423 	Clinton	 780 	 906 
+NM	Lea County	 71 180 	Clinton	 3 877 	 12 306 
+NM	Lincoln County	 19 420 	Clinton	 2 329 	 5 889 
+NM	Los Alamos County	 17 785 	Clinton	 5 443 	 3 329 
+NM	Luna County	 24 518 	Clinton	 3 195 	 3 478 
+NM	McKinley County	 76 708 	Clinton	 13 162 	 4 893 
+NM	Mora County	 4 596 	Clinton	 1 533 	 662 
+NM	Otero County	 64 362 	Clinton	 6 033 	 11 756 
+NM	Quay County	 8 455 	Clinton	 1 016 	 2 208 
+NM	Rio Arriba County	 39 465 	Clinton	 9 534 	 3 583 
+NM	Roosevelt County	 19 120 	Clinton	 1 445 	 3 865 
+NM	Sandoval County	 139 394 	Clinton	 27 405 	 25 748 
+NM	San Juan County	 118 737 	Clinton	 12 826 	 27 879 
+NM	San Miguel County	 27 967 	Clinton	 7 249 	 2 302 
+NM	Santa Fe County	 148 686 	Clinton	 49 956 	 14 198 
+NM	Sierra County	 11 282 	Clinton	 1 600 	 2 998 
+NM	Socorro County	 17 256 	Clinton	 3 275 	 2 592 
+NM	Taos County	 32 907 	Clinton	 10 550 	 2 706 
+NM	Torrance County	 15 485 	Clinton	 1 770 	 3 695 
+NM	Union County	 4 201 	Clinton	 318 	 1 214 
+NM	Valencia County	 75 737 	Clinton	 10 810 	 13 175 
+NY	Albany County	 309 381 	Clinton	 74 775 	 44 227 
+NY	Allegany County	 47 462 	Clinton	 4 473 	 11 712 
+NY	Bronx County	 1 455 444 	Clinton	 318 403 	 34 424 
+NY	Broome County	 196 567 	Clinton	 35 212 	 38 077 
+NY	Cattaraugus County	 77 922 	Clinton	 8 717 	 18 668 
+NY	Cayuga County	 78 288 	Clinton	 12 202 	 16 194 
+NY	Chautauqua County	 130 779 	Clinton	 17 281 	 29 418 
+NY	Chemung County	 87 071 	Clinton	 12 394 	 19 025 
+NY	Chenango County	 48 844 	Clinton	 5 943 	 11 024 
+NY	Clinton County	 81 251 	Clinton	 13 446 	 13 181 
+NY	Columbia County	 61 509 	Clinton	 13 123 	 12 756 
+NY	Cortland County	 48 494 	Clinton	 7 976 	 9 207 
+NY	Delaware County	 46 053 	Clinton	 5 825 	 11 012 
+NY	Dutchess County	 295 754 	Clinton	 56 874 	 58 163 
+NY	Erie County	 922 578 	Clinton	 192 065 	 173 817 
+NY	Essex County	 38 478 	Clinton	 6 760 	 7 275 
+NY	Franklin County	 50 660 	Clinton	 6 517 	 7 636 
+NY	Fulton County	 53 992 	Clinton	 5 805 	 12 759 
+NY	Genesee County	 58 937 	Clinton	 6 946 	 15 986 
+NY	Greene County	 47 625 	Clinton	 6 370 	 11 546 
+NY	Hamilton County	 4 712 	Clinton	 752 	 1 795 
+NY	Herkimer County	 63 100 	Clinton	 7 289 	 15 664 
+NY	Jefferson County	 117 635 	Clinton	 12 289 	 19 947 
+NY	Kings County	 2 636 735 	Clinton	 595 086 	 133 653 
+NY	Lewis County	 26 957 	Clinton	 2 828 	 6 916 
+NY	Livingston County	 64 717 	Clinton	 10 478 	 19 211 
+NY	Madison County	 71 849 	Clinton	 10 548 	 14 901 
+NY	Monroe County	 749 600 	Clinton	 174 063 	 128 871 
+NY	Montgomery County	 49 642 	Clinton	 5 961 	 10 579 
+NY	Nassau County	 1 361 350 	Clinton	 307 326 	 275 479 
+NY	New York County	 1 644 518 	Clinton	 515 481 	 58 935 
+NY	Niagara County	 212 652 	Clinton	 32 888 	 49 223 
+NY	Oneida County	 232 500 	Clinton	 30 749 	 48 490 
+NY	Onondaga County	 468 463 	Clinton	 102 915 	 78 277 
+NY	Ontario County	 109 561 	Clinton	 20 233 	 24 343 
+NY	Orange County	 377 647 	Clinton	 63 037 	 72 129 
+NY	Orleans County	 41 582 	Clinton	 4 327 	 11 582 
+NY	Oswego County	 120 146 	Clinton	 15 614 	 25 870 
+NY	Otsego County	 60 636 	Clinton	 9 285 	 12 284 
+NY	Putnam County	 99 042 	Clinton	 17 363 	 25 241 
+NY	Queens County	 2 339 150 	Clinton	 473 389 	 138 550 
+NY	Rensselaer County	 160 266 	Clinton	 30 039 	 31 933 
+NY	Richmond County	 474 558 	Clinton	 67 561 	 95 612 
+NY	Rockland County	 326 037 	Clinton	 63 454 	 57 148 
+NY	St. Lawrence County	 111 007 	Clinton	 14 659 	 18 450 
+NY	Saratoga County	 226 249 	Clinton	 46 546 	 51 088 
+NY	Schenectady County	 154 604 	Clinton	 30 870 	 27 268 
+NY	Schoharie County	 31 330 	Clinton	 3 777 	 8 173 
+NY	Schuyler County	 18 186 	Clinton	 2 761 	 5 179 
+NY	Seneca County	 34 833 	Clinton	 5 175 	 6 719 
+NY	Steuben County	 97 631 	Clinton	 11 215 	 25 091 
+NY	Suffolk County	 1 501 587 	Clinton	 276 953 	 328 403 
+NY	Sullivan County	 74 877 	Clinton	 10 983 	 14 626 
+NY	Tioga County	 49 453 	Clinton	 6 852 	 12 528 
+NY	Tompkins County	 104 926 	Clinton	 25 555 	 9 647 
+NY	Ulster County	 180 143 	Clinton	 40 010 	 32 962 
+NY	Warren County	 64 688 	Clinton	 11 366 	 14 284 
+NY	Washington County	 62 230 	Clinton	 8 238 	 12 770 
+NY	Wayne County	 91 446 	Clinton	 12 378 	 21 935 
+NY	Westchester County	 976 396 	Clinton	 245 670 	 121 643 
+NY	Wyoming County	 41 013 	Clinton	 3 585 	 11 884 
+NY	Yates County	 25 048 	Clinton	 3 219 	 5 180 
+NC	Alamance County	 158 276 	Trump	 29 268 	 38 235 
+NC	Alexander County	 37 325 	Trump	 3 750 	 13 826 
+NC	Alleghany County	 10 837 	Trump	 1 300 	 3 789 
+NC	Anson County	 25 759 	Trump	 5 785 	 4 480 
+NC	Ashe County	 27 020 	Trump	 3 476 	 9 353 
+NC	Avery County	 17 689 	Trump	 1 670 	 6 226 
+NC	Beaufort County	 47 651 	Trump	 8 699 	 14 478 
+NC	Bertie County	 20 199 	Trump	 5 837 	 3 476 
+NC	Bladen County	 34 318 	Trump	 7 021 	 8 511 
+NC	Brunswick County	 122 765 	Trump	 23 117 	 42 440 
+NC	Buncombe County	 253 178 	Trump	 74 937 	 55 339 
+NC	Burke County	 88 842 	Trump	 10 930 	 25 741 
+NC	Cabarrus County	 196 762 	Trump	 35 048 	 53 224 
+NC	Caldwell County	 81 287 	Trump	 8 403 	 26 499 
+NC	Camden County	 10 309 	Trump	 1 266 	 3 527 
+NC	Carteret County	 68 879 	Trump	 9 806 	 26 228 
+NC	Caswell County	 22 941 	Trump	 4 549 	 5 758 
+NC	Catawba County	 155 056 	Trump	 21 050 	 48 062 
+NC	Chatham County	 70 928 	Trump	 20 953 	 17 012 
+NC	Cherokee County	 27 178 	Trump	 2 809 	 10 711 
+NC	Chowan County	 14 394 	Trump	 2 965 	 3 983 
+NC	Clay County	 10 703 	Trump	 1 352 	 4 395 
+NC	Cleveland County	 96 879 	Trump	 14 896 	 28 394 
+NC	Columbus County	 56 694 	Trump	 8 991 	 14 177 
+NC	Craven County	 103 451 	Trump	 17 481 	 27 556 
+NC	Cumberland County	 323 838 	Trump	 70 523 	 50 593 
+NC	Currituck County	 25 263 	Trump	 2 879 	 9 070 
+NC	Dare County	 35 663 	Trump	 7 079 	 11 283 
+NC	Davidson County	 164 622 	Trump	 17 328 	 52 870 
+NC	Davie County	 41 753 	Trump	 5 228 	 15 502 
+NC	Duplin County	 59 159 	Trump	 8 196 	 12 151 
+NC	Durham County	 300 952 	Trump	 118 783 	 27 879 
+NC	Edgecombe County	 54 150 	Trump	 16 152 	 8 219 
+NC	Forsyth County	 369 019 	Trump	 92 488 	 74 793 
+NC	Franklin County	 63 710 	Trump	 12 811 	 16 320 
+NC	Gaston County	 213 442 	Trump	 30 982 	 61 467 
+NC	Gates County	 11 431 	Trump	 2 371 	 2 851 
+NC	Graham County	 8 616 	Trump	 761 	 3 260 
+NC	Granville County	 58 674 	Trump	 12 827 	 13 500 
+NC	Greene County	 21 134 	Trump	 3 570 	 4 358 
+NC	Guilford County	 517 600 	Trump	 147 949 	 97 461 
+NC	Halifax County	 52 456 	Trump	 15 642 	 8 954 
+NC	Harnett County	 128 140 	Trump	 16 452 	 27 278 
+NC	Haywood County	 59 868 	Trump	 10 414 	 18 844 
+NC	Henderson County	 112 655 	Trump	 19 664 	 35 535 
+NC	Hertford County	 24 184 	Trump	 6 886 	 3 081 
+NC	Hoke County	 52 671 	Trump	 9 608 	 7 676 
+NC	Hyde County	 5 526 	Trump	 956 	 1 275 
+NC	Iredell County	 169 866 	Trump	 24 441 	 54 164 
+NC	Jackson County	 41 265 	Trump	 7 564 	 9 706 
+NC	Johnston County	 185 660 	Trump	 28 153 	 54 082 
+NC	Jones County	 10 013 	Trump	 2 041 	 2 941 
+NC	Lee County	 59 660 	Trump	 10 380 	 13 625 
+NC	Lenoir County	 58 106 	Trump	 11 752 	 13 354 
+NC	Lincoln County	 81 035 	Trump	 9 836 	 28 653 
+NC	McDowell County	 44 989 	Trump	 4 645 	 14 517 
+NC	Macon County	 34 201 	Trump	 4 841 	 12 035 
+NC	Madison County	 21 139 	Trump	 3 899 	 6 735 
+NC	Martin County	 23 357 	Trump	 5 814 	 5 874 
+NC	Mecklenburg County	 1 034 070 	Trump	 292 258 	 154 303 
+NC	Mitchell County	 15 246 	Trump	 1 585 	 6 225 
+NC	Montgomery County	 27 548 	Trump	 4 108 	 7 070 
+NC	Moore County	 94 352 	Trump	 16 148 	 30 273 
+NC	Nash County	 93 919 	Trump	 23 024 	 23 142 
+NC	New Hanover County	 220 358 	Trump	 50 219 	 54 665 
+NC	Northampton County	 20 426 	Trump	 6 113 	 3 556 
+NC	Onslow County	 186 311 	Trump	 17 156 	 36 342 
+NC	Orange County	 141 354 	Trump	 59 105 	 18 373 
+NC	Pamlico County	 12 781 	Trump	 2 427 	 4 225 
+NC	Pasquotank County	 39 829 	Trump	 8 455 	 8 082 
+NC	Pender County	 57 611 	Trump	 9 086 	 17 317 
+NC	Perquimans County	 13 440 	Trump	 2 291 	 4 143 
+NC	Person County	 39 259 	Trump	 7 772 	 11 116 
+NC	Pitt County	 175 842 	Trump	 40 967 	 35 191 
+NC	Polk County	 20 366 	Trump	 3 715 	 6 738 
+NC	Randolph County	 142 799 	Trump	 13 074 	 49 156 
+NC	Richmond County	 45 437 	Trump	 8 290 	 10 199 
+NC	Robeson County	 134 197 	Trump	 18 377 	 20 294 
+NC	Rockingham County	 91 758 	Trump	 14 057 	 26 463 
+NC	Rowan County	 139 142 	Trump	 19 208 	 42 388 
+NC	Rutherford County	 66 390 	Trump	 7 451 	 21 694 
+NC	Sampson County	 63 724 	Trump	 10 486 	 14 761 
+NC	Scotland County	 35 509 	Trump	 7 279 	 6 212 
+NC	Stanly County	 60 714 	Trump	 7 008 	 21 788 
+NC	Stokes County	 46 351 	Trump	 4 645 	 16 976 
+NC	Surry County	 72 743 	Trump	 7 438 	 23 495 
+NC	Swain County	 14 434 	Trump	 2 186 	 3 557 
+NC	Transylvania County	 33 211 	Trump	 6 520 	 10 441 
+NC	Tyrrell County	 4 070 	Trump	 705 	 968 
+NC	Union County	 222 742 	Trump	 34 051 	 66 265 
+NC	Vance County	 44 568 	Trump	 12 168 	 7 304 
+NC	Wake County	 1 024 198 	Trump	 298 353 	 193 607 
+NC	Warren County	 20 155 	Trump	 6 668 	 3 302 
+NC	Washington County	 12 385 	Trump	 3 490 	 2 560 
+NC	Watauga County	 52 906 	Trump	 13 953 	 13 521 
+NC	Wayne County	 124 132 	Trump	 21 520 	 27 360 
+NC	Wilkes County	 68 502 	Trump	 6 596 	 23 613 
+NC	Wilson County	 81 714 	Trump	 19 527 	 17 410 
+NC	Yadkin County	 37 585 	Trump	 3 140 	 13 815 
+NC	Yancey County	 17 587 	Trump	 3 181 	 6 367 
+ND	Adams County	 2 359 	Trump	 216 	 904 
+ND	Barnes County	 11 099 	Trump	 1 597 	 3 156 
+ND	Benson County	 6 753 	Trump	 842 	 927 
+ND	Billings County	 936 	Trump	 58 	 492 
+ND	Bottineau County	 6 716 	Trump	 734 	 2 482 
+ND	Bowman County	 3 294 	Trump	 227 	 1 445 
+ND	Burke County	 2 308 	Trump	 118 	 879 
+ND	Burleigh County	 92 991 	Trump	 10 865 	 32 499 
+ND	Cass County	 171 512 	Trump	 31 291 	 39 738 
+ND	Cavalier County	 3 828 	Trump	 476 	 1 356 
+ND	Dickey County	 5 104 	Trump	 551 	 1 656 
+ND	Divide County	 2 450 	Trump	 243 	 860 
+ND	Dunn County	 4 646 	Trump	 356 	 1 753 
+ND	Eddy County	 2 365 	Trump	 354 	 790 
+ND	Emmons County	 3 402 	Trump	 215 	 1 672 
+ND	Foster County	 3 356 	Trump	 346 	 1 237 
+ND	Golden Valley County	 1 845 	Trump	 99 	 793 
+ND	Grand Forks County	 70 916 	Trump	 10 828 	 16 325 
+ND	Grant County	 2 388 	Trump	 187 	 1 098 
+ND	Griggs County	 2 314 	Trump	 298 	 847 
+ND	Hettinger County	 2 704 	Trump	 168 	 1 032 
+ND	Kidder County	 2 417 	Trump	 179 	 1 106 
+ND	LaMoure County	 4 125 	Trump	 500 	 1 475 
+ND	Logan County	 1 935 	Trump	 112 	 867 
+ND	McHenry County	 5 968 	Trump	 474 	 1 991 
+ND	McIntosh County	 2 759 	Trump	 233 	 1 095 
+ND	McKenzie County	 12 826 	Trump	 696 	 3 661 
+ND	McLean County	 9 744 	Trump	 1 070 	 3 827 
+ND	Mercer County	 8 853 	Trump	 616 	 3 715 
+ND	Morton County	 30 310 	Trump	 3 077 	 11 319 
+ND	Mountrail County	 10 331 	Trump	 1 211 	 2 551 
+ND	Nelson County	 2 968 	Trump	 536 	 1 025 
+ND	Oliver County	 1 846 	Trump	 119 	 827 
+ND	Pembina County	 7 091 	Trump	 681 	 2 204 
+ND	Pierce County	 4 312 	Trump	 431 	 1 433 
+ND	Ramsey County	 11 630 	Trump	 1 505 	 3 216 
+ND	Ransom County	 5 448 	Trump	 836 	 1 209 
+ND	Renville County	 2 571 	Trump	 200 	 978 
+ND	Richland County	 16 402 	Trump	 2 064 	 4 759 
+ND	Rolette County	 14 649 	Trump	 2 097 	 1 210 
+ND	Sargent County	 3 876 	Trump	 693 	 1 088 
+ND	Sheridan County	 1 310 	Trump	 94 	 644 
+ND	Sioux County	 4 370 	Trump	 758 	 256 
+ND	Slope County	 767 	Trump	 42 	 361 
+ND	Stark County	 32 154 	Trump	 1 745 	 9 718 
+ND	Steele County	 1 956 	Trump	 361 	 537 
+ND	Stutsman County	 21 103 	Trump	 2 484 	 6 706 
+ND	Towner County	 2 272 	Trump	 305 	 733 
+ND	Traill County	 8 014 	Trump	 1 239 	 2 263 
+ND	Walsh County	 10 897 	Trump	 1 166 	 2 991 
+ND	Ward County	 71 275 	Trump	 5 792 	 18 601 
+ND	Wells County	 4 168 	Trump	 419 	 1 793 
+ND	Williams County	 35 294 	Trump	 1 722 	 10 033 
+OH	Adams County	 28 024 	Trump	 2 293 	 8 445 
+OH	Allen County	 104 425 	Trump	 12 815 	 29 858 
+OH	Ashland County	 53 213 	Trump	 5 659 	 17 169 
+OH	Ashtabula County	 98 632 	Trump	 15 191 	 22 755 
+OH	Athens County	 65 886 	Trump	 15 552 	 10 816 
+OH	Auglaize County	 45 876 	Trump	 3 825 	 18 130 
+OH	Belmont County	 69 154 	Trump	 8 652 	 20 729 
+OH	Brown County	 43 839 	Trump	 4 270 	 14 257 
+OH	Butler County	 376 353 	Trump	 56 700 	 104 441 
+OH	Carroll County	 27 811 	Trump	 3 124 	 9 067 
+OH	Champaign County	 38 987 	Trump	 4 488 	 12 314 
+OH	Clark County	 135 959 	Trump	 22 666 	 34 311 
+OH	Clermont County	 201 973 	Trump	 26 096 	 65 960 
+OH	Clinton County	 41 917 	Trump	 3 943 	 13 466 
+OH	Columbiana County	 104 806 	Trump	 12 273 	 31 086 
+OH	Coshocton County	 36 569 	Trump	 3 908 	 10 381 
+OH	Crawford County	 42 306 	Trump	 4 518 	 13 265 
+OH	Cuyahoga County	 1 255 921 	Trump	 383 974 	 179 894 
+OH	Darke County	 52 076 	Trump	 4 395 	 19 698 
+OH	Defiance County	 38 352 	Trump	 5 282 	 11 478 
+OH	Delaware County	 193 013 	Trump	 39 584 	 55 660 
+OH	Erie County	 75 550 	Trump	 15 692 	 19 301 
+OH	Fairfield County	 151 408 	Trump	 24 150 	 43 163 
+OH	Fayette County	 28 679 	Trump	 2 672 	 7 763 
+OH	Franklin County	 1 251 722 	Trump	 335 961 	 192 328 
+OH	Fulton County	 42 537 	Trump	 5 981 	 13 419 
+OH	Gallia County	 30 142 	Trump	 2 564 	 9 567 
+OH	Geauga County	 94 102 	Trump	 17 165 	 29 577 
+OH	Greene County	 164 427 	Trump	 28 023 	 47 506 
+OH	Guernsey County	 39 258 	Trump	 4 286 	 11 164 
+OH	Hamilton County	 807 598 	Trump	 207 587 	 169 972 
+OH	Hancock County	 75 573 	Trump	 9 419 	 23 777 
+OH	Hardin County	 31 682 	Trump	 2 870 	 8 541 
+OH	Harrison County	 15 450 	Trump	 1 663 	 5 021 
+OH	Henry County	 27 816 	Trump	 3 690 	 9 136 
+OH	Highland County	 43 026 	Trump	 3 436 	 13 005 
+OH	Hocking County	 28 491 	Trump	 3 713 	 8 282 
+OH	Holmes County	 43 909 	Trump	 1 766 	 8 578 
+OH	Huron County	 58 469 	Trump	 7 080 	 15 930 
+OH	Jackson County	 32 596 	Trump	 3 142 	 9 618 
+OH	Jefferson County	 67 347 	Trump	 9 483 	 20 668 
+OH	Knox County	 61 061 	Trump	 7 959 	 18 563 
+OH	Lake County	 229 245 	Trump	 45 056 	 62 627 
+OH	Lawrence County	 61 109 	Trump	 6 849 	 18 240 
+OH	Licking County	 170 570 	Trump	 26 360 	 49 346 
+OH	Logan County	 45 386 	Trump	 4 537 	 15 586 
+OH	Lorain County	 305 147 	Trump	 64 958 	 65 346 
+OH	Lucas County	 433 689 	Trump	 107 363 	 74 102 
+OH	Madison County	 44 094 	Trump	 4 662 	 11 319 
+OH	Mahoning County	 231 900 	Trump	 56 188 	 52 808 
+OH	Marion County	 65 355 	Trump	 7 748 	 16 563 
+OH	Medina County	 176 395 	Trump	 31 582 	 53 811 
+OH	Meigs County	 23 257 	Trump	 2 157 	 6 869 
+OH	Mercer County	 40 968 	Trump	 3 335 	 17 200 
+OH	Miami County	 104 224 	Trump	 12 832 	 36 311 
+OH	Monroe County	 14 409 	Trump	 1 647 	 4 781 
+OH	Montgomery County	 532 258 	Trump	 117 661 	 120 766 
+OH	Morgan County	 14 777 	Trump	 1 711 	 4 315 
+OH	Morrow County	 35 074 	Trump	 3 711 	 11 722 
+OH	Muskingum County	 86 290 	Trump	 10 926 	 23 588 
+OH	Noble County	 14 326 	Trump	 1 201 	 4 441 
+OH	Ottawa County	 40 877 	Trump	 8 136 	 12 389 
+OH	Paulding County	 18 976 	Trump	 2 068 	 6 359 
+OH	Perry County	 35 985 	Trump	 4 072 	 9 978 
+OH	Pickaway County	 56 998 	Trump	 6 325 	 16 482 
+OH	Pike County	 28 217 	Trump	 3 443 	 7 669 
+OH	Portage County	 162 275 	Trump	 31 463 	 38 978 
+OH	Preble County	 41 329 	Trump	 4 323 	 15 376 
+OH	Putnam County	 34 042 	Trump	 2 874 	 14 704 
+OH	Richland County	 121 707 	Trump	 15 629 	 35 805 
+OH	Ross County	 77 170 	Trump	 9 905 	 17 833 
+OH	Sandusky County	 59 679 	Trump	 9 733 	 16 045 
+OH	Scioto County	 76 825 	Trump	 8 841 	 19 742 
+OH	Seneca County	 55 610 	Trump	 7 237 	 14 559 
+OH	Shelby County	 48 901 	Trump	 4 143 	 18 148 
+OH	Stark County	 375 165 	Trump	 66 581 	 96 345 
+OH	Summit County	 541 968 	Trump	 129 922 	 109 531 
+OH	Trumbull County	 203 751 	Trump	 42 130 	 48 152 
+OH	Tuscarawas County	 92 916 	Trump	 11 895 	 26 105 
+OH	Union County	 54 277 	Trump	 7 530 	 17 601 
+OH	Van Wert County	 28 562 	Trump	 2 667 	 10 328 
+OH	Vinton County	 13 048 	Trump	 1 332 	 3 799 
+OH	Warren County	 224 469 	Trump	 33 036 	 75 947 
+OH	Washington County	 61 112 	Trump	 7 841 	 19 901 
+OH	Wayne County	 116 063 	Trump	 14 670 	 31 622 
+OH	Williams County	 37 120 	Trump	 4 287 	 11 706 
+OH	Wood County	 129 730 	Trump	 26 440 	 31 734 
+OH	Wyandot County	 22 243 	Trump	 2 484 	 7 346 
+OK	Adair County	 22 004 	Trump	 1 374 	 4 753 
+OK	Alfalfa County	 5 868 	Trump	 216 	 1 931 
+OK	Atoka County	 13 793 	Trump	 795 	 4 068 
+OK	Beaver County	 5 427 	Trump	 176 	 1 987 
+OK	Beckham County	 23 768 	Trump	 958 	 6 287 
+OK	Blaine County	 9 833 	Trump	 711 	 2 884 
+OK	Bryan County	 44 884 	Trump	 2 793 	 10 449 
+OK	Caddo County	 29 343 	Trump	 2 418 	 6 473 
+OK	Canadian County	 133 378 	Trump	 11 666 	 39 969 
+OK	Carter County	 48 689 	Trump	 4 002 	 13 751 
+OK	Cherokee County	 48 447 	Trump	 5 455 	 9 992 
+OK	Choctaw County	 14 997 	Trump	 1 064 	 4 202 
+OK	Cimarron County	 2 216 	Trump	 70 	 962 
+OK	Cleveland County	 274 458 	Trump	 38 790 	 62 469 
+OK	Coal County	 5 651 	Trump	 411 	 1 892 
+OK	Comanche County	 124 648 	Trump	 11 439 	 19 153 
+OK	Cotton County	 5 996 	Trump	 424 	 2 054 
+OK	Craig County	 14 818 	Trump	 1 249 	 4 279 
+OK	Creek County	 70 892 	Trump	 5 834 	 21 539 
+OK	Custer County	 29 744 	Trump	 2 102 	 7 818 
+OK	Delaware County	 41 459 	Trump	 3 306 	 11 796 
+OK	Dewey County	 4 995 	Trump	 222 	 1 964 
+OK	Ellis County	 4 231 	Trump	 155 	 1 610 
+OK	Garfield County	 63 569 	Trump	 4 391 	 15 998 
+OK	Garvin County	 27 755 	Trump	 1 852 	 8 243 
+OK	Grady County	 54 648 	Trump	 3 878 	 17 293 
+OK	Grant County	 4 523 	Trump	 287 	 1 827 
+OK	Greer County	 6 070 	Trump	 323 	 1 482 
+OK	Harmon County	 2 788 	Trump	 224 	 714 
+OK	Harper County	 3 754 	Trump	 131 	 1 307 
+OK	Haskell County	 12 845 	Trump	 882 	 3 697 
+OK	Hughes County	 13 735 	Trump	 961 	 3 387 
+OK	Jackson County	 25 574 	Trump	 1 473 	 5 969 
+OK	Jefferson County	 6 276 	Trump	 365 	 1 905 
+OK	Johnston County	 10 980 	Trump	 782 	 3 081 
+OK	Kay County	 45 366 	Trump	 3 734 	 12 168 
+OK	Kingfisher County	 15 584 	Trump	 783 	 5 151 
+OK	Kiowa County	 9 144 	Trump	 766 	 2 593 
+OK	Latimer County	 10 483 	Trump	 797 	 3 094 
+OK	Le Flore County	 49 605 	Trump	 3 245 	 13 346 
+OK	Lincoln County	 35 042 	Trump	 2 423 	 10 838 
+OK	Logan County	 45 996 	Trump	 4 239 	 13 613 
+OK	Love County	 9 870 	Trump	 735 	 2 920 
+OK	McClain County	 38 066 	Trump	 2 893 	 13 151 
+OK	McCurtain County	 33 048 	Trump	 1 799 	 8 642 
+OK	McIntosh County	 19 990 	Trump	 2 122 	 5 501 
+OK	Major County	 7 771 	Trump	 310 	 2 940 
+OK	Marshall County	 16 232 	Trump	 1 095 	 4 202 
+OK	Mayes County	 40 887 	Trump	 3 423 	 11 550 
+OK	Murray County	 13 936 	Trump	 1 086 	 4 173 
+OK	Muskogee County	 69 699 	Trump	 7 969 	 15 029 
+OK	Noble County	 11 554 	Trump	 901 	 3 707 
+OK	Nowata County	 10 539 	Trump	 742 	 3 321 
+OK	Okfuskee County	 12 181 	Trump	 943 	 2 791 
+OK	Oklahoma County	 776 864 	Trump	 112 661 	 141 429 
+OK	Okmulgee County	 39 187 	Trump	 4 379 	 8 926 
+OK	Osage County	 47 887 	Trump	 5 593 	 12 559 
+OK	Ottawa County	 31 981 	Trump	 2 584 	 7 627 
+OK	Pawnee County	 16 436 	Trump	 1 341 	 4 716 
+OK	Payne County	 80 850 	Trump	 8 785 	 16 644 
+OK	Pittsburg County	 44 610 	Trump	 3 704 	 12 740 
+OK	Pontotoc County	 38 194 	Trump	 3 633 	 10 420 
+OK	Pottawatomie County	 71 875 	Trump	 6 005 	 17 826 
+OK	Pushmataha County	 11 183 	Trump	 748 	 3 581 
+OK	Roger Mills County	 3 788 	Trump	 151 	 1 546 
+OK	Rogers County	 90 802 	Trump	 7 895 	 30 893 
+OK	Seminole County	 25 548 	Trump	 2 067 	 5 612 
+OK	Sequoyah County	 41 153 	Trump	 3 061 	 10 888 
+OK	Stephens County	 44 581 	Trump	 3 084 	 14 166 
+OK	Texas County	 21 489 	Trump	 855 	 4 615 
+OK	Tillman County	 7 515 	Trump	 657 	 1 944 
+OK	Tulsa County	 639 242 	Trump	 87 663 	 143 985 
+OK	Wagoner County	 76 559 	Trump	 6 711 	 22 967 
+OK	Washington County	 52 021 	Trump	 5 047 	 15 810 
+OK	Washita County	 11 661 	Trump	 588 	 3 851 
+OK	Woods County	 9 304 	Trump	 521 	 2 945 
+OK	Woodward County	 21 559 	Trump	 871 	 6 329 
+OR	Baker County	 16 005 	Clinton	 1 781 	 6 160 
+OR	Benton County	 87 572 	Clinton	 28 431 	 13 030 
+OR	Clackamas County	 401 515 	Clinton	 90 187 	 79 062 
+OR	Clatsop County	 37 831 	Clinton	 8 899 	 7 794 
+OR	Columbia County	 49 600 	Clinton	 9 959 	 12 967 
+OR	Coos County	 63 121 	Clinton	 10 355 	 17 699 
+OR	Crook County	 21 630 	Clinton	 2 591 	 8 388 
+OR	Curry County	 22 483 	Clinton	 4 253 	 7 157 
+OR	Deschutes County	 175 268 	Clinton	 40 222 	 43 667 
+OR	Douglas County	 107 685 	Clinton	 13 891 	 34 112 
+OR	Gilliam County	 1 859 	Clinton	 221 	 632 
+OR	Grant County	 7 185 	Clinton	 732 	 3 187 
+OR	Harney County	 7 200 	Clinton	 682 	 2 904 
+OR	Hood River County	 23 137 	Clinton	 6 359 	 3 223 
+OR	Jackson County	 212 567 	Clinton	 43 550 	 53 083 
+OR	Jefferson County	 22 666 	Clinton	 2 892 	 5 337 
+OR	Josephine County	 84 745 	Clinton	 13 223 	 26 582 
+OR	Klamath County	 66 016 	Clinton	 7 080 	 20 170 
+OR	Lake County	 7 829 	Clinton	 628 	 3 001 
+OR	Lane County	 362 895 	Clinton	 100 497 	 66 218 
+OR	Lincoln County	 47 038 	Clinton	 12 300 	 9 901 
+OR	Linn County	 120 547 	Clinton	 17 456 	 32 683 
+OR	Malheur County	 30 380 	Clinton	 2 213 	 7 141 
+OR	Marion County	 330 700 	Clinton	 48 803 	 54 336 
+OR	Morrow County	 11 190 	Clinton	 1 004 	 2 698 
+OR	Multnomah County	 790 294 	Clinton	 271 754 	 63 055 
+OR	Polk County	 79 391 	Clinton	 15 741 	 18 333 
+OR	Sherman County	 1 680 	Clinton	 202 	 726 
+OR	Tillamook County	 25 653 	Clinton	 5 701 	 6 486 
+OR	Umatilla County	 76 531 	Clinton	 7 466 	 16 775 
+OR	Union County	 25 790 	Clinton	 3 221 	 8 378 
+OR	Wallowa County	 6 856 	Clinton	 1 097 	 2 825 
+OR	Wasco County	 25 775 	Clinton	 4 634 	 5 721 
+OR	Washington County	 574 326 	Clinton	 137 818 	 75 903 
+OR	Wheeler County	 1 358 	Clinton	 153 	 583 
+OR	Yamhill County	 102 659 	Clinton	 18 635 	 22 589 
+PA	Adams County	 102 295 	Trump	 14 077 	 31 249 
+PA	Allegheny County	 1 230 459 	Trump	 363 017 	 257 488 
+PA	Armstrong County	 67 052 	Trump	 6 849 	 22 676 
+PA	Beaver County	 168 871 	Trump	 30 225 	 46 081 
+PA	Bedford County	 48 586 	Trump	 3 613 	 19 455 
+PA	Berks County	 415 271 	Trump	 75 169 	 93 094 
+PA	Blair County	 125 593 	Trump	 13 093 	 37 224 
+PA	Bradford County	 61 281 	Trump	 6 263 	 17 957 
+PA	Bucks County	 627 367 	Trump	 165 861 	 163 873 
+PA	Butler County	 186 818 	Trump	 26 834 	 61 388 
+PA	Cambria County	 136 411 	Trump	 17 798 	 40 510 
+PA	Cameron County	 4 732 	Trump	 469 	 1 495 
+PA	Carbon County	 63 960 	Trump	 8 917 	 18 714 
+PA	Centre County	 160 580 	Trump	 36 555 	 35 099 
+PA	Chester County	 515 939 	Trump	 140 188 	 115 582 
+PA	Clarion County	 39 498 	Trump	 4 256 	 12 545 
+PA	Clearfield County	 80 994 	Trump	 7 700 	 23 909 
+PA	Clinton County	 39 441 	Trump	 4 533 	 9 701 
+PA	Columbia County	 66 672 	Trump	 8 502 	 17 387 
+PA	Crawford County	 86 484 	Trump	 10 215 	 23 912 
+PA	Cumberland County	 246 338 	Trump	 44 282 	 65 649 
+PA	Dauphin County	 272 983 	Trump	 64 287 	 60 620 
+PA	Delaware County	 563 894 	Trump	 169 169 	 106 559 
+PA	Elk County	 30 872 	Trump	 3 637 	 9 704 
+PA	Erie County	 278 045 	Trump	 54 820 	 57 168 
+PA	Fayette County	 133 628 	Trump	 17 826 	 34 388 
+PA	Forest County	 7 410 	Trump	 626 	 1 680 
+PA	Franklin County	 153 638 	Trump	 17 322 	 49 554 
+PA	Fulton County	 14 629 	Trump	 904 	 5 676 
+PA	Greene County	 37 519 	Trump	 4 157 	 10 394 
+PA	Huntingdon County	 45 668 	Trump	 4 487 	 14 369 
+PA	Indiana County	 86 966 	Trump	 11 468 	 24 920 
+PA	Jefferson County	 44 430 	Trump	 3 437 	 14 533 
+PA	Juniata County	 24 737 	Trump	 1 810 	 8 234 
+PA	Lackawanna County	 211 917 	Trump	 51 593 	 48 102 
+PA	Lancaster County	 536 624 	Trump	 90 066 	 137 145 
+PA	Lawrence County	 88 082 	Trump	 13 933 	 25 323 
+PA	Lebanon County	 137 067 	Trump	 17 860 	 38 804 
+PA	Lehigh County	 360 685 	Trump	 77 087 	 70 285 
+PA	Luzerne County	 318 449 	Trump	 51 454 	 77 508 
+PA	Lycoming County	 116 048 	Trump	 12 926 	 35 475 
+PA	McKean County	 42 412 	Trump	 3 802 	 11 159 
+PA	Mercer County	 114 234 	Trump	 17 631 	 30 034 
+PA	Mifflin County	 46 500 	Trump	 3 563 	 14 050 
+PA	Monroe County	 166 397 	Trump	 31 930 	 31 706 
+PA	Montgomery County	 819 264 	Trump	 251 063 	 160 803 
+PA	Montour County	 18 557 	Trump	 2 851 	 5 274 
+PA	Northampton County	 300 813 	Trump	 65 936 	 71 384 
+PA	Northumberland County	 93 246 	Trump	 9 184 	 24 418 
+PA	Perry County	 45 685 	Trump	 4 630 	 15 613 
+PA	Philadelphia County	 1 567 442 	Trump	 560 542 	 105 418 
+PA	Pike County	 55 949 	Trump	 9 247 	 16 035 
+PA	Potter County	 17 093 	Trump	 1 300 	 6 247 
+PA	Schuylkill County	 144 590 	Trump	 16 724 	 43 937 
+PA	Snyder County	 40 444 	Trump	 3 991 	 11 710 
+PA	Somerset County	 75 522 	Trump	 7 367 	 27 347 
+PA	Sullivan County	 6 328 	Trump	 756 	 2 318 
+PA	Susquehanna County	 41 666 	Trump	 5 065 	 13 295 
+PA	Tioga County	 41 877 	Trump	 3 642 	 12 928 
+PA	Union County	 44 954 	Trump	 6 138 	 10 605 
+PA	Venango County	 53 119 	Trump	 5 889 	 15 254 
+PA	Warren County	 40 396 	Trump	 4 828 	 12 032 
+PA	Washington County	 208 261 	Trump	 34 436 	 58 941 
+PA	Wayne County	 51 198 	Trump	 6 398 	 15 269 
+PA	Westmoreland County	 357 956 	Trump	 59 506 	 116 427 
+PA	Wyoming County	 27 800 	Trump	 3 573 	 8 375 
+PA	York County	 442 867 	Trump	 67 428 	 126 933 
+RI	Bristol County	 49 084 	Clinton	 14 532 	 8 910 
+RI	Kent County	 164 801 	Clinton	 37 582 	 38 141 
+RI	Newport County	 82 423 	Clinton	 22 680 	 14 975 
+RI	Providence County	 633 473 	Clinton	 141 597 	 90 321 
+RI	Washington County	 126 517 	Clinton	 33 511 	 27 074 
+SC	Abbeville County	 24 932 	Trump	 3 712 	 6 742 
+SC	Aiken County	 165 829 	Trump	 25 426 	 45 981 
+SC	Allendale County	 9 433 	Trump	 2 722 	 788 
+SC	Anderson County	 194 692 	Trump	 21 040 	 56 109 
+SC	Bamberg County	 14 880 	Trump	 3 886 	 2 197 
+SC	Barnwell County	 21 725 	Trump	 4 395 	 4 888 
+SC	Beaufort County	 179 589 	Trump	 29 577 	 39 986 
+SC	Berkeley County	 202 786 	Trump	 30 492 	 44 223 
+SC	Calhoun County	 14 781 	Trump	 3 569 	 3 785 
+SC	Charleston County	 389 262 	Trump	 89 048 	 75 233 
+SC	Cherokee County	 56 194 	Trump	 6 089 	 15 165 
+SC	Chester County	 32 267 	Trump	 6 582 	 7 272 
+SC	Chesterfield County	 46 017 	Trump	 7 125 	 9 576 
+SC	Clarendon County	 33 775 	Trump	 7 635 	 7 246 
+SC	Colleton County	 37 731 	Trump	 7 616 	 9 083 
+SC	Darlington County	 67 548 	Trump	 13 866 	 14 973 
+SC	Dillon County	 31 234 	Trump	 5 832 	 5 637 
+SC	Dorchester County	 152 478 	Trump	 24 010 	 34 932 
+SC	Edgefield County	 26 514 	Trump	 4 491 	 6 842 
+SC	Fairfield County	 22 747 	Trump	 6 936 	 4 024 
+SC	Florence County	 138 900 	Trump	 26 630 	 29 498 
+SC	Georgetown County	 61 298 	Trump	 13 234 	 17 334 
+SC	Greenville County	 491 863 	Trump	 73 338 	 125 595 
+SC	Greenwood County	 69 838 	Trump	 10 633 	 16 881 
+SC	Hampton County	 20 049 	Trump	 5 163 	 3 483 
+SC	Horry County	 309 199 	Trump	 36 731 	 83 819 
+SC	Jasper County	 27 824 	Trump	 7 789 	 6 100 
+SC	Kershaw County	 63 603 	Trump	 10 293 	 17 464 
+SC	Lancaster County	 85 842 	Trump	 13 718 	 23 598 
+SC	Laurens County	 66 623 	Trump	 8 845 	 16 770 
+SC	Lee County	 17 896 	Trump	 5 170 	 2 789 
+SC	Lexington County	 281 833 	Trump	 35 143 	 79 866 
+SC	McCormick County	 9 706 	Trump	 2 479 	 2 651 
+SC	Marion County	 31 747 	Trump	 8 522 	 5 434 
+SC	Marlboro County	 27 494 	Trump	 5 928 	 4 257 
+SC	Newberry County	 38 012 	Trump	 6 212 	 10 011 
+SC	Oconee County	 75 713 	Trump	 7 979 	 24 096 
+SC	Orangeburg County	 89 208 	Trump	 26 258 	 11 909 
+SC	Pickens County	 121 691 	Trump	 10 327 	 36 096 
+SC	Richland County	 407 051 	Trump	 108 401 	 52 753 
+SC	Saluda County	 20 053 	Trump	 2 809 	 5 525 
+SC	Spartanburg County	 297 302 	Trump	 39 888 	 76 101 
+SC	Sumter County	 107 480 	Trump	 24 024 	 18 733 
+SC	Union County	 27 777 	Trump	 4 727 	 7 058 
+SC	Williamsburg County	 32 535 	Trump	 9 949 	 4 863 
+SC	York County	 251 195 	Trump	 41 230 	 66 245 
+SD	Aurora County	 2 733 	Trump	 340 	 974 
+SD	Beadle County	 18 372 	Trump	 1 912 	 4 455 
+SD	Bennett County	 3 423 	Trump	 412 	 666 
+SD	Bon Homme County	 6 985 	Trump	 704 	 2 105 
+SD	Brookings County	 33 897 	Trump	 4 879 	 6 748 
+SD	Brown County	 38 785 	Trump	 5 452 	 9 613 
+SD	Brule County	 5 281 	Trump	 571 	 1 565 
+SD	Buffalo County	 2 095 	Trump	 296 	 171 
+SD	Butte County	 10 283 	Trump	 693 	 3 355 
+SD	Campbell County	 1 397 	Trump	 105 	 704 
+SD	Charles Mix County	 9 383 	Trump	 935 	 2 382 
+SD	Clark County	 3 659 	Trump	 398 	 1 139 
+SD	Clay County	 13 964 	Trump	 2 608 	 2 109 
+SD	Codington County	 27 939 	Trump	 3 174 	 7 764 
+SD	Corson County	 4 197 	Trump	 535 	 588 
+SD	Custer County	 8 446 	Trump	 1 120 	 3 290 
+SD	Davison County	 19 858 	Trump	 2 355 	 5 157 
+SD	Day County	 5 539 	Trump	 974 	 1 627 
+SD	Deuel County	 4 333 	Trump	 570 	 1 366 
+SD	Dewey County	 5 685 	Trump	 887 	 723 
+SD	Douglas County	 2 977 	Trump	 214 	 1 338 
+SD	Edmunds County	 3 999 	Trump	 380 	 1 433 
+SD	Fall River County	 6 867 	Trump	 821 	 2 511 
+SD	Faulk County	 2 337 	Trump	 204 	 858 
+SD	Grant County	 7 142 	Trump	 970 	 2 381 
+SD	Gregory County	 4 201 	Trump	 391 	 1 600 
+SD	Haakon County	 1 861 	Trump	 77 	 936 
+SD	Hamlin County	 6 047 	Trump	 555 	 2 051 
+SD	Hand County	 3 348 	Trump	 334 	 1 391 
+SD	Hanson County	 3 385 	Trump	 424 	 1 497 
+SD	Harding County	 1 267 	Trump	 38 	 694 
+SD	Hughes County	 17 555 	Trump	 2 449 	 5 174 
+SD	Hutchinson County	 7 301 	Trump	 692 	 2 517 
+SD	Hyde County	 1 397 	Trump	 125 	 543 
+SD	Jackson County	 3 321 	Trump	 323 	 722 
+SD	Jerauld County	 1 997 	Trump	 264 	 648 
+SD	Jones County	 924 	Trump	 69 	 450 
+SD	Kingsbury County	 4 990 	Trump	 703 	 1 680 
+SD	Lake County	 12 622 	Trump	 2 314 	 4 038 
+SD	Lawrence County	 24 827 	Trump	 3 356 	 7 411 
+SD	Lincoln County	 52 849 	Trump	 8 076 	 15 499 
+SD	Lyman County	 3 876 	Trump	 369 	 977 
+SD	McCook County	 5 599 	Trump	 623 	 1 794 
+SD	McPherson County	 2 415 	Trump	 192 	 892 
+SD	Marshall County	 4 769 	Trump	 754 	 1 056 
+SD	Meade County	 26 986 	Trump	 2 223 	 8 441 
+SD	Mellette County	 2 050 	Trump	 238 	 402 
+SD	Miner County	 2 236 	Trump	 281 	 706 
+SD	Minnehaha County	 185 197 	Trump	 30 610 	 42 043 
+SD	Moody County	 6 430 	Trump	 1 042 	 1 729 
+SD	Pennington County	 108 702 	Trump	 14 074 	 29 804 
+SD	Perkins County	 3 019 	Trump	 188 	 1 333 
+SD	Potter County	 2 320 	Trump	 215 	 1 069 
+SD	Roberts County	 10 311 	Trump	 1 539 	 2 142 
+SD	Sanborn County	 2 355 	Trump	 241 	 819 
+SD	Oglala County		Trump	 2 504 	 241 
+SD	Spink County	 6 524 	Trump	 919 	 1 854 
+SD	Stanley County	 2 954 	Trump	 329 	 1 148 
+SD	Sully County	 1 426 	Trump	 137 	 679 
+SD	Todd County	 9 959 	Trump	 1 505 	 487 
+SD	Tripp County	 5 434 	Trump	 462 	 2 069 
+SD	Turner County	 8 209 	Trump	 961 	 2 937 
+SD	Union County	 14 909 	Trump	 2 227 	 5 288 
+SD	Walworth County	 5 443 	Trump	 457 	 1 896 
+SD	Yankton County	 22 702 	Trump	 3 301 	 5 654 
+SD	Ziebach County	 2 803 	Trump	 352 	 368 
+TN	Anderson County	 75 749 	Trump	 9 010 	 19 201 
+TN	Bedford County	 47 183 	Trump	 3 384 	 11 455 
+TN	Benton County	 16 129 	Trump	 1 474 	 4 715 
+TN	Bledsoe County	 14 502 	Trump	 896 	 3 621 
+TN	Blount County	 127 253 	Trump	 12 085 	 37 385 
+TN	Bradley County	 104 091 	Trump	 7 070 	 29 761 
+TN	Campbell County	 39 752 	Trump	 2 248 	 9 860 
+TN	Cannon County	 13 840 	Trump	 1 126 	 4 006 
+TN	Carroll County	 27 910 	Trump	 2 323 	 7 731 
+TN	Carter County	 56 486 	Trump	 3 453 	 16 897 
+TN	Cheatham County	 39 741 	Trump	 3 877 	 11 295 
+TN	Chester County	 17 471 	Trump	 902 	 3 827 
+TN	Claiborne County	 31 709 	Trump	 1 831 	 8 589 
+TN	Clay County	 7 771 	Trump	 707 	 2 140 
+TN	Cocke County	 35 162 	Trump	 1 980 	 9 791 
+TN	Coffee County	 54 277 	Trump	 4 741 	 14 409 
+TN	Crockett County	 14 601 	Trump	 1 302 	 3 977 
+TN	Cumberland County	 58 229 	Trump	 5 202 	 20 410 
+TN	Davidson County	 678 889 	Trump	 148 473 	 84 365 
+TN	Decatur County	 11 660 	Trump	 894 	 3 580 
+TN	DeKalb County	 19 182 	Trump	 1 566 	 5 164 
+TN	Dickson County	 51 487 	Trump	 4 718 	 13 213 
+TN	Dyer County	 37 893 	Trump	 2 815 	 10 175 
+TN	Fayette County	 39 165 	Trump	 5 865 	 13 046 
+TN	Fentress County	 17 917 	Trump	 1 100 	 6 032 
+TN	Franklin County	 41 449 	Trump	 4 372 	 11 526 
+TN	Gibson County	 49 399 	Trump	 5 255 	 13 779 
+TN	Giles County	 28 946 	Trump	 2 915 	 7 964 
+TN	Grainger County	 22 846 	Trump	 1 154 	 6 618 
+TN	Greene County	 68 580 	Trump	 4 211 	 18 538 
+TN	Grundy County	 13 441 	Trump	 998 	 3 626 
+TN	Hamblen County	 63 402 	Trump	 4 075 	 15 839 
+TN	Hamilton County	 354 098 	Trump	 55 260 	 78 661 
+TN	Hancock County	 6 572 	Trump	 322 	 1 842 
+TN	Hardeman County	 25 707 	Trump	 4 174 	 4 912 
+TN	Hardin County	 25 756 	Trump	 1 622 	 8 012 
+TN	Hawkins County	 56 471 	Trump	 3 502 	 16 611 
+TN	Haywood County	 18 023 	Trump	 3 704 	 3 010 
+TN	Henderson County	 28 015 	Trump	 1 796 	 8 118 
+TN	Henry County	 32 147 	Trump	 3 061 	 9 483 
+TN	Hickman County	 24 363 	Trump	 1 823 	 5 685 
+TN	Houston County	 8 149 	Trump	 865 	 2 180 
+TN	Humphreys County	 18 135 	Trump	 1 967 	 4 928 
+TN	Jackson County	 11 509 	Trump	 1 129 	 3 229 
+TN	Jefferson County	 53 240 	Trump	 3 490 	 14 760 
+TN	Johnson County	 17 830 	Trump	 988 	 5 400 
+TN	Knox County	 451 324 	Trump	 62 861 	 105 724 
+TN	Lake County	 7 576 	Trump	 577 	 1 357 
+TN	Lauderdale County	 26 936 	Trump	 3 656 	 4 884 
+TN	Lawrence County	 42 564 	Trump	 2 821 	 12 419 
+TN	Lewis County	 11 854 	Trump	 890 	 3 579 
+TN	Lincoln County	 33 743 	Trump	 2 550 	 10 375 
+TN	Loudon County	 51 130 	Trump	 4 916 	 17 588 
+TN	McMinn County	 52 639 	Trump	 3 507 	 14 673 
+TN	McNairy County	 26 066 	Trump	 1 847 	 7 839 
+TN	Macon County	 23 177 	Trump	 1 071 	 6 260 
+TN	Madison County	 97 610 	Trump	 15 438 	 21 321 
+TN	Marion County	 28 487 	Trump	 2 829 	 7 680 
+TN	Marshall County	 31 552 	Trump	 2 848 	 8 167 
+TN	Maury County	 87 757 	Trump	 10 026 	 23 781 
+TN	Meigs County	 11 830 	Trump	 856 	 3 337 
+TN	Monroe County	 45 771 	Trump	 3 184 	 13 361 
+TN	Montgomery County	 193 479 	Trump	 21 686 	 32 320 
+TN	Moore County	 6 322 	Trump	 496 	 2 325 
+TN	Morgan County	 21 498 	Trump	 1 053 	 5 429 
+TN	Obion County	 30 639 	Trump	 2 425 	 9 525 
+TN	Overton County	 22 129 	Trump	 1 943 	 6 055 
+TN	Perry County	 7 929 	Trump	 597 	 2 167 
+TN	Pickett County	 5 146 	Trump	 536 	 2 019 
+TN	Polk County	 16 773 	Trump	 1 252 	 5 097 
+TN	Putnam County	 74 553 	Trump	 6 847 	 18 981 
+TN	Rhea County	 32 526 	Trump	 1 942 	 8 650 
+TN	Roane County	 52 753 	Trump	 4 833 	 15 863 
+TN	Robertson County	 68 570 	Trump	 6 634 	 19 393 
+TN	Rutherford County	 298 612 	Trump	 36 627 	 64 428 
+TN	Scott County	 21 950 	Trump	 934 	 6 044 
+TN	Sequatchie County	 14 811 	Trump	 1 051 	 4 434 
+TN	Sevier County	 95 946 	Trump	 6 293 	 28 610 
+TN	Shelby County	 938 069 	Trump	 206 640 	 114 948 
+TN	Smith County	 19 295 	Trump	 1 688 	 5 485 
+TN	Stewart County	 13 259 	Trump	 1 222 	 3 864 
+TN	Sullivan County	 156 791 	Trump	 11 910 	 45 577 
+TN	Sumner County	 175 989 	Trump	 18 153 	 50 105 
+TN	Tipton County	 61 870 	Trump	 5 779 	 16 893 
+TN	Trousdale County	 8 042 	Trump	 943 	 2 099 
+TN	Unicoi County	 17 860 	Trump	 1 260 	 5 666 
+TN	Union County	 19 119 	Trump	 1 010 	 5 024 
+TN	Van Buren County	 5 677 	Trump	 539 	 1 820 
+TN	Warren County	 40 435 	Trump	 3 535 	 9 535 
+TN	Washington County	 126 302 	Trump	 13 003 	 34 179 
+TN	Wayne County	 16 748 	Trump	 717 	 5 034 
+TN	Weakley County	 33 960 	Trump	 2 770 	 9 001 
+TN	White County	 26 521 	Trump	 1 842 	 7 657 
+TN	Williamson County	 211 672 	Trump	 30 992 	 68 160 
+TN	Wilson County	 128 911 	Trump	 14 356 	 39 304 
+TX	Anderson County	 57 580 	Trump	 3 358 	 13 165 
+TX	Andrews County	 18 105 	Trump	 836 	 3 925 
+TX	Angelina County	 88 255 	Trump	 7 538 	 21 666 
+TX	Aransas County	 25 350 	Trump	 2 458 	 7 730 
+TX	Archer County	 8 715 	Trump	 394 	 3 785 
+TX	Armstrong County	 1 947 	Trump	 70 	 924 
+TX	Atascosa County	 48 435 	Trump	 4 635 	 8 598 
+TX	Austin County	 29 563 	Trump	 2 319 	 9 637 
+TX	Bailey County	 7 210 	Trump	 397 	 1 343 
+TX	Bandera County	 21 269 	Trump	 1 726 	 8 159 
+TX	Bastrop County	 80 527 	Trump	 10 555 	 16 314 
+TX	Baylor County	 3 618 	Trump	 191 	 1 267 
+TX	Bee County	 32 874 	Trump	 3 443 	 4 743 
+TX	Bell County	 334 941 	Trump	 37 608 	 51 780 
+TX	Bexar County	 1 897 753 	Trump	 319 191 	 240 161 
+TX	Blanco County	 11 004 	Trump	 1 244 	 4 212 
+TX	Borden County	 648 	Trump	 31 	 330 
+TX	Bosque County	 17 891 	Trump	 1 277 	 6 325 
+TX	Bowie County	 93 389 	Trump	 8 831 	 24 913 
+TX	Brazoria County	 346 312 	Trump	 43 075 	 72 653 
+TX	Brazos County	 215 037 	Trump	 23 041 	 38 662 
+TX	Brewster County	 9 145 	Trump	 1 869 	 2 073 
+TX	Briscoe County	 1 505 	Trump	 91 	 625 
+TX	Brooks County	 7 230 	Trump	 1 937 	 613 
+TX	Brown County	 37 896 	Trump	 1 621 	 12 010 
+TX	Burleson County	 17 460 	Trump	 1 491 	 5 316 
+TX	Burnet County	 45 463 	Trump	 3 785 	 14 595 
+TX	Caldwell County	 40 522 	Trump	 4 663 	 6 516 
+TX	Calhoun County	 21 895 	Trump	 2 118 	 4 638 
+TX	Callahan County	 13 557 	Trump	 568 	 4 858 
+TX	Cameron County	 422 156 	Trump	 59 319 	 29 432 
+TX	Camp County	 12 682 	Trump	 1 260 	 3 201 
+TX	Carson County	 5 969 	Trump	 249 	 2 617 
+TX	Cass County	 30 313 	Trump	 2 250 	 9 182 
+TX	Castro County	 7 656 	Trump	 526 	 1 413 
+TX	Chambers County	 38 863 	Trump	 2 939 	 13 278 
+TX	Cherokee County	 51 542 	Trump	 3 466 	 12 896 
+TX	Childress County	 7 088 	Trump	 253 	 1 802 
+TX	Clay County	 10 360 	Trump	 536 	 4 376 
+TX	Cochran County	 2 953 	Trump	 190 	 679 
+TX	Coke County	 3 238 	Trump	 140 	 1 265 
+TX	Coleman County	 8 338 	Trump	 387 	 3 177 
+TX	Collin County	 914 127 	Trump	 139 837 	 200 395 
+TX	Collingsworth County	 3 044 	Trump	 145 	 983 
+TX	Colorado County	 20 870 	Trump	 1 977 	 6 323 
+TX	Comal County	 129 048 	Trump	 14 166 	 44 996 
+TX	Comanche County	 13 430 	Trump	 788 	 4 300 
+TX	Concho County	 4 081 	Trump	 148 	 885 
+TX	Cooke County	 39 229 	Trump	 2 345 	 13 174 
+TX	Coryell County	 75 503 	Trump	 5 057 	 12 212 
+TX	Cottle County	 1 426 	Trump	 84 	 486 
+TX	Crane County	 5 048 	Trump	 299 	 1 047 
+TX	Crockett County	 3 710 	Trump	 372 	 980 
+TX	Crosby County	 5 977 	Trump	 468 	 1 180 
+TX	Culberson County	 2 236 	Trump	 454 	 280 
+TX	Dallam County	 7 121 	Trump	 222 	 1 258 
+TX	Dallas County	 2 553 385 	Trump	 458 845 	 261 865 
+TX	Dawson County	 13 520 	Trump	 835 	 2 636 
+TX	Deaf Smith County	 18 952 	Trump	 1 185 	 2 911 
+TX	Delta County	 5 217 	Trump	 400 	 1 836 
+TX	Denton County	 780 612 	Trump	 110 000 	 169 175 
+TX	DeWitt County	 20 797 	Trump	 1 161 	 5 510 
+TX	Dickens County	 2 206 	Trump	 128 	 755 
+TX	Dimmit County	 10 980 	Trump	 2 173 	 974 
+TX	Donley County	 3 499 	Trump	 190 	 1 225 
+TX	Duval County	 11 388 	Trump	 2 783 	 1 316 
+TX	Eastland County	 18 171 	Trump	 776 	 6 008 
+TX	Ector County	 159 436 	Trump	 10 225 	 24 976 
+TX	Edwards County	 1 894 	Trump	 302 	 741 
+TX	Ellis County	 163 632 	Trump	 16 197 	 44 807 
+TX	El Paso County	 835 593 	Trump	 145 509 	 54 567 
+TX	Erath County	 41 122 	Trump	 2 159 	 11 205 
+TX	Falls County	 17 142 	Trump	 1 682 	 3 438 
+TX	Fannin County	 33 693 	Trump	 2 123 	 9 536 
+TX	Fayette County	 25 110 	Trump	 2 127 	 8 648 
+TX	Fisher County	 3 827 	Trump	 403 	 1 265 
+TX	Floyd County	 5 901 	Trump	 435 	 1 473 
+TX	Foard County	 1 220 	Trump	 113 	 383 
+TX	Fort Bend County	 716 087 	Trump	 134 475 	 117 212 
+TX	Franklin County	 10 651 	Trump	 665 	 3 583 
+TX	Freestone County	 19 691 	Trump	 1 461 	 5 995 
+TX	Frio County	 18 793 	Trump	 1 401 	 1 232 
+TX	Gaines County	 20 051 	Trump	 597 	 3 907 
+TX	Galveston County	 322 225 	Trump	 45 503 	 73 566 
+TX	Garza County	 6 415 	Trump	 224 	 1 223 
+TX	Gillespie County	 25 963 	Trump	 2 286 	 10 445 
+TX	Glasscock County	 1 315 	Trump	 34 	 553 
+TX	Goliad County	 7 531 	Trump	 973 	 2 618 
+TX	Gonzales County	 20 573 	Trump	 1 567 	 4 580 
+TX	Gray County	 23 210 	Trump	 699 	 6 495 
+TX	Grayson County	 125 467 	Trump	 10 276 	 35 274 
+TX	Gregg County	 124 108 	Trump	 11 623 	 28 693 
+TX	Grimes County	 27 512 	Trump	 2 194 	 7 065 
+TX	Guadalupe County	 151 249 	Trump	 18 308 	 36 495 
+TX	Hale County	 34 360 	Trump	 2 090 	 6 347 
+TX	Hall County	 3 138 	Trump	 164 	 891 
+TX	Hamilton County	 8 159 	Trump	 479 	 3 056 
+TX	Hansford County	 5 610 	Trump	 171 	 1 730 
+TX	Hardeman County	 3 840 	Trump	 249 	 1 207 
+TX	Hardin County	 55 865 	Trump	 2 779 	 19 600 
+TX	Harris County	 4 538 028 	Trump	 706 471 	 544 960 
+TX	Harrison County	 66 746 	Trump	 7 130 	 18 712 
+TX	Hartley County	 6 193 	Trump	 172 	 1 727 
+TX	Haskell County	 5 737 	Trump	 314 	 1 403 
+TX	Hays County	 194 739 	Trump	 33 117 	 33 730 
+TX	Hemphill County	 4 264 	Trump	 181 	 1 460 
+TX	Henderson County	 79 545 	Trump	 5 649 	 23 574 
+TX	Hidalgo County	 842 304 	Trump	 118 739 	 48 608 
+TX	Hill County	 34 855 	Trump	 2 535 	 10 075 
+TX	Hockley County	 23 433 	Trump	 1 257 	 5 793 
+TX	Hood County	 55 423 	Trump	 4 001 	 21 367 
+TX	Hopkins County	 36 223 	Trump	 2 508 	 10 704 
+TX	Houston County	 22 785 	Trump	 1 978 	 6 205 
+TX	Howard County	 37 206 	Trump	 1 768 	 6 635 
+TX	Hudspeth County	 3 379 	Trump	 324 	 503 
+TX	Hunt County	 89 844 	Trump	 6 301 	 23 866 
+TX	Hutchinson County	 21 734 	Trump	 854 	 7 039 
+TX	Irion County	 1 554 	Trump	 90 	 660 
+TX	Jack County	 8 878 	Trump	 314 	 2 973 
+TX	Jackson County	 14 816 	Trump	 904 	 4 266 
+TX	Jasper County	 35 506 	Trump	 2 582 	 10 578 
+TX	Jeff Davis County	 2 156 	Trump	 422 	 694 
+TX	Jefferson County	 254 308 	Trump	 42 404 	 42 828 
+TX	Jim Hogg County	 5 200 	Trump	 1 635 	 430 
+TX	Jim Wells County	 41 382 	Trump	 6 688 	 5 411 
+TX	Johnson County	 159 990 	Trump	 10 976 	 44 370 
+TX	Jones County	 19 970 	Trump	 935 	 4 815 
+TX	Karnes County	 14 975 	Trump	 1 144 	 2 959 
+TX	Kaufman County	 114 690 	Trump	 10 265 	 29 537 
+TX	Kendall County	 40 384 	Trump	 3 633 	 15 663 
+TX	Kenedy County	 407 	Trump	 99 	 84 
+TX	Kent County	 764 	Trump	 59 	 360 
+TX	Kerr County	 50 955 	Trump	 4 665 	 17 658 
+TX	Kimble County	 4 388 	Trump	 206 	 1 697 
+TX	King County	 282 	Trump	 5 	 149 
+TX	Kinney County	 3 549 	Trump	 457 	 936 
+TX	Kleberg County	 31 857 	Trump	 4 713 	 4 364 
+TX	Knox County	 3 860 	Trump	 247 	 1 078 
+TX	Lamar County	 49 440 	Trump	 3 579 	 14 546 
+TX	Lamb County	 13 385 	Trump	 770 	 3 040 
+TX	Lampasas County	 20 588 	Trump	 1 479 	 6 371 
+TX	La Salle County	 7 631 	Trump	 1 125 	 870 
+TX	Lavaca County	 19 836 	Trump	 1 170 	 7 339 
+TX	Lee County	 16 898 	Trump	 1 372 	 4 996 
+TX	Leon County	 17 086 	Trump	 909 	 6 391 
+TX	Liberty County	 79 654 	Trump	 4 851 	 18 856 
+TX	Limestone County	 23 320 	Trump	 1 748 	 5 747 
+TX	Lipscomb County	 3 569 	Trump	 135 	 1 159 
+TX	Live Oak County	 12 229 	Trump	 739 	 3 450 
+TX	Llano County	 19 796 	Trump	 1 825 	 8 283 
+TX	Loving County	 112 	Trump	 4 	 57 
+TX	Lubbock County	 299 453 	Trump	 27 956 	 65 566 
+TX	Lynn County	 5 724 	Trump	 403 	 1 546 
+TX	McCulloch County	 8 341 	Trump	 480 	 2 546 
+TX	McLennan County	 245 671 	Trump	 27 046 	 48 245 
+TX	McMullen County	 820 	Trump	 40 	 454 
+TX	Madison County	 14 065 	Trump	 881 	 3 349 
+TX	Marion County	 10 160 	Trump	 1 156 	 2 968 
+TX	Martin County	 5 641 	Trump	 266 	 1 453 
+TX	Mason County	 4 032 	Trump	 353 	 1 656 
+TX	Matagorda County	 36 770 	Trump	 3 357 	 8 147 
+TX	Maverick County	 57 706 	Trump	 10 397 	 2 816 
+TX	Medina County	 48 417 	Trump	 4 624 	 12 054 
+TX	Menard County	 2 164 	Trump	 153 	 681 
+TX	Midland County	 161 077 	Trump	 9 993 	 36 896 
+TX	Milam County	 24 513 	Trump	 2 042 	 6 340 
+TX	Mills County	 4 900 	Trump	 242 	 1 949 
+TX	Mitchell County	 9 067 	Trump	 353 	 1 780 
+TX	Montague County	 19 262 	Trump	 885 	 7 526 
+TX	Montgomery County	 537 559 	Trump	 45 744 	 150 188 
+TX	Moore County	 22 255 	Trump	 1 096 	 3 974 
+TX	Morris County	 12 516 	Trump	 1 425 	 3 443 
+TX	Motley County	 1 148 	Trump	 40 	 571 
+TX	Nacogdoches County	 65 664 	Trump	 6 822 	 14 751 
+TX	Navarro County	 48 323 	Trump	 3 998 	 11 984 
+TX	Newton County	 13 986 	Trump	 978 	 2 961 
+TX	Nolan County	 15 107 	Trump	 1 029 	 3 551 
+TX	Nueces County	 359 715 	Trump	 49 102 	 50 704 
+TX	Ochiltree County	 10 747 	Trump	 274 	 2 628 
+TX	Oldham County	 2 069 	Trump	 78 	 850 
+TX	Orange County	 84 260 	Trump	 5 716 	 25 385 
+TX	Palo Pinto County	 27 895 	Trump	 1 700 	 8 222 
+TX	Panola County	 23 766 	Trump	 1 835 	 8 445 
+TX	Parker County	 126 042 	Trump	 8 329 	 46 433 
+TX	Parmer County	 9 749 	Trump	 848 	 1 911 
+TX	Pecos County	 16 203 	Trump	 1 551 	 2 463 
+TX	Polk County	 46 972 	Trump	 7 123 	 26 587 
+TX	Potter County	 121 802 	Trump	 7 620 	 19 499 
+TX	Presidio County	 6 876 	Trump	 1 458 	 652 
+TX	Rains County	 11 161 	Trump	 619 	 3 919 
+TX	Randall County	 130 269 	Trump	 8 340 	 43 379 
+TX	Reagan County	 3 792 	Trump	 167 	 709 
+TX	Real County	 3 307 	Trump	 262 	 1 382 
+TX	Red River County	 12 455 	Trump	 1 148 	 3 924 
+TX	Reeves County	 14 732 	Trump	 1 659 	 1 417 
+TX	Refugio County	 7 289 	Trump	 1 034 	 1 830 
+TX	Roberts County	 916 	Trump	 20 	 524 
+TX	Robertson County	 16 659 	Trump	 2 203 	 4 665 
+TX	Rockwall County	 90 861 	Trump	 9 633 	 28 396 
+TX	Runnels County	 10 551 	Trump	 452 	 3 241 
+TX	Rusk County	 53 070 	Trump	 3 935 	 14 675 
+TX	Sabine County	 10 368 	Trump	 614 	 3 992 
+TX	San Augustine County	 8 473 	Trump	 907 	 2 620 
+TX	San Jacinto County	 27 413 	Trump	 2 034 	 8 050 
+TX	San Patricio County	 67 357 	Trump	 7 825 	 13 004 
+TX	San Saba County	 5 901 	Trump	 293 	 2 025 
+TX	Schleicher County	 3 211 	Trump	 209 	 819 
+TX	Scurry County	 17 615 	Trump	 733 	 4 403 
+TX	Shackelford County	 3 350 	Trump	 103 	 1 378 
+TX	Shelby County	 25 402 	Trump	 1 757 	 7 171 
+TX	Sherman County	 3 072 	Trump	 96 	 807 
+TX	Smith County	 222 936 	Trump	 22 128 	 58 631 
+TX	Somervell County	 8 739 	Trump	 540 	 3 206 
+TX	Starr County	 63 795 	Trump	 9 246 	 2 218 
+TX	Stephens County	 9 440 	Trump	 348 	 3 033 
+TX	Sterling County	 1 352 	Trump	 70 	 549 
+TX	Stonewall County	 1 410 	Trump	 135 	 555 
+TX	Sutton County	 3 913 	Trump	 313 	 1 075 
+TX	Swisher County	 7 533 	Trump	 462 	 1 671 
+TX	Tarrant County	 1 982 498 	Trump	 288 001 	 345 683 
+TX	Taylor County	 136 051 	Trump	 10 047 	 33 172 
+TX	Terrell County	 837 	Trump	 140 	 287 
+TX	Terry County	 12 739 	Trump	 424 	 1 295 
+TX	Throckmorton County	 1 579 	Trump	 84 	 715 
+TX	Titus County	 32 623 	Trump	 2 538 	 6 405 
+TX	Tom Green County	 118 105 	Trump	 9 117 	 27 376 
+TX	Travis County	 1 176 558 	Trump	 306 475 	 126 750 
+TX	Trinity County	 14 402 	Trump	 1 154 	 4 737 
+TX	Tyler County	 21 347 	Trump	 1 243 	 6 601 
+TX	Upshur County	 40 603 	Trump	 2 378 	 13 198 
+TX	Upton County	 3 651 	Trump	 284 	 961 
+TX	Uvalde County	 27 245 	Trump	 3 863 	 4 828 
+TX	Val Verde County	 48 988 	Trump	 6 920 	 5 856 
+TX	Van Zandt County	 53 547 	Trump	 2 792 	 18 436 
+TX	Victoria County	 92 382 	Trump	 8 843 	 21 253 
+TX	Walker County	 70 699 	Trump	 6 085 	 12 878 
+TX	Waller County	 48 656 	Trump	 5 744 	 10 525 
+TX	Ward County	 11 721 	Trump	 780 	 2 541 
+TX	Washington County	 34 765 	Trump	 3 381 	 10 944 
+TX	Webb County	 269 721 	Trump	 42 297 	 12 946 
+TX	Wharton County	 41 486 	Trump	 4 238 	 10 149 
+TX	Wheeler County	 5 657 	Trump	 194 	 2 087 
+TX	Wichita County	 131 705 	Trump	 8 752 	 27 609 
+TX	Wilbarger County	 13 027 	Trump	 807 	 3 166 
+TX	Willacy County	 21 903 	Trump	 3 416 	 1 541 
+TX	Williamson County	 508 514 	Trump	 84 252 	 104 029 
+TX	Wilson County	 47 520 	Trump	 4 790 	 13 991 
+TX	Winkler County	 8 005 	Trump	 420 	 1 403 
+TX	Wise County	 62 953 	Trump	 3 412 	 20 655 
+TX	Wood County	 43 356 	Trump	 2 624 	 15 681 
+TX	Yoakum County	 8 546 	Trump	 426 	 1 797 
+TX	Young County	 18 270 	Trump	 873 	 6 587 
+TX	Zapata County	 14 374 	Trump	 2 056 	 1 028 
+TX	Zavala County	 12 235 	Trump	 2 633 	 692 
+UT	Beaver County	 6 354 	Trump	 264 	 1 838 
+UT	Box Elder County	 52 097 	Trump	 1 814 	 10 324 
+UT	Cache County	 120 783 	Trump	 6 705 	 16 643 
+UT	Carbon County	 20 479 	Trump	 1 696 	 5 182 
+UT	Daggett County	 1 109 	Trump	 76 	 327 
+UT	Davis County	 336 043 	Trump	 22 575 	 46 985 
+UT	Duchesne County	 20 862 	Trump	 500 	 5 505 
+UT	Emery County	 10 370 	Trump	 379 	 3 402 
+UT	Garfield County	 5 009 	Trump	 352 	 1 577 
+UT	Grand County	 9 516 	Trump	 1 932 	 1 934 
+UT	Iron County	 48 368 	Trump	 2 104 	 10 025 
+UT	Juab County	 10 594 	Trump	 436 	 2 759 
+UT	Kane County	 7 131 	Trump	 739 	 2 248 
+UT	Millard County	 12 645 	Trump	 431 	 3 860 
+UT	Morgan County	 11 065 	Trump	 572 	 3 156 
+UT	Piute County	 1 517 	Trump	 31 	 537 
+UT	Rich County	 2 311 	Trump	 104 	 786 
+UT	Salt Lake County	 1 107 314 	Trump	 154 831 	 117 901 
+UT	San Juan County	 15 772 	Trump	 1 997 	 2 635 
+UT	Sanpete County	 28 778 	Trump	 1 026 	 6 436 
+UT	Sevier County	 20 984 	Trump	 673 	 6 455 
+UT	Summit County	 39 633 	Trump	 10 251 	 7 160 
+UT	Tooele County	 62 952 	Trump	 4 015 	 9 693 
+UT	Uintah County	 37 928 	Trump	 1 002 	 9 876 
+UT	Utah County	 575 205 	Trump	 24 579 	 89 755 
+UT	Wasatch County	 29 161 	Trump	 3 063 	 6 115 
+UT	Washington County	 155 602 	Trump	 9 583 	 39 566 
+UT	Wayne County	 2 692 	Trump	 271 	 959 
+UT	Weber County	 243 645 	Trump	 22 187 	 38 447 
+VT	Addison County	 37 035 	Clinton	 11 217 	 5 297 
+VT	Bennington County	 36 317 	Clinton	 9 539 	 5 925 
+VT	Caledonia County	 30 780 	Clinton	 6 445 	 5 533 
+VT	Chittenden County	 161 382 	Clinton	 54 463 	 18 298 
+VT	Essex County	 6 163 	Clinton	 1 019 	 1 506 
+VT	Franklin County	 48 799 	Clinton	 9 351 	 8 752 
+VT	Grand Isle County	 6 861 	Clinton	 2 094 	 1 487 
+VT	Lamoille County	 25 235 	Clinton	 7 241 	 3 570 
+VT	Orange County	 28 899 	Clinton	 7 522 	 4 997 
+VT	Orleans County	 27 100 	Clinton	 5 181 	 5 158 
+VT	Rutland County	 59 736 	Clinton	 13 629 	 12 471 
+VT	Washington County	 58 612 	Clinton	 18 594 	 7 993 
+VT	Windham County	 43 386 	Clinton	 14 340 	 5 462 
+VT	Windsor County	 55 737 	Clinton	 17 544 	 8 604 
+VA	Accomack County	 32 973 	Clinton	 6 737 	 8 582 
+VA	Albemarle County	 105 703 	Clinton	 33 297 	 19 232 
+VA	Alleghany County	 15 677 	Clinton	 2 165 	 4 873 
+VA	Amelia County	 12 903 	Clinton	 2 150 	 4 704 
+VA	Amherst County	 31 914 	Clinton	 4 986 	 9 643 
+VA	Appomattox County	 15 414 	Clinton	 2 023 	 5 714 
+VA	Arlington County	 229 164 	Clinton	 91 879 	 20 155 
+VA	Augusta County	 74 314 	Clinton	 8 108 	 26 152 
+VA	Bath County	 4 470 	Clinton	 603 	 1 548 
+VA	Bedford County	 77 724 	Clinton	 9 733 	 30 578 
+VA	Bland County	 6 561 	Clinton	 453 	 2 572 
+VA	Botetourt County	 33 347 	Clinton	 4 492 	 13 369 
+VA	Brunswick County	 16 698 	Clinton	 4 473 	 3 045 
+VA	Buchanan County	 22 776 	Clinton	 1 721 	 7 292 
+VA	Buckingham County	 17 032 	Clinton	 3 128 	 3 969 
+VA	Campbell County	 55 086 	Clinton	 6 597 	 19 442 
+VA	Caroline County	 29 984 	Clinton	 6 425 	 7 143 
+VA	Carroll County	 29 724 	Clinton	 2 557 	 10 653 
+VA	Charles City County	 7 040 	Clinton	 2 244 	 1 381 
+VA	Charlotte County	 12 201 	Clinton	 2 153 	 3 479 
+VA	Chesterfield County	 335 687 	Clinton	 80 993 	 84 938 
+VA	Clarke County	 14 363 	Clinton	 3 047 	 4 657 
+VA	Craig County	 5 211 	Clinton	 541 	 2 139 
+VA	Culpeper County	 49 432 	Clinton	 7 744 	 13 341 
+VA	Cumberland County	 9 719 	Clinton	 2 032 	 2 693 
+VA	Dickenson County	 15 115 	Clinton	 1 335 	 4 932 
+VA	Dinwiddie County	 27 852 	Clinton	 5 765 	 7 447 
+VA	Essex County	 11 130 	Clinton	 2 541 	 2 657 
+VA	Fairfax County	 1 142 234 	Clinton	 354 485 	 157 837 
+VA	Fauquier County	 68 782 	Clinton	 12 960 	 22 110 
+VA	Floyd County	 15 651 	Clinton	 2 300 	 5 289 
+VA	Fluvanna County	 26 235 	Clinton	 5 751 	 7 018 
+VA	Franklin County	 56 264 	Clinton	 7 254 	 18 560 
+VA	Frederick County	 83 199 	Clinton	 11 920 	 26 069 
+VA	Giles County	 16 708 	Clinton	 1 949 	 5 930 
+VA	Gloucester County	 37 143 	Clinton	 5 399 	 13 087 
+VA	Goochland County	 22 253 	Clinton	 4 884 	 8 374 
+VA	Grayson County	 16 012 	Clinton	 1 407 	 5 593 
+VA	Greene County	 19 162 	Clinton	 2 923 	 5 943 
+VA	Greensville County	 11 885 	Clinton	 2 558 	 1 737 
+VA	Halifax County	 35 125 	Clinton	 6 890 	 9 698 
+VA	Hanover County	 103 227 	Clinton	 19 360 	 39 592 
+VA	Henrico County	 325 155 	Clinton	 93 615 	 59 674 
+VA	Henry County	 51 881 	Clinton	 8 199 	 15 207 
+VA	Highland County	 2 214 	Clinton	 371 	 958 
+VA	Isle of Wight County	 36 314 	Clinton	 7 673 	 11 971 
+VA	James City County	 73 147 	Clinton	 19 091 	 21 284 
+VA	King and Queen County	 7 158 	Clinton	 1 451 	 2 059 
+VA	King George County	 25 515 	Clinton	 4 002 	 7 338 
+VA	King William County	 16 269 	Clinton	 2 752 	 5 963 
+VA	Lancaster County	 10 965 	Clinton	 2 862 	 3 520 
+VA	Lee County	 24 742 	Clinton	 1 627 	 7 542 
+VA	Loudoun County	 375 629 	Clinton	 99 909 	 69 633 
+VA	Louisa County	 34 602 	Clinton	 6 208 	 10 507 
+VA	Lunenburg County	 12 299 	Clinton	 2 226 	 3 206 
+VA	Madison County	 13 134 	Clinton	 2 202 	 4 418 
+VA	Mathews County	 8 862 	Clinton	 1 563 	 3 515 
+VA	Mecklenburg County	 31 081 	Clinton	 6 571 	 8 283 
+VA	Middlesex County	 10 606 	Clinton	 2 107 	 3 668 
+VA	Montgomery County	 97 653 	Clinton	 20 015 	 19 455 
+VA	Nelson County	 14 785 	Clinton	 3 677 	 4 150 
+VA	New Kent County	 20 392 	Clinton	 3 545 	 8 117 
+VA	Northampton County	 12 155 	Clinton	 3 255 	 2 686 
+VA	Northumberland County	 12 232 	Clinton	 2 830 	 5 089 
+VA	Nottoway County	 15 673 	Clinton	 2 829 	 3 712 
+VA	Orange County	 35 385 	Clinton	 5 955 	 10 511 
+VA	Page County	 23 726 	Clinton	 2 514 	 7 824 
+VA	Patrick County	 18 045 	Clinton	 1 768 	 6 454 
+VA	Pittsylvania County	 62 194 	Clinton	 9 195 	 21 742 
+VA	Powhatan County	 28 031 	Clinton	 4 057 	 11 875 
+VA	Prince Edward County	 22 952 	Clinton	 4 590 	 4 099 
+VA	Prince George County	 37 862 	Clinton	 6 419 	 9 157 
+VA	Prince William County	 451 721 	Clinton	 83 093 	 54 065 
+VA	Pulaski County	 34 332 	Clinton	 4 170 	 10 314 
+VA	Rappahannock County	 7 378 	Clinton	 1 741 	 2 532 
+VA	Richmond County	 8 908 	Clinton	 1 347 	 2 213 
+VA	Roanoke County	 94 409 	Clinton	 16 787 	 30 857 
+VA	Rockbridge County	 22 354 	Clinton	 3 506 	 6 671 
+VA	Rockingham County	 78 593 	Clinton	 9 361 	 25 269 
+VA	Russell County	 27 891 	Clinton	 2 328 	 9 516 
+VA	Scott County	 22 126 	Clinton	 1 579 	 8 242 
+VA	Shenandoah County	 43 190 	Clinton	 5 269 	 14 078 
+VA	Smyth County	 31 470 	Clinton	 2 661 	 9 747 
+VA	Southampton County	 18 109 	Clinton	 3 595 	 5 035 
+VA	Spotsylvania County	 130 475 	Clinton	 24 204 	 34 619 
+VA	Stafford County	 142 003 	Clinton	 27 879 	 33 840 
+VA	Surry County	 6 709 	Clinton	 2 069 	 1 785 
+VA	Sussex County	 11 715 	Clinton	 2 874 	 2 055 
+VA	Tazewell County	 42 899 	Clinton	 2 895 	 15 160 
+VA	Warren County	 39 083 	Clinton	 5 165 	 11 762 
+VA	Washington County	 54 591 	Clinton	 5 548 	 19 309 
+VA	Westmoreland County	 17 629 	Clinton	 3 723 	 4 331 
+VA	Wise County	 39 718 	Clinton	 2 687 	 11 983 
+VA	Wythe County	 29 119 	Clinton	 2 765 	 10 044 
+VA	York County	 67 837 	Clinton	 12 989 	 18 823 
+VA	Alexandria city	 153 511 	Clinton	 57 147 	 13 241 
+VA	Bristol city	 17 141 	Clinton	 1 832 	 4 884 
+VA	Buena Vista city	 6 618 	Clinton	 693 	 1 432 
+VA	Charlottesville city	 46 597 	Clinton	 17 865 	 2 951 
+VA	Chesapeake city	 235 429 	Clinton	 52 554 	 53 988 
+VA	Colonial Heights city	 17 820 	Clinton	 2 367 	 5 681 
+VA	Covington city	 5 658 	Clinton	 914 	 1 349 
+VA	Danville city	 42 082 	Clinton	 11 051 	 7 306 
+VA	Emporia city	 5 496 	Clinton	 1 531 	 792 
+VA	Fairfax city	 24 013 	Clinton	 7 363 	 3 695 
+VA	Falls Church city	 13 892 	Clinton	 5 810 	 1 323 
+VA	Franklin city	 8 490 	Clinton	 2 516 	 1 421 
+VA	Fredericksburg city	 28 118 	Clinton	 6 690 	 3 731 
+VA	Galax city	 6 914 	Clinton	 680 	 1 603 
+VA	Hampton city	 136 454 	Clinton	 41 030 	 17 802 
+VA	Harrisonburg city	 52 538 	Clinton	 10 100 	 6 232 
+VA	Hopewell city	 22 378 	Clinton	 4 722 	 3 885 
+VA	Lexington city	 7 262 	Clinton	 1 514 	 766 
+VA	Lynchburg city	 79 812 	Clinton	 14 787 	 17 979 
+VA	Manassas city	 41 764 	Clinton	 8 395 	 5 934 
+VA	Manassas Park city	 15 726 	Clinton	 3 218 	 1 732 
+VA	Martinsville city	 13 645 	Clinton	 3 531 	 2 149 
+VA	Newport News city	 182 385 	Clinton	 40 997 	 23 650 
+VA	Norfolk city	 246 393 	Clinton	 51 429 	 19 875 
+VA	Norton city	 3 939 	Clinton	 383 	 1 021 
+VA	Petersburg city	 32 477 	Clinton	 12 005 	 1 448 
+VA	Poquoson city	 12 059 	Clinton	 1 599 	 5 089 
+VA	Portsmouth city	 96 201 	Clinton	 28 462 	 12 773 
+VA	Radford city	 17 403 	Clinton	 2 923 	 2 637 
+VA	Richmond city	 220 289 	Clinton	 74 640 	 14 254 
+VA	Roanoke city	 99 897 	Clinton	 23 403 	 16 045 
+VA	Salem city	 25 432 	Clinton	 4 212 	 7 225 
+VA	Staunton city	 24 416 	Clinton	 5 329 	 5 129 
+VA	Suffolk city	 88 161 	Clinton	 23 012 	 17 206 
+VA	Virginia Beach city	 452 745 	Clinton	 76 744 	 84 389 
+VA	Waynesboro city	 21 491 	Clinton	 3 762 	 4 798 
+VA	Williamsburg city	 15 052 	Clinton	 5 199 	 1 921 
+VA	Winchester city	 27 284 	Clinton	 5 161 	 4 786 
+WA	Adams County	 19 254 	Clinton	 1 118 	 2 740 
+WA	Asotin County	 22 105 	Clinton	 3 118 	 5 712 
+WA	Benton County	 190 309 	Clinton	 25 173 	 45 594 
+WA	Chelan County	 75 644 	Clinton	 10 770 	 15 070 
+WA	Clallam County	 73 486 	Clinton	 15 154 	 15 685 
+WA	Clark County	 459 495 	Clinton	 90 697 	 90 590 
+WA	Columbia County	 3 944 	Clinton	 523 	 1 491 
+WA	Cowlitz County	 103 468 	Clinton	 17 842 	 24 066 
+WA	Douglas County	 40 534 	Clinton	 3 600 	 7 208 
+WA	Ferry County	 7 582 	Clinton	 1 091 	 2 178 
+WA	Franklin County	 88 807 	Clinton	 7 839 	 11 358 
+WA	Garfield County	 2 219 	Clinton	 276 	 841 
+WA	Grant County	 93 259 	Clinton	 7 768 	 18 482 
+WA	Grays Harbor County	 71 122 	Clinton	 11 378 	 13 269 
+WA	Island County	 80 593 	Clinton	 20 766 	 18 259 
+WA	Jefferson County	 30 466 	Clinton	 12 556 	 5 986 
+WA	King County	 2 117 125 	Clinton	 657 149 	 197 781 
+WA	Kitsap County	 260 131 	Clinton	 60 561 	 46 762 
+WA	Kittitas County	 43 269 	Clinton	 7 190 	 9 845 
+WA	Klickitat County	 21 026 	Clinton	 3 781 	 5 390 
+WA	Lewis County	 75 882 	Clinton	 7 236 	 16 273 
+WA	Lincoln County	 10 321 	Clinton	 1 238 	 4 095 
+WA	Mason County	 61 023 	Clinton	 11 872 	 13 539 
+WA	Okanogan County	 41 516 	Clinton	 3 980 	 6 305 
+WA	Pacific County	 20 848 	Clinton	 4 597 	 5 338 
+WA	Pend Oreille County	 13 088 	Clinton	 1 932 	 4 364 
+WA	Pierce County	 843 954 	Clinton	 160 306 	 136 046 
+WA	San Juan County	 16 252 	Clinton	 7 053 	 2 651 
+WA	Skagit County	 121 846 	Clinton	 26 076 	 24 330 
+WA	Skamania County	 11 339 	Clinton	 2 207 	 2 910 
+WA	Snohomish County	 772 501 	Clinton	 167 943 	 116 433 
+WA	Spokane County	 490 945 	Clinton	 86 590 	 103 846 
+WA	Stevens County	 43 791 	Clinton	 4 348 	 11 059 
+WA	Thurston County	 269 536 	Clinton	 65 015 	 46 219 
+WA	Wahkiakum County	 4 042 	Clinton	 824 	 1 328 
+WA	Walla Walla County	 60 338 	Clinton	 7 550 	 10 775 
+WA	Whatcom County	 212 284 	Clinton	 59 402 	 40 247 
+WA	Whitman County	 48 177 	Clinton	 5 521 	 5 462 
+WA	Yakima County	 248 830 	Clinton	 28 484 	 39 593 
+WV	Barbour County	 16 704 	Trump	 1 213 	 4 509 
+WV	Berkeley County	 111 901 	Trump	 12 287 	 28 210 
+WV	Boone County	 23 372 	Trump	 1 783 	 6 483 
+WV	Braxton County	 14 415 	Trump	 1 315 	 3 516 
+WV	Brooke County	 23 350 	Trump	 2 549 	 6 574 
+WV	Cabell County	 96 844 	Trump	 11 306 	 19 648 
+WV	Calhoun County	 7 470 	Trump	 456 	 2 023 
+WV	Clay County	 8 910 	Trump	 566 	 2 289 
+WV	Doddridge County	 8 176 	Trump	 360 	 2 347 
+WV	Fayette County	 44 997 	Trump	 4 246 	 10 263 
+WV	Gilmer County	 8 518 	Trump	 537 	 1 889 
+WV	Grant County	 11 766 	Trump	 510 	 4 338 
+WV	Greenbrier County	 35 516 	Trump	 3 743 	 9 499 
+WV	Hampshire County	 23 353 	Trump	 1 576 	 6 646 
+WV	Hancock County	 29 815 	Trump	 3 247 	 8 870 
+WV	Hardy County	 13 852 	Trump	 1 249 	 4 544 
+WV	Harrison County	 68 714 	Trump	 7 675 	 18 687 
+WV	Jackson County	 29 237 	Trump	 2 648 	 8 959 
+WV	Jefferson County	 56 482 	Trump	 9 458 	 13 144 
+WV	Kanawha County	 188 332 	Trump	 27 985 	 43 464 
+WV	Lewis County	 16 448 	Trump	 1 336 	 5 245 
+WV	Lincoln County	 21 415 	Trump	 1 435 	 5 257 
+WV	Logan County	 34 707 	Trump	 2 082 	 9 866 
+WV	McDowell County	 19 835 	Trump	 1 429 	 4 614 
+WV	Marion County	 56 925 	Trump	 6 926 	 14 592 
+WV	Marshall County	 31 978 	Trump	 2 894 	 9 565 
+WV	Mason County	 27 037 	Trump	 2 069 	 7 597 
+WV	Mercer County	 61 164 	Trump	 4 689 	 17 362 
+WV	Mineral County	 27 451 	Trump	 2 019 	 8 957 
+WV	Mingo County	 25 292 	Trump	 1 365 	 7 876 
+WV	Monongalia County	 104 236 	Trump	 14 568 	 18 278 
+WV	Monroe County	 13 506 	Trump	 1 089 	 4 337 
+WV	Morgan County	 17 524 	Trump	 1 568 	 5 718 
+WV	Nicholas County	 25 594 	Trump	 1 821 	 7 169 
+WV	Ohio County	 43 066 	Trump	 5 452 	 11 077 
+WV	Pendleton County	 7 229 	Trump	 726 	 2 388 
+WV	Pleasants County	 7 674 	Trump	 620 	 2 342 
+WV	Pocahontas County	 8 607 	Trump	 924 	 2 474 
+WV	Preston County	 33 940 	Trump	 2 462 	 9 501 
+WV	Putnam County	 56 848 	Trump	 5 784 	 17 455 
+WV	Raleigh County	 77 510 	Trump	 6 362 	 21 835 
+WV	Randolph County	 29 126 	Trump	 2 724 	 7 583 
+WV	Ritchie County	 9 982 	Trump	 490 	 3 376 
+WV	Roane County	 14 435 	Trump	 1 220 	 3 772 
+WV	Summers County	 13 239 	Trump	 1 186 	 3 444 
+WV	Taylor County	 16 912 	Trump	 1 483 	 4 701 
+WV	Tucker County	 6 966 	Trump	 750 	 2 557 
+WV	Tyler County	 8 975 	Trump	 505 	 2 967 
+WV	Upshur County	 24 758 	Trump	 1 763 	 6 971 
+WV	Wayne County	 40 971 	Trump	 3 334 	 11 077 
+WV	Webster County	 8 755 	Trump	 554 	 2 284 
+WV	Wetzel County	 15 816 	Trump	 1 348 	 4 461 
+WV	Wirt County	 5 880 	Trump	 383 	 1 903 
+WV	Wood County	 86 452 	Trump	 8 327 	 25 168 
+WV	Wyoming County	 22 151 	Trump	 1 061 	 6 527 
+WI	Adams County	 20 148 	Trump	 3 780 	 5 983 
+WI	Ashland County	 15 843 	Trump	 4 136 	 3 428 
+WI	Barron County	 45 563 	Trump	 7 881 	 13 595 
+WI	Bayfield County	 14 977 	Trump	 4 953 	 4 125 
+WI	Brown County	 258 718 	Trump	 53 358 	 67 192 
+WI	Buffalo County	 13 192 	Trump	 2 531 	 4 049 
+WI	Burnett County	 15 159 	Trump	 2 948 	 5 412 
+WI	Calumet County	 49 762 	Trump	 9 634 	 15 345 
+WI	Chippewa County	 63 531 	Trump	 11 875 	 17 912 
+WI	Clark County	 34 445 	Trump	 4 225 	 8 645 
+WI	Columbia County	 56 743 	Trump	 13 525 	 14 160 
+WI	Crawford County	 16 391 	Trump	 3 426 	 3 844 
+WI	Dane County	 523 643 	Trump	 217 506 	 71 270 
+WI	Dodge County	 88 502 	Trump	 13 968 	 26 643 
+WI	Door County	 27 554 	Trump	 8 026 	 8 584 
+WI	Douglas County	 43 601 	Trump	 11 342 	 9 657 
+WI	Dunn County	 44 497 	Trump	 9 025 	 11 487 
+WI	Eau Claire County	 102 105 	Trump	 27 271 	 23 301 
+WI	Florence County	 4 464 	Trump	 666 	 1 897 
+WI	Fond du Lac County	 101 973 	Trump	 17 391 	 31 044 
+WI	Forest County	 9 057 	Trump	 1 583 	 2 787 
+WI	Grant County	 52 250 	Trump	 10 047 	 12 347 
+WI	Green County	 37 186 	Trump	 9 121 	 8 693 
+WI	Green Lake County	 18 856 	Trump	 2 700 	 6 210 
+WI	Iowa County	 23 813 	Trump	 6 669 	 4 809 
+WI	Iron County	 5 794 	Trump	 1 273 	 2 090 
+WI	Jackson County	 20 554 	Trump	 3 821 	 4 907 
+WI	Jefferson County	 84 559 	Trump	 16 559 	 23 409 
+WI	Juneau County	 26 224 	Trump	 4 100 	 7 188 
+WI	Kenosha County	 168 437 	Trump	 35 770 	 36 025 
+WI	Kewaunee County	 20 366 	Trump	 3 623 	 6 616 
+WI	La Crosse County	 118 212 	Trump	 32 402 	 26 384 
+WI	Lafayette County	 16 829 	Trump	 3 288 	 3 977 
+WI	Langlade County	 19 223 	Trump	 3 260 	 6 436 
+WI	Lincoln County	 27 980 	Trump	 5 370 	 8 400 
+WI	Manitowoc County	 79 806 	Trump	 14 563 	 23 234 
+WI	Marathon County	 135 868 	Trump	 26 476 	 39 010 
+WI	Marinette County	 40 884 	Trump	 6 243 	 12 995 
+WI	Marquette County	 15 075 	Trump	 2 808 	 4 712 
+WI	Menominee County	 4 573 	Trump	 1 003 	 269 
+WI	Milwaukee County	 957 735 	Trump	 288 986 	 126 091 
+WI	Monroe County	 45 549 	Trump	 7 047 	 11 442 
+WI	Oconto County	 37 435 	Trump	 5 886 	 13 255 
+WI	Oneida County	 35 567 	Trump	 8 103 	 11 677 
+WI	Outagamie County	 183 245 	Trump	 38 117 	 51 579 
+WI	Ozaukee County	 87 850 	Trump	 20 167 	 30 458 
+WI	Pepin County	 7 290 	Trump	 1 345 	 2 228 
+WI	Pierce County	 40 889 	Trump	 8 380 	 11 260 
+WI	Polk County	 43 441 	Trump	 7 568 	 13 864 
+WI	Portage County	 70 408 	Trump	 18 524 	 17 310 
+WI	Price County	 13 645 	Trump	 2 671 	 4 562 
+WI	Racine County	 195 080 	Trump	 42 506 	 46 620 
+WI	Richland County	 17 495 	Trump	 3 577 	 4 021 
+WI	Rock County	 161 448 	Trump	 39 336 	 31 483 
+WI	Rusk County	 14 124 	Trump	 2 171 	 4 564 
+WI	St. Croix County	 87 513 	Trump	 17 496 	 26 123 
+WI	Sauk County	 63 642 	Trump	 16 050 	 15 871 
+WI	Sawyer County	 16 376 	Trump	 2 846 	 4 625 
+WI	Shawano County	 41 304 	Trump	 6 056 	 12 742 
+WI	Sheboygan County	 115 569 	Trump	 22 636 	 32 368 
+WI	Taylor County	 20 455 	Trump	 2 398 	 6 589 
+WI	Trempealeau County	 29 550 	Trump	 5 645 	 7 370 
+WI	Vernon County	 30 506 	Trump	 6 351 	 6 994 
+WI	Vilas County	 21 387 	Trump	 4 769 	 8 169 
+WI	Walworth County	 102 804 	Trump	 18 706 	 28 848 
+WI	Washburn County	 15 552 	Trump	 3 283 	 5 404 
+WI	Washington County	 133 674 	Trump	 20 854 	 51 729 
+WI	Waukesha County	 396 488 	Trump	 79 199 	 145 519 
+WI	Waupaca County	 51 945 	Trump	 8 303 	 16 013 
+WI	Waushara County	 24 033 	Trump	 3 802 	 7 669 
+WI	Winnebago County	 169 546 	Trump	 37 054 	 43 447 
+WI	Wood County	 73 435 	Trump	 14 232 	 21 502 
+WY	Albany County	 37 956 	Trump	 6 888 	 7 601 
+WY	Big Horn County	 12 022 	Trump	 594 	 4 067 
+WY	Campbell County	 49 220 	Trump	 1 324 	 15 778 
+WY	Carbon County	 15 559 	Trump	 1 279 	 4 409 
+WY	Converse County	 14 236 	Trump	 668 	 5 520 
+WY	Crook County	 7 444 	Trump	 271 	 3 347 
+WY	Fremont County	 40 315 	Trump	 4 200 	 11 167 
+WY	Goshen County	 13 383 	Trump	 924 	 4 418 
+WY	Hot Springs County	 4 741 	Trump	 400 	 1 939 
+WY	Johnson County	 8 585 	Trump	 638 	 3 477 
+WY	Laramie County	 97 121 	Trump	 11 572 	 24 844 
+WY	Lincoln County	 18 722 	Trump	 1 105 	 6 779 
+WY	Natrona County	 82 178 	Trump	 6 573 	 23 523 
+WY	Niobrara County	 2 542 	Trump	 115 	 1 116 
+WY	Park County	 29 228 	Trump	 2 535 	 11 115 
+WY	Platte County	 8 812 	Trump	 719 	 3 437 
+WY	Sheridan County	 30 009 	Trump	 2 926 	 10 266 
+WY	Sublette County	 9 899 	Trump	 644 	 3 409 
+WY	Sweetwater County	 44 626 	Trump	 3 233 	 12 153 
+WY	Teton County	 23 125 	Trump	 7 313 	 3 920 
+WY	Uinta County	 20 822 	Trump	 1 202 	 6 154 
+WY	Washakie County	 8 328 	Trump	 532 	 2 911 
+WY	Weston County	 7 234 	Trump	 294 	 2 898 

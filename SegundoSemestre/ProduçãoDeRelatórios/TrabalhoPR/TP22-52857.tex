@@ -1,0 +1,180 @@
+\documentclass[11pt]{report}
+
+%----------- PACOTES ---------%
+\usepackage[latin1,utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{amssymb}
+\usepackage{eurosym}
+\usepackage{amsmath}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+\usepackage[nottoc,notlot,notlof]{tocbibind} % Faz a bibliografia aparecer no Índice
+\usepackage{xcolor,colortbl}
+\usepackage{pgfplots}
+\usepackage{pgf-pie}
+\usepackage{graphicx}
+%-----------------------------%
+
+%----------- CORES ----------%
+\definecolor{aquamarine}{rgb}{0.5, 1.0, 0.83}
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+%-----------------------------%
+
+
+\begin{document}
+
+%----------- TÍTULO ----------%
+\title{Finanças Pessoais\\
+Produção de Relatórios}
+\author{Ernesto Fernandes González\\
+nº 52857 \quad TP 22 \\
+email: efergo9@gmail.com\\
+Licenciatura em Física}
+\date{2018/2019}
+\maketitle
+%-----------------------------%
+\tableofcontents
+
+\chapter{Introdução}
+Tem havido uma crescente atenção à iliteracia financeira das camadas mais jovens da população. As finanças pessoais podem ser vistas como inacessíveis devido à terminologia difícil de compreender. Frequentemente, alguns dos assuntos que seriam de fácil entendimento permanecem inexplorados devido a esta barreira linguística.
+As exigências da vida moderna frequentemente implicam que as pessoas não têm tempo em assuntos aparentemente não urgentes. A planificação ou pesquisa de produtos financeiros pode facilmente ser vista como algo para ser feito na próxima semana, no próximo mês, ou no próximo ano, especialmente quando o trabalho ou os estudos deixam pouco tempo para relaxar.\\
+Seguindo esta iliteracia financeira e redundância das pessoas quanto ao tema, houve avanços significativos quanto a recursos informativos e dados de fácil acesso, graças à internet, que permitem a educação do indivíduo.
+Uma pessoa financeiramente segura é alguém que é financeiramente literado, está em controlo da situação financeira, e que toma o seu tempo para realizar  uma revisão regular das suas finanças e pôr os seus planos em ação \cite{king}.\\
+A secção mais importante das finanças pessoais é a gestão de rendimentos e gastos. O indivíduo deve limitar os seus gastos ao seu rendimento mensal, para sobreviver, ou mesmo a uma fração do seu rendimento para permitir um crescimento financeiro a longo prazo.
+Para melhor entendimento do tema, vamos proceder ao estudo de um caso real. Procederemos à leitura e interpretação do balanço pessoal de um estudante-trabalhador.
+
+\pagebreak
+\begin{multicols}{2}
+[ A realização de um orçamento pessoal tem as suas vantagens e desvantagens\cite{cohen}. De seguida apresentamos alguns pontos interessantes: ]
+
+Desvantagens:
+\begin{itemize}
+	\item Tempo requerido para recolha de dados e especialização;
+	\item Custos; 
+	\item Revisão e atenção; 
+\end{itemize}
+Vantagens:
+\begin{itemize}
+	\item Poder de decisão; 
+	\item Disponibilidade financeira; 
+	\item Planeamento e contabilidade
+\end{itemize}
+\end{multicols}
+
+
+
+\chapter{Caso de Estudo}
+Aqui procedemos à apresentação da informação financeira do indivíduo. Trata-se de um estudante universitário e trabalhador que vive na zona metropolitana de Lisboa. Atente-se às seguintes tabelas e gráficos para descrição mais detalhada.
+Atendendo à condição de evitar saldos mensais negativos, retirou-se dos cálculos qualquer custo relacionado com a mota, visto esta ser prescindível.
+
+\begin{table} [h]
+$$\begin{array}{|>{\columncolor{airforceblue}}c|c|c|c|c|c|c|c|} \hline
+\rowcolor{airforceblue} \text{PLANEAMENTO} & \text{Janeiro} & \text{Fevereiro} & \text{Março} & \text{Abril} & \text{Maio} & \text{Junho} & \text{TOTAL} \\ \hline
+\rowcolor{aquamarine} \text{RENDIMENTOS} & 534 & 534 & 534 & 534 & 534 & 534 & 3204 \\ \hline
+\text{Salário} & 600 & 600 & 600 & 600 & 600 & 600 & 3600 \\ \hline
+\rowcolor{aquamarine} \text{HABITAÇÃO} & 244.47 & 261.58 & 266.78 & 282.63 & 249.68 & 259.26 & 1564.40 \\ \hline
+\text{Aluguer} & 150 & 150 & 150 & 150 & 150 & 150 & 900 \\ \hline
+\text{Supermercado} & 40.32 & 55.28 & 61.43 & 35.99 & 44.43 & 52.21 & 289.66 \\ \hline
+\text{Alimentação} & 54.15 & 56.30 & 55.35 & 54.15 & 55.25 & 57.05 & 332.15 \\ \hline
+\rowcolor{aquamarine} \text{SAÚDE} & 5.80 & 3.15 & - & - & 15.30 & 80 & 104.25 \\ \hline
+\text{Médicos} & - & - & - & - & - & 80 & 80 \\ \hline
+\text{Medicamentos} & 5.80 & 3.15 & - & - & 15.30 & - & 24.25 \\ \hline
+\rowcolor{aquamarine} \text{TRANSPORTES} & 72 & 72 & 84.25 & 30 & 30 & 30 & 318.25 \\ \hline
+\text{Passe} & 72 & 72 & 72 & 30 & 30 & 30 & 306 \\ \hline
+\text{Camioneta} & - & - & - & - & - & - & - \\ \hline
+\text{Comboio} & - & - & 12.25 & - & - & - & - \\ \hline
+\rowcolor{aquamarine} \text{DESPESAS PESSOAIS} & 30.52 & 17.70 & 15.52 & 15.90 & 5.72 & 7.90 & 93.26 \\ \hline
+\text{Higiene Pessoal} & 5.72 & 7.90 & 5.72 & 7.90 & 5.72 & 7.90 & 40.86 \\ \hline
+\text{Vestuário} & 15.00 & - & - & 8.00 & - & - & 23.00 \\ \hline
+\text{Telemóvel} & 9.80 & 9.80 & 9.80 & - & - & - & 29.40 \\ \hline
+\rowcolor{aquamarine} \text{LAZER} & 11.85 & 19.00 & - & 3.50 & 27.00 & 3.50 & 64.85 \\ \hline
+\text{Restaurantes} & 8.35 & - & - & - & - & - & 8.35 \\ \hline
+\text{Bares/Discotecas} & - & 12.00 & - & - & 20.00 & - & 32.00 \\ \hline
+\text{Cinema} & 3.50 & 7.00 & - & 3.50 & 7.00 & 3.50 & 24.50 \\ \hline
+\rowcolor{aquamarine} \text{ENSINO} & 150 & 132.8 & 131.30 & 130 & 1.30 & 2.80 & 548.20 \\ \hline
+\text{Propinas e Taxas} & 130 & 130 & 130 & 130 & - & - & 520 \\ \hline
+\text{Material Escolar} & 20 & 2.80 & 1.30 & - & 1.30 & 2.80 & 28.20 \\ \hline
+\end{array}$$
+\caption{Rendimentos e gastos mensais, divididos por setores. Os valores são apresentados em euros(\euro)}
+\end{table}
+
+\begin{table} [h]
+$$\begin{array}{|>{\columncolor{airforceblue}}c|c|c|c|c|c|c|c|} \hline
+\rowcolor{airforceblue} \text{RESUMO} & \text{Janeiro} & \text{Fevereiro} & \text{Março} & \text{Abril} & \text{Maio} & \text{Junho} & \text{TOTAL} \\ \hline
+\text{Rendimentos} & 534 & 534 & 534 & 534 & 534 & 534 & 3204.00 \\ \hline
+\text{Gastos} & 514.64 & 506.23 & 497.85 & 462.03 & 329 & 383.46 & 2693.21 \\ \hline
+\text{Saldos do mês} & 19.36 & 27.77 & 36.15 & 71.97 & 205 & 150.54 & 510.79 \\ \hline
+\text{Saldo acumulado} & 19.36 & 47.13 & 83.28 & 155.25 & 360.25 & 510.79 & 510.79 \\ \hline
+\end{array}$$
+\caption{Rendimento e gastos totais mensais e balanço financeiro. Os valores são apresentados em euros(\euro)}
+\end{table}
+
+\begin{table} [h]
+$$\begin{array}{|>{\columncolor{airforceblue}}c|c|} \hline
+\rowcolor{airforceblue} \text{As contas} & \text{Total} \\ \hline
+\text{Rendimentos} & 3204 \\ \hline
+\text{Habitação} & 1307.51 \\ \hline
+\text{Saúde} & 104.25 \\ \hline
+\text{Transportes} & 318.25 \\ \hline
+\text{Despesas pessoais} & 93.26 \\ \hline
+\text{Lazer} & 64.85 \\ \hline
+\text{Escola} & 584.20 \\ \hline
+\end{array}$$
+\caption{Rendimentos e gastos totais, divididos por setores. Os valores são apresentados em euros(\euro)}
+\end{table}
+
+\begin{figure} [t]
+    \begin{tikzpicture}
+\begin{axis}[
+    title= Rendimentos versus Gastos,
+    width=7.8cm,
+    enlargelimits=0.15,
+    legend style={at={(0.5,-0.15)},
+    anchor=north,legend columns=-1},
+    ylabel={Euros},
+    ymin=0, ymax= 600,
+    symbolic x coords={Janeiro, Fevereiro, Marco, Abril, Maio, Junho},
+    xtick=data,
+    x tick label style={rotate=45,anchor=east},
+    nodes near coords align={vertical},
+    ]
+\addplot[ybar, nodes near coords, fill=black!10] 
+    coordinates {(Janeiro,534) (Fevereiro,534) (Marco,534) (Abril,534) (Maio,534) (Junho,534)};
+\addplot[draw=blue,ultra thick] 
+    coordinates {(Janeiro,514.64) (Fevereiro,506.23) (Marco,497.85) (Abril,462.03) (Maio,329) (Junho,383.46)};
+	\legend{$Rendimentos$,$Gastos$}
+\end{axis}
+    \end{tikzpicture}
+    \label{figura2.1}
+    \caption{Rendimentos versus Gastos}
+\end{figure}
+
+
+\begin{figure} [b]
+\centering
+\begin{tikzpicture}
+\pie [rotate = 180, text = legend, explode = 0.2, color = {blue,green,red,yellow,orange,purple}]
+    {58.09/Habitação,
+     3.87/Saúde, 11.82/Transportes, 3.46/Despesas Pessoais, 2.41/Lazer, 20.35/Ensino}
+\end{tikzpicture}
+\caption{Despesas em Percentagem}
+\end{figure}
+
+
+\chapter{Conclusão}
+O seguimento periódico do balanço pessoal de um indivíduo é importante para o seu crescimento financeiro. Negligenciando esta atividade, facilmente se pode chegar a saldos negativos, resultando em dívidas. Ademais, um bom planeamento e estudo dos rendimentos e gastos permite incrementar saldos positivos através do corte de despesas desnecessárias, tal como fizemos com a mota: era prescindível uma vez que o indivíduo em estudo já possuía passe de transporte que permitia a sua deslocação pela zona metropolitana de Lisboa. Vimos que os meses mais melhor balanço foram Maio e Junho  Figuras ~\ref{figura2.1}.
+
+
+\begin{thebibliography}{1}
+
+  \bibitem{king} Jane King, Mary Carey {\em Personal Finance}  2017:
+  Oxford.
+
+  \bibitem{cohen} Jerome B. Cohen, Arthur W. Hanson {\em Personal Finance: Principles and Case Problems} 1972. Homewood: Richard D. Irwin. 
+
+
+\end{thebibliography}
+
+
+
+\end{document}

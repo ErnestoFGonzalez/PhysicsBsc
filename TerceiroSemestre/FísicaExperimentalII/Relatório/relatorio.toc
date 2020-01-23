@@ -1,0 +1,7 @@
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}Resumo}{2}% 
+\contentsline {chapter}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o}{3}% 
+\contentsline {chapter}{\numberline {3}Procedimento e Equipamento}{4}% 
+\contentsline {chapter}{\numberline {4}Resultados}{5}% 
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o}{12}% 
+\contentsline {chapter}{Bibliografia}{13}% 

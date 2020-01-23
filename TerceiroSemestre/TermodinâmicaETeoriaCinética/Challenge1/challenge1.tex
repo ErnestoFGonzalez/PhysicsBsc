@@ -1,0 +1,104 @@
+\documentclass[12pt, twoside, a4paper]{article}
+
+\usepackage{graphicx}
+\usepackage{color}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{enumerate}
+
+\begin{document}
+
+%%%%%%%%%%%%%%Título%%%%%%%%%%%%%%%%%%
+\title{Challenge 1}
+\author{João Cordeiro 53688\\José Lopes 52878\\João Olívia 52875\\Ernesto González 52857}
+\date{2019-2020}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Problema 1}
+Considere-se uma expansão adiabática reversível do gás ideal entre um estado inicial 1 e um estado final 2. Mostre que:
+\begin{enumerate} [a)]
+  \item $W_{1\rightarrow 2}=-\frac{3}{2}NK_B(T_1-T_2)$ \\
+    \begin{proof}
+      Tem-se que, para um processo adiabático $$dQ=0, $$ então pela 1ª Lei da Termodinâmica vem $$dU = dQ+ dW=dW. $$\\
+      Por outro lado, para o gás ideal, $$dU=C_VdT,$$ com $C_V =\frac{3}{2}NK_B.$\\
+      Então obtemos que $$dW=C_VdT=\frac{3}{2}NK_BdT. $$\\
+      Integrando, entre 1 e 2
+      $$W_{1\rightarrow2}= \int_{T_1}^{T_2}\frac{3}{2}NK_BdT=\frac{3}{2}NK_B\int_{T_1}^{T_2}dT $$
+      \begin{equation}
+        W_{1\rightarrow2}=\frac{3}{2}NK_B(T_2-T_1)=-\frac{3}{2}NK_B(T_1-T_2)
+      \end{equation}
+    \end{proof}
+
+  \item $W_{1\rightarrow 2}=\frac{p_2V_2-p_1V_1}{\gamma-1}$ \\
+    \begin{proof}
+      De (1) $$W_{1\rightarrow2}=-\frac{3}{2}NK_BT_1+\frac{3}{2}NK_BT_2 $$
+      Recordando que para o gás ideal, $pV=NK_BT$ vem
+      $$W_{1\rightarrow2}=\frac{3}{2}(p_2V_2-p_1V_1)=\frac{p_2V_2-p_1V_1}{\frac{2}{3}}=\frac{p_2V_2-p_1V_1}{\frac{5}{3}-1}.$$
+      Sabendo que o índice adiabático é $\gamma=\frac{C_p}{C_V}=\frac{5}{3}$ e fácil ver que
+      \begin{equation}
+        W_{1\rightarrow2}=\frac{p_2V_2-p_1V_1}{\gamma-1}.
+      \end{equation}
+    \end{proof}
+
+  \item $W_{1\rightarrow 2}= \frac{p_2V_2}{\gamma-1}\left[1-\left(\frac{p_1}{p_2}\right)^{\frac{\gamma-1}{\gamma}}\right]$
+    \begin{proof}
+      Para uma expansão adiabática do gás ideal reversível obteve-se em aula o seguinte resultado:
+      \begin{equation}
+        \frac{p_2V_2}{p_1V_1}=\left(\frac{V_1}{V_2}\right)^{\gamma-1}
+    \end{equation}
+    De (3) vem $$p_1V_1=p_2V_2\left(\frac{V_2}{V_1}\right)^{\gamma-1}.$$ Substituindo em (2),
+    \begin{equation}
+      W_{1\rightarrow2}=\frac{p_2V_2-p_2V_2\left(\frac{V_2}{V_1}\right)^{\gamma-1}}{\gamma-1}=\frac{p_2V_2}{\gamma-1}\left[1-\left(\frac{V_2}{V_1}\right)^{\gamma-1}\right].
+    \end{equation}
+    Mais uma vez, de (3) vem
+    $$\frac{p_2}{p_1}=\left(\frac{V_1}{V_2}\right)^{\gamma} \iff \frac{V_1}{V_2}=\left(\frac{p_2}{p_1}\right)^{\frac{1}{\gamma}} \iff \frac{V_2}{V_1}=\left(\frac{p_1}{p_2}\right)^{\frac{1}{\gamma}}.$$
+    Substituindo em (4), ficamos com
+    $$W_{1\rightarrow2}=\frac{p_2V_2}{\gamma-1}\left[1-\left(\frac{p_1}{p_2}\right)^{\frac{\gamma-1}{\gamma}}\right] $$
+    \end{proof}
+\end{enumerate}
+
+\section{Problema 2}
+Partindo de $U=U(V,p)$, mostre que:
+$$C_p=\left[p\left(\frac{\partial V}{\partial T}\right)_p+\left(\frac{\partial U}{\partial T}\right)_p\right]. $$
+
+\begin{proof}
+  Como $U=U(V,p)$, pela regra da cadeia surge
+  \begin{equation}
+     dU = \left(\frac{\partial U}{\partial V}\right)_p dV + \left(\frac{\partial U}{\partial p}\right)_V dp.
+  \end{equation}
+  Pela 1ª Lei da Termodinâmica, sabemos que $dU=dQ+dW$ e $dQ=CdT$. Tratando-se de trabalho reversível, vem $dW=-pdV$. Substituíndo em (5) vem
+  \begin{equation}
+    dU=CdT-pdV.
+  \end{equation}
+  Por (5) e (6),
+  $$CdT-pdV=\left(\frac{\partial U}{\partial V}\right)_p dV+\left(\frac{\partial U}{\partial p}\right)_V dp $$
+  Tomando $V=V(T,p)$, da regra da cadeia surge
+  \begin{equation}
+    dV=\left(\frac{\partial V}{\partial T}\right)_p dT + \left(\frac{\partial V}{\partial p}\right)_T dp.
+  \end{equation}
+  $$CdT-p\left[\left(\frac{\partial V}{\partial T}\right)_p dT + \left(\frac{\partial V}{\partial p}\right)_T + dp\right]=\left(\frac{\partial U}{\partial V}\right)_p dV + \left(\frac{\partial U}{\partial p}\right)_V dp $$
+  $$CdT -p\left(\frac{\partial V}{\partial T}\right)_p dT - p\left(\frac{\partial V}{\partial p}\right)_T dp =\left(\frac{\partial U}{\partial V}\right)_p dV + \left(\frac{\partial U}{\partial p}\right)_v dp $$
+  Se $p$ for constante, vem $dp = 0$, e portanto,
+  $$CdT-p\left(\frac{\partial V}{\partial T}\right)_p dT = \left(\frac{\partial U}{\partial V}\right)_p dV. $$
+  Por (7) vem,
+  $$CdT-p\left(\frac{\partial V}{\partial T}\right)_p dT = \left(\frac{\partial U}{\partial V}\right)_p \left(\frac{\partial V}{\partial T}\right)_p dT. $$
+  Pela regra da cadeia,
+  $$CdT - p\left(\frac{\partial V}{\partial T}\right)_p dT = \left(\frac{\partial U}{\partial T}\right)_p dT $$
+  $$C_p = \left[p\left(\frac{\partial V}{\partial T}\right)_p + \left(\frac{\partial U}{\partial T}\right)\right]$$
+  em que $C_p$ é a capacidade calorífica a pressão constante.
+\end{proof}
+
+\section{Problema 3}
+Numa canção de paródia à ciência Flanders e Swan sumarizam a primeira lei da termodinâmica dizendo que \textit{heat is work and work is heat}. Comente.\\
+Tendo em conta que tanto trabalho ("work") como calor ("heat") são entidades energéticas, então podemos afirmar que são "interchangeable" pelo que são manifestações diferentes da mesma entidade - energia. Segundo Einstein, até massa podia entrar na letra da paródia.
+
+
+\end{document}
